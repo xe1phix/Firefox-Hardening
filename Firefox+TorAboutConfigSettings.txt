@@ -1,0 +1,426 @@
+
+## #################################################################### ##
+## Firefox+TorAboutConfigSettings.txt
+## #################################################################### ##
+## Firefox (and Tor) About:Config settings
+## 8.18 KB
+## >>> READ!!! THESE SETTINGS ARE NOT CONFIGURED IN TOR BY DEFAULT! :
+ 
+Cookies are Enabled
+Referer is not Hidden
+Javascript is Enabled
+Tab History is Enabled
+Local Storage is Enabled
+Fonts are Enabled
+ 
+browser.cache.disk.capacity
+browser.cache.offline.capacity
+network.http.sendRefererHeader
+network.http.referer.XOriginPolicy
+network.http.referer.spoofSource
+network.http.referer.trimmingPolicy
+dom.storage.enabled
+webgl.disabled
+browser.sessionhistory.max_total_viewers
+breakpad.reportURL
+browser.send_pings.require_same_host
+beacon.enable
+dom.event.clipboardevents.enabled
+ 
+security.ssl3.ecdhe_ecdsa_rc4_128_sha
+security.ssl3.ecdhe_rsa_rc4_128_sha
+security.ssl3.rsa_rc4_128_md5
+security.ssl3.rsa_rc4_128_sha
+ 
+Here's the Screenshot I took showing the Tor Default Settings > http://tinyurl.com/TorDefault
+Here's the Screenshot I took showing Tor after my Security Tweaks > http://tinyurl.com/TorAnonA9
+ 
+----------------------------------------------------------------
+ 
+- About:Config -  
+ 
+Your browser/computer might be leaking DNS queries, you can save some kilobytes of transfer by disabling DNS-Prefetching and Link-Prefetching (network.dns.disablePrefetch - True). One very important option is to disable Canvas support > https://addons.mozilla.org/en-US/firefox/addon/canvasblocker
+ 
+CanvasBlocker | About:Addons > CanvasBlocker Options > Block Mode: Block Everything
+ 
+----------------------------------------------------------------
+ 
+Recommended User Agent:
+New String > general.useragent.override > Mozilla/5.0 (X11; Linux i686; rv:31.0) Gecko/20100101 Firefox/31.0
+ 
+----------------------------------------------------------------
+ 
+WebRTC can be used to check your local IP address, so for privacy and security reasons you might want to disable it: media.peerconnection.enabled (False)
+ 
+----------------------------------------------------------------
+ 
+There is a built-in module in Firefox that improves your security, but steals your privacy and anonymity. The module reports what you download to Google servers to check if the file is infected with any kind of malware.
+ 
+browser.safebrowsing.appRepURL (Blank)
+browser.safebrowsing.downloads.enabled (False)
+browser.safebrowsing.enabled (False)
+browser.safebrowsing.gethashURL (Blank)
+browser.safebrowsing.malware.enabled (False)
+browser.safebrowsing.malware.reportURL (Blank)
+browser.safebrowsing.reportErrorURL (Blank)
+browser.safebrowsing.reportGenericURL (Blank)
+browser.safebrowsing.reportMalwareErrorURL (Blank)
+browser.safebrowsing.reportMalwareURL (Blank)
+browser.safebrowsing.reportPhishURL (Blank)
+browser.safebrowsing.reportURL (Blank)
+browser.safebrowsing.updateURL (Blank)
+services.sync.prefs.sync.browser.safebrowsing.enabled (False)
+services.sync.prefs.sync.browser.safebrowsing.malware.enabled (False)
+ 
+As for Google’s services in Firefox > Set the value of geo.wifi.uri to http://127.0.0.1 (or blank). Firefox uses Google Location Service to determine your physical location, disable it by changing geo.enabled to false.
+ 
+----------------------------------------------------------------
+ 
+You shouldn't save any data for caching on your drive, it can be easily recovered even after a long time.
+ 
+browser.cache.disk.enable (False)
+browser.cache.offline.enable (False)
+browser.cache.disk.capacity (0)
+browser.cache.offline.capacity (0)
+ 
+----------------------------------------------------------------
+ 
+- Hiding your referrers -
+ 
+network.http.sendRefererHeader | Determines when to send the Referer HTTP header.
+ 
+0: Never send the referring URL
+1: Send only on clicked links
+2 (default): Send for links and images
+ 
+^ Set it to 1, or to 0 ^ (0 is the better option but may break a few websites)
+ 
+----------------------------------------------------------------
+ 
+network.http.referer.XOriginPolicy
+ 
+0 (default): Always send
+1: Send if base domains match
+2: Send if hosts match
+ 
+^ Set it to 1 ^
+ 
+----------------------------------------------------------------
+ 
+network.http.referer.spoofSource:
+ 
+false (default): real referer
+true: spoof referer (use target URI as referer)
+ 
+^ Set it to true ^
+ 
+----------------------------------------------------------------
+ 
+network.http.referer.trimmingPolicy:
+ 
+0 (default): send full URI
+1: scheme+host+port+path
+2: scheme+host+port
+ 
+^ Set it to 2 ^
+ 
+################ Updated Here ################
+ 
+Add-ons I use:
+ 
+HTTPS Everywhere - HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure. Download: https://www.eff.org/https-everywhere
+ 
+NoScript Security Suite - The best security you can get in a web browser! Allow active content to run only from sites you trust, and protect yourself against XSS and Clickjacking attacks. Download: https://addons.mozilla.org/en-US/firefox/addon/noscript
+ 
+SSleuth - How strong is your HTTPS connection? SSleuth ranks an established SSL/TLS connection and gives a brief summary of the cipher suite, certificate and other SSL/TLS parameters. Download: https://addons.mozilla.org/en-US/firefox/addon/ssleuth
+ 
+Cookie Controller - Buttons for managing site cookie permissions, switching global cookie permissions on and off, browsing cookies, and removing cookies. The same functions are included for local and session storage. Download: https://addons.mozilla.org/en-US/firefox/addon/cookie-controller
+ 
+CanvasBlocker - Blocks the JS-API for modifying <canvas> to prevent Canvas-Fingerprinting.</canvas>. Download: https://addons.mozilla.org/en-US/firefox/addon/canvasblocker
+ 
+################ Updated Here ################
+ 
+DOM storage has become a much bigger threat to our privacy than the dreaded cookies were. Unfortunately this technology is certainly set to leave cookies in the dust, so changing the default value of this configuration to false is strongly recommended for security reasons. However, please note that it may cause a few web sites not to work properly at the same time.
+ 
+dom.storage.enabled (False)
+ 
+----------------------------------------------------------------
+ 
+By setting network.prefetch-next to false, we are controlling the following:
+ 
+Link prefetching, is when a web page hints to the browser that certain pages are likely to be visited, so the browser downloads them immediately so they can be displayed immediately when the user request.
+ 
+network.prefetch-next (False)
+ 
+----------------------------------------------------------------
+ 
+webgl.disabled (True)
+ 
+network.http.pipelining (True)
+network.http.pipelining.ssl (True)
+network.http.proxy.pipelining (True)
+network.http.pipelining.maxrequests (10)
+ 
+devtools.cache.disabled (True)
+ 
+----------------------------------------------------------------
+ 
+Browser.sessionstore.privacy_level
+ 
+0 = Store extra session data for any site.
+1 = Store extra session data for unencrypted
+2 = Never store extra session data.
+ 
+----------------------------------------------------------------
+ 
+################ Updated Here ################
+ 
+Reduce the amount of RAM Firefox uses for its cache feature:
+browser.sessionhistory.max_total_viewers (0)
+ 
+Reduce RAM usage to 10MB when Firefox is minimized:
+New -> Boolean | config.trim_on_minimize | True
+ 
+Don't cache HTTP or HTTPS files:
+network.http.use-cache (False)
+ 
+Disable crash reporting to Mozilla:
+breakpad.reportURL (Blank)
+ 
+Disable sending pings to 3rd party content hosts:
+browser.send_pings.require_same_host (True)
+ 
+Disable navigator.sendBeacon:
+beacon.enable (False)
+ 
+Disable letting websites know if you have info from them in your clipboard:
+dom.event.clipboardevents.enabled (False)
+ 
+----------------------------------------------------------------
+ 
+################ Updated Here ################
+ 
+Disable the least secure encryption protocols:
+ 
+(Search RC4 in About:Config)
+ 
+security.ssl3.ecdhe_ecdsa_rc4_128_sha (False)
+security.ssl3.ecdhe_rsa_rc4_128_sha (False)
+security.ssl3.rsa_rc4_128_md5 (False)
+security.ssl3.rsa_rc4_128_sha (False)
+ 
+
+    Setting the above modified values disables RC4 in Firefox. RC4 is the least secure encryption protocol and even Microsoft recommends to disable it. Until recently, this was not possible without Youtube breaking.
+
+RAW Paste Data
+Firefox (and Tor) About:Config settings
+
+>>> READ!!! THESE SETTINGS ARE NOT CONFIGURED IN TOR BY DEFAULT! :
+
+Cookies are Enabled
+Referer is not Hidden
+Javascript is Enabled
+Tab History is Enabled
+Local Storage is Enabled
+Fonts are Enabled 
+
+browser.cache.disk.capacity
+browser.cache.offline.capacity
+network.http.sendRefererHeader
+network.http.referer.XOriginPolicy
+network.http.referer.spoofSource
+network.http.referer.trimmingPolicy
+dom.storage.enabled
+webgl.disabled
+browser.sessionhistory.max_total_viewers
+breakpad.reportURL
+browser.send_pings.require_same_host
+beacon.enable
+dom.event.clipboardevents.enabled
+
+security.ssl3.ecdhe_ecdsa_rc4_128_sha
+security.ssl3.ecdhe_rsa_rc4_128_sha
+security.ssl3.rsa_rc4_128_md5
+security.ssl3.rsa_rc4_128_sha
+
+Here's the Screenshot I took showing the Tor Default Settings > http://tinyurl.com/TorDefault
+Here's the Screenshot I took showing Tor after my Security Tweaks > http://tinyurl.com/TorAnonA9
+
+----------------------------------------------------------------
+
+- About:Config -  
+
+Your browser/computer might be leaking DNS queries, you can save some kilobytes of transfer by disabling DNS-Prefetching and Link-Prefetching (network.dns.disablePrefetch - True). One very important option is to disable Canvas support > https://addons.mozilla.org/en-US/firefox/addon/canvasblocker
+
+CanvasBlocker | About:Addons > CanvasBlocker Options > Block Mode: Block Everything
+
+----------------------------------------------------------------
+
+Recommended User Agent:
+New String > general.useragent.override > Mozilla/5.0 (X11; Linux i686; rv:31.0) Gecko/20100101 Firefox/31.0
+
+----------------------------------------------------------------
+
+WebRTC can be used to check your local IP address, so for privacy and security reasons you might want to disable it: media.peerconnection.enabled (False)
+
+----------------------------------------------------------------
+
+There is a built-in module in Firefox that improves your security, but steals your privacy and anonymity. The module reports what you download to Google servers to check if the file is infected with any kind of malware. 
+
+browser.safebrowsing.appRepURL (Blank)
+browser.safebrowsing.downloads.enabled (False)
+browser.safebrowsing.enabled (False)
+browser.safebrowsing.gethashURL (Blank)
+browser.safebrowsing.malware.enabled (False)
+browser.safebrowsing.malware.reportURL (Blank)
+browser.safebrowsing.reportErrorURL (Blank)
+browser.safebrowsing.reportGenericURL (Blank)
+browser.safebrowsing.reportMalwareErrorURL (Blank)
+browser.safebrowsing.reportMalwareURL (Blank)
+browser.safebrowsing.reportPhishURL (Blank)
+browser.safebrowsing.reportURL (Blank)
+browser.safebrowsing.updateURL (Blank)
+services.sync.prefs.sync.browser.safebrowsing.enabled (False)
+services.sync.prefs.sync.browser.safebrowsing.malware.enabled (False)
+
+As for Google’s services in Firefox > Set the value of geo.wifi.uri to http://127.0.0.1 (or blank). Firefox uses Google Location Service to determine your physical location, disable it by changing geo.enabled to false.
+
+----------------------------------------------------------------
+
+You shouldn't save any data for caching on your drive, it can be easily recovered even after a long time.
+
+browser.cache.disk.enable (False)
+browser.cache.offline.enable (False)
+browser.cache.disk.capacity (0)
+browser.cache.offline.capacity (0)
+
+----------------------------------------------------------------
+
+- Hiding your referrers -
+
+network.http.sendRefererHeader | Determines when to send the Referer HTTP header.
+
+0: Never send the referring URL
+1: Send only on clicked links
+2 (default): Send for links and images
+
+^ Set it to 1, or to 0 ^ (0 is the better option but may break a few websites) 
+
+----------------------------------------------------------------
+
+network.http.referer.XOriginPolicy 
+
+0 (default): Always send
+1: Send if base domains match
+2: Send if hosts match
+
+^ Set it to 1 ^
+
+----------------------------------------------------------------
+
+network.http.referer.spoofSource:
+
+false (default): real referer
+true: spoof referer (use target URI as referer)
+
+^ Set it to true ^
+
+----------------------------------------------------------------
+
+network.http.referer.trimmingPolicy:
+
+0 (default): send full URI
+1: scheme+host+port+path
+2: scheme+host+port
+
+^ Set it to 2 ^
+
+################ Updated Here ################
+
+Add-ons I use:
+
+HTTPS Everywhere - HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure. Download: https://www.eff.org/https-everywhere
+
+NoScript Security Suite - The best security you can get in a web browser! Allow active content to run only from sites you trust, and protect yourself against XSS and Clickjacking attacks. Download: https://addons.mozilla.org/en-US/firefox/addon/noscript
+
+SSleuth - How strong is your HTTPS connection? SSleuth ranks an established SSL/TLS connection and gives a brief summary of the cipher suite, certificate and other SSL/TLS parameters. Download: https://addons.mozilla.org/en-US/firefox/addon/ssleuth
+
+Cookie Controller - Buttons for managing site cookie permissions, switching global cookie permissions on and off, browsing cookies, and removing cookies. The same functions are included for local and session storage. Download: https://addons.mozilla.org/en-US/firefox/addon/cookie-controller
+
+CanvasBlocker - Blocks the JS-API for modifying <canvas> to prevent Canvas-Fingerprinting.</canvas>. Download: https://addons.mozilla.org/en-US/firefox/addon/canvasblocker
+
+################ Updated Here ################
+
+DOM storage has become a much bigger threat to our privacy than the dreaded cookies were. Unfortunately this technology is certainly set to leave cookies in the dust, so changing the default value of this configuration to false is strongly recommended for security reasons. However, please note that it may cause a few web sites not to work properly at the same time.
+
+dom.storage.enabled (False)
+
+----------------------------------------------------------------
+
+By setting network.prefetch-next to false, we are controlling the following:
+
+Link prefetching, is when a web page hints to the browser that certain pages are likely to be visited, so the browser downloads them immediately so they can be displayed immediately when the user request.
+
+network.prefetch-next (False)
+
+----------------------------------------------------------------
+
+webgl.disabled (True)
+
+network.http.pipelining (True)
+network.http.pipelining.ssl (True)
+network.http.proxy.pipelining (True)
+network.http.pipelining.maxrequests (10)
+
+devtools.cache.disabled (True)
+
+----------------------------------------------------------------
+
+Browser.sessionstore.privacy_level
+
+0 = Store extra session data for any site.
+1 = Store extra session data for unencrypted
+2 = Never store extra session data. 
+
+----------------------------------------------------------------
+
+################ Updated Here ################
+
+Reduce the amount of RAM Firefox uses for its cache feature:
+browser.sessionhistory.max_total_viewers (0)
+
+Reduce RAM usage to 10MB when Firefox is minimized:
+New -> Boolean | config.trim_on_minimize | True
+
+Don't cache HTTP or HTTPS files:
+network.http.use-cache (False)
+
+Disable crash reporting to Mozilla:
+breakpad.reportURL (Blank)
+
+Disable sending pings to 3rd party content hosts:
+browser.send_pings.require_same_host (True)
+
+Disable navigator.sendBeacon:
+beacon.enable (False)
+
+Disable letting websites know if you have info from them in your clipboard:
+dom.event.clipboardevents.enabled (False)
+
+----------------------------------------------------------------
+
+################ Updated Here ################
+
+Disable the least secure encryption protocols:
+
+(Search RC4 in About:Config)
+
+security.ssl3.ecdhe_ecdsa_rc4_128_sha (False)
+security.ssl3.ecdhe_rsa_rc4_128_sha (False)
+security.ssl3.rsa_rc4_128_md5 (False)
+security.ssl3.rsa_rc4_128_sha (False)
+
+Setting the above modified values disables RC4 in Firefox. RC4 is the least secure encryption protocol and even Microsoft recommends to disable it. Until recently, this was not possible without Youtube breaking.
+create new paste  /  dealsnew!  /  api  /  trends  /  syntax languages  /  faq  /  tools  /  privacy  /  cookies  /  contact  /  dmca  /  scraping  /  go
+Site design & logo © 2017 Pastebin; user contributions (pastes) licensed under cc by-sa 3.0 -- Dedicated Server Hosting by Steadfast
+
