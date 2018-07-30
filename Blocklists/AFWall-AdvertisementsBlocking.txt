@@ -1,6 +1,6 @@
 ##-=================================================================================-##
 ## ----------------------------------- ##
-## AFWall-AdvertisementsBlocking.md
+## AFWall-AdvertisementsBlocking.txt
 ## ----------------------------------- ##
 ## 
 ## AFWalls - Advertisements blocking
