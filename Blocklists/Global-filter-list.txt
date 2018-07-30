@@ -1,7 +1,13 @@
-Global-filter-list by CHEF-KOCH
+##-======================================-## 
+## -------------------------------------- ##
+##  Global-filter-list by CHEF-KOCH.txt
+## -------------------------------------- ##
+##-======================================-## 
 
-Suspicious Lists
 
+## ------------------- ##
+##  Suspicious Lists
+## ------------------- ##
 https://hosts-file.net/grm.txt
 https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
@@ -21,8 +27,9 @@ https://hostsfile.mine.nu/hosts0.txt
 https://v.firebog.net/hosts/Kowabit.txt
 https://adblock.mahakala.is
 
-Advertising Lists*
-
+## ------------------- ## 
+##  Advertising Lists
+## ------------------- ## 
 https://adaway.org/hosts.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
@@ -31,8 +38,9 @@ https://v.firebog.net/hosts/Easylist.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/SpotifyAds/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
 
-Tracking & Telemetry Lists
-
+## ---------------------------- ## 
+##  Tracking & Telemetry Lists
+## ---------------------------- ## 
 https://v.firebog.net/hosts/Airelle-trc.txt
 https://v.firebog.net/hosts/Easyprivacy.txt
 https://v.firebog.net/hosts/Prigent-Ads.txt
@@ -45,8 +53,10 @@ https://gist.githubusercontent.com/CHEF-KOCH/63fd2e506cb34a2378ad2620ab06d2e0/ra
 https://gist.githubusercontent.com/CHEF-KOCH/2dea75d43b2184f228ae94b168d275b1/raw/35d7a4447a198449bbb3280e1c3d7a57517350de/Canvas%2520fingerprinting%2520pages%2520%255B2017%2520Edition%255D.exe
 https://v.firebog.net/hosts/static/SamsungSmart.txt
 
-Malicious Lists
 
+## ------------------- ## 
+##   Malicious Lists
+## ------------------- ## 
 https://v.firebog.net/hosts/Airelle-hrsk.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://mirror1.malwaredomains.com/files/justdomains
@@ -64,8 +74,9 @@ https://v.firebog.net/hosts/Shalla-mal.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 
-Others
-
+## ---------- ## 
+##   Others
+## ---------- ## 
 https://github.com/chadmayfield/pihole-blocklists/raw/master/lists/pi_blocklist_porn_all.list
 https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
