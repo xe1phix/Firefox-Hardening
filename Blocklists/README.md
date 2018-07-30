@@ -1,4 +1,3 @@
-
 ## [?] Here is A List of The Best ADBlocking Resources: 
 
 
@@ -17,6 +16,8 @@ https://www.reddit.com/r/uBlockOrigin/comments/6jirts/which_filters_would_you_gu
 https://github.com/uBlockOrigin/uAssets/tree/master/filters
 
 https://github.com/gorhill/uBlock.wiki.git
+
+https://adblockplus.org/subscriptions
 
 https://filterlists.com/
 
