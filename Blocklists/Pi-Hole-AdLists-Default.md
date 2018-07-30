@@ -1,12 +1,12 @@
 ##-===================================-## 
 ## ----------------------------------- ##
-##  Pi-Hole-AdLists-Default.md
+##  Pi-Hole-AdLists-Default.txt
 ## ----------------------------------- ##
 ##-===================================-## 
 
 
-# The below list amalgamates several lists we used previously.
-# See `https://github.com/StevenBlack/hosts` for details
+## The below list shows several lists we used previously.
+## See `https://github.com/StevenBlack/hosts` for details
 ## StevenBlack's list
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
