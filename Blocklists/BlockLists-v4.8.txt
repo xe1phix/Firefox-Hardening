@@ -67,17 +67,33 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resources.
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
 https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt
 
+https://adaway.org/hosts.txt
+
+https://gnuzilla.gnu.org/filters/blacklist.txt
+
+https://www.eff.org/files/cookieblocklist.txt
 
 https://easylist-downloads.adblockplus.org/malwaredomains_full.txt
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 https://easylist-downloads.adblockplus.org/easylist.txt
 https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
+https://easylist-downloads.adblockplus.org/adwarefilters.txt
+
+https://easylist.to/easylist/easylist.txt
+https://cdn.adblockcdn.com/filters/easylist_lite.txt
+https://v.firebog.net/hosts/Easylist.txt
+https://v.firebog.net/hosts/Easyprivacy.txt
+https://easylist.to/easylist/easyprivacy.txt
+https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt
+
 
 http://mirror1.malwaredomains.com/files/immortal_domains.txt
 http://mirror1.malwaredomains.com/files/justdomains
 http://mirror1.malwaredomains.com/files/freewebhosts.txt
 http://mirror1.malwaredomains.com/files/dynamic_dns.txt
 http://mirror1.malwaredomains.com/files/bulk_registrars.txt
+https://mirror1.malwaredomains.com/files/Skype-resolvers.txt
+https://mirror1.malwaredomains.com/files/url_shorteners.txt
 
 http://www.malwaredomainlist.com/hostslist/hosts.txt         
 http://www.malwaredomainlist.com/hostslist/delisted.txt      
@@ -126,6 +142,48 @@ https://raw.githubusercontent.com/CHEF-KOCH/dnscrypt-proxy-blacklist-filter/mast
 https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt
 https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Spotify-HOSTS-FilterList.txt
 
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Ad%20&%20Tracker/CK's-Ad%20&%20Tracker-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Ad-Tracker-HOSTS-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Adguard-HOSTS-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/Adobe/CK's-Adobe-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Adobe-HOSTS-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Android/CK's-Android-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/Apple/CK's-Apple-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Torrent/CK's-Torrent-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/CCleaner/CK's-CCleaner-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-CCleaner-HOSTS-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/Cloudflare/CK's-Cloudflare-FilterList.txt
+
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/Facebook/CK's-Facebook-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Facebook-HOSTS-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Fonts/CK's-Fonts-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/Google/CK's-Google-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Game-HOSTS-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Google-HOSTS-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/Instagram/CK's-Instagram-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Instagram-HOSTS-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/Pinterest/CK's-Pinterest-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/Skype%20Ad-Free/CK's-Skype-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Skype-HOSTS-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/Spotify%20Ad-Free/CK's-Spotify-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Spotify-HOSTS-FilterList.txt
+
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Malware/CK's-Malware-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/Microsoft/CK's-Microsoft-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Microsoft-HOSTS-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/Mozilla/CK's-Mozilla-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Mozilla-HOSTS-FilterList.txt
+
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/NSABlocklist/CK's-NSABlocklist-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/I2P%20%26%20Onion/CK's-Onion-FilterList.txt
+
+
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/uMatrix/CK's-uMatrix-FilterList.txt
+
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Not%20blocked/CK's-Wontblock-FilterList.txt
+
+
 
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 http://pgl.yoyo.org/adservers/scripts/squid/update-squid-adservers.txt
@@ -140,6 +198,9 @@ http://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblock
 http://pgl.yoyo.org/adservers/iplist.php?ipformat=snort
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=snort
 
+
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset
 
 https://www.fanboy.co.nz/adblock/fanboy-tracking.txt
 https://www.fanboy.co.nz/fanboy-problematic-sites.txt
@@ -315,6 +376,16 @@ http://www.bleedingsnort.com/blackhole-dns/
 https://urlhaus.abuse.ch/downloads/rpz
 http://winhelp2002.mvps.org/hosts.txt
 
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social/hosts
+
+
 https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt
 https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
@@ -322,9 +393,9 @@ https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
 https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock.txt
 https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt
 
-https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social/hosts​​
-https://raw.githubusercontent.com/thoughtconverge/abf/master/abf.txt​​
-https://raw.githubusercontent.com/lewisje/jansal/master/adblock/hosts​​
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social/hosts
+https://raw.githubusercontent.com/thoughtconverge/abf/master/abf.txt
+https://raw.githubusercontent.com/lewisje/jansal/master/adblock/hosts
 http://www.jabcreations.com/downloads/adblock-filters.php
 https://github.com/StevenBlack/hosts/raw/master/hosts
 
@@ -337,7 +408,12 @@ http://optimate.dl.sourceforge.net/project/adzhosts/HOSTS.txt
 http://hosts.eladkarako.com/hosts.txt
 https://github.com/yous/YousList/raw/master/hosts.txt
 
-
+https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
+https://raw.githubusercontent.com/kbinani/adblock-youtube-ads/master/signed.txt
+https://raw.githubusercontent.com/bogachenko/adfilters/master/adfilters.txt
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+https://raw.githubusercontent.com/kano1/I/master/adware.txt
+https://raw.githubusercontent.com/MrThreat/Confirmed-Phish/master/phish.txt
 https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
 https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
@@ -368,6 +444,13 @@ https://www.joewein.net/dl/bl/dom-bl-base.txt
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 https://hostsfile.mine.nu/hosts0.txt
+https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock.txt
+https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock_anti_annoyances_block.txt
+https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock_anti_annoyances_block_inline_script.txt
+https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock_anti_annoyances_hide.txt
+https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock_anti_annoyances_style_inject.txt
+
+https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt
 
 
 https://v.firebog.net/hosts/static/w3kbl.txt
@@ -378,6 +461,26 @@ http://malwareurls.joxeankoret.com/grayarea.txt
 http://malwareurls.joxeankoret.com/normal.txt
 
 
+
+## ------------------------------ ##
+##    Blocklist Subscriptions:
+## ------------------------------ ##
+
+abp:subscribe?location=https%3A%2F%2Fadaway.org%2Fhosts.txt&amp;title=AdAway
+abp:subscribe?location=https%3A%2F%2Feasylist-downloads.adblockplus.org%2Fadwarefilters.txt&amp;title=Adware%20Filters
+abp:subscribe?location=https%3A%2F%2Fwww.hostsfile.org%2FDownloads%2Fhosts.txt&amp;title=BadHosts
+
+abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FCHEF-KOCH%2FCKs-FilterList%2Fmaster%2FAd%2520%26%2520Tracker%2FCK's-Ad%2520%26%2520Tracker-FilterList.txt&amp;title=CHEF-KOCH's%20Ad%20%26%20Tracker%20Filter%20List
+abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FCHEF-KOCH%2FCKs-FilterList%2Fmaster%2FHOSTS%2FCK's-Ad-Tracker-HOSTS-FilterList.txt&amp;title=CHEF-KOCH's%20Ad%20%26%20Tracker%20HOSTS%20Filter%20List
+abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FCHEF-KOCH%2FCKs-FilterList%2Fmaster%2FAndroid%2FCK's-Android-FilterList.txt&amp;title=CHEF-KOCH's%20Android%20Filter%20List
+abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FCHEF-KOCH%2FCKs-FilterList%2Fmaster%2FHOSTS%2FCK's-Adobe-HOSTS-FilterList.txt&amp;title=CHEF-KOCH's%20Adobe%20HOSTS%20Filter%20List
+
+abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FCHEF-KOCH%2FCKs-FilterList%2Fmaster%2FCorporations%2FAdobe%2FCK's-Adobe-FilterList.txt&amp;title=CHEF-KOCH's%20Adobe%20Filter%20List
+abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FCHEF-KOCH%2FCKs-FilterList%2Fmaster%2FHOSTS%2FCK's-Adguard-HOSTS-FilterList.txt&amp;title=CHEF-KOCH's%20AdGuard%20HOSTS%20Filter%20List
+abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FCHEF-KOCH%2FCKs-FilterList%2Fmaster%2FTorrent%2FCK's-Torrent-FilterList.txt&amp;title=CHEF-KOCH's%20BadTorrentTracker%20Filter%20List
+abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FCHEF-KOCH%2FCKs-FilterList%2Fmaster%2FCorporations%2FCCleaner%2FCK's-CCleaner-FilterList.txt&amp;title=CHEF-KOCH's%20CCleaner%20Filter%20List
+abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FCHEF-KOCH%2FCKs-FilterList%2Fmaster%2FHOSTS%2FCK's-CCleaner-HOSTS-FilterList.txt&amp;title=CHEF-KOCH's%20CCleaner%20HOSTS%20Filter%20List
+abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FCHEF-KOCH%2FCKs-FilterList%2Fmaster%2FCorporations%2FCloudflare%2FCK's-Cloudflare-FilterList.txt&amp;title=CHEF-KOCH's%20Cloudflare%20Filter%20List
 
 
 abp:subscribe?location=https://secure.fanboy.co.nz/r/fanboy-ultimate.txt&title=Fanboy%20Ultimate%20Adblock
@@ -423,6 +526,21 @@ abp:subscribe?location=https://secure.fanboy.co.nz/fanboy-annoyance.txt?a=0&titl
 https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK%27s-FilterList.txt&title=CHEF-KOCH%27s-Filter-List
 
 
+abp:subscribe?location=https%3A%2F%2Fmirror1.malwaredomains.com%2Ffiles%2Fdynamic_dns.txt&amp;title=DNS-BH%20Dynamic%20DNS
+abp:subscribe?location=https%3A%2F%2Feasylist-downloads.adblockplus.org%2Fmalwaredomains_full.txt&amp;title=DNS-BH%20Adblock%20Plus%20Malware%20Domains%20Full
+abp:subscribe?location=https%3A%2F%2Fmirror1.malwaredomains.com%2Ffiles%2Ffreewebhosts.txt&amp;title=DNS-BH%20Free%20Web%20Hosts
+abp:subscribe?location=https%3A%2F%2Fmirror1.malwaredomains.com%2Ffiles%2Fjustdomains&amp;title=DNS-BH%20Malware%20Domains
+abp:subscribe?location=https%3A%2F%2Fmirror1.malwaredomains.com%2Ffiles%2Fimmortal_domains.txt&amp;title=DNS-BH%20Malware%20Domains%20Immortal
+
+abp:subscribe?location=https%3A%2F%2Ffeeds.dshield.org%2Fblock.txt&amp;title=DShield.org%20Recommended%20Block%20List
+abp:subscribe?location=https%3A%2F%2Fwww.dshield.org%2Ffeeds%2Fsuspiciousdomains_High.txt&amp;title=DShield.org%20Suspicious%20Domain%20List%20-%20High
+abp:subscribe?location=https%3A%2F%2Fwww.dshield.org%2Ffeeds%2Fsuspiciousdomains_Medium.txt&amp;title=DShield.org%20Suspicious%20Domain%20List%20-%20Medium
+abp:subscribe?location=https%3A%2F%2Fwww.dshield.org%2Ffeeds%2Fsuspiciousdomains_Low.txt&amp;title=DShield.org%20Suspicious%20Domain%20List%20-%20Low
+
+abp:subscribe?location=https%3A%2F%2Feasylist.to%2Feasylist%2Feasylist.txt&amp;title=EasyList
+abp:subscribe?location=https%3A%2F%2Feasylist.to%2Feasylist%2Feasyprivacy.txt&amp;title=EasyPrivacy
+
+abp:subscribe?location=https%3A%2F%2Fgnuzilla.gnu.org%2Ffilters%2Fblacklist.txt&amp;title=GNU%20Blacklist
 
 
 
