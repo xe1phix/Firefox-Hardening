@@ -68,18 +68,6 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.tx
 https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt
 
 
-
-http://www.fanboy.co.nz/adblock/fanboy-tracking.txt
-https://www.fanboy.co.nz/fanboy-problematic-sites.txt
-https://www.fanboy.co.nz/r/fanboy-complete.txt
-https://www.fanboy.co.nz/r/fanboy-ultimate.txt
-https://www.fanboy.co.nz/enhancedstats.txt
-https://www.fanboy.co.nz/fanboy-antifonts.txt
-https://www.fanboy.co.nz/fanboy-antifacebook.txt
-https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
-https://www.fanboy.co.nz/fanboy-cookiemonster.txt
-https://easylist-downloads.adblockplus.org/fanboy-social.txt
-
 https://easylist-downloads.adblockplus.org/malwaredomains_full.txt
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 https://easylist-downloads.adblockplus.org/easylist.txt
@@ -91,11 +79,10 @@ http://mirror1.malwaredomains.com/files/freewebhosts.txt
 http://mirror1.malwaredomains.com/files/dynamic_dns.txt
 http://mirror1.malwaredomains.com/files/bulk_registrars.txt
 
-
 http://www.malwaredomainlist.com/hostslist/hosts.txt         
 http://www.malwaredomainlist.com/hostslist/delisted.txt      
 http://www.malwaredomainlist.com/hostslist/ip.txt
-http://malwaredomainlist.com/hostsfile/hosts.txt
+http://www.malwaredomainlist.com/hostsfile/hosts.txt
 
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
@@ -154,15 +141,74 @@ http://pgl.yoyo.org/adservers/iplist.php?ipformat=snort
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=snort
 
 
+https://www.fanboy.co.nz/adblock/fanboy-tracking.txt
+https://www.fanboy.co.nz/fanboy-problematic-sites.txt
+https://www.fanboy.co.nz/r/fanboy-complete.txt
+https://www.fanboy.co.nz/r/fanboy-ultimate.txt
+https://www.fanboy.co.nz/enhancedstats.txt
+https://www.fanboy.co.nz/fanboy-antifonts.txt
+https://www.fanboy.co.nz/fanboy-antifacebook.txt
+https://www.fanboy.co.nz/fanboy-cookiemonster.txt
+https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
+https://easylist-downloads.adblockplus.org/fanboy-social.txt
+
+## Fanboy-Tracking Filter - Github
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-tracking/fanboy-header.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-tracking/fanboy-tracking-firstparty.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-tracking/fanboy-tracking-adult.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-tracking/fanboy-tracking-general.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-tracking/fanboy-tracking-generic.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-tracking/fanboy-tracking-nonenglish.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-tracking/fanboy-tracking-thirdparty.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-tracking/fanboy-tracking-whitelist.txt
+
+## Fanboy-Adblock - Github
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-adult-elements.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-adult-firstparty.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-adult-generic.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-adult-thirdparty.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-adult-whitelists.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-dimensions-whitelist.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-dimensions.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-elements-exceptions.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-elements-generic.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-elements-specific.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-firstparty.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-generic.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-header-2.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-header.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-opera-specific.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-popups.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-thirdparty.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-adblock/fanboy-whitelist.txt
+
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/headers/header-problematic-sites.txt
+
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/scripts/blacklists/blacklist-adblock.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/scripts/blacklists/blacklist-tracking.txt
+
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/scripts/firefox/fanboy-p2p.sh
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/scripts/firefox/fanboy-adult.sh
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/scripts/firefox/fanboy-dimensions.sh
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/scripts/firefox/fanboy-noele.sh
+
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-cookiemonster.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-problematic-sites.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/popads-domains-list.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-antifonts.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-antifacebook.txt
+https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/enhancedstats-addon.txt
 
 
-## AdGuard Filters on Github:
+
+## AdGuard Filters - Github:
 ## https://github.com/AdguardTeam/AdguardFilters/tree/master/AnnoyancesFilter/sections
 ## https://github.com/AdguardTeam/AdguardFilters/tree/master/SocialFilter/sections
 ## https://github.com/AdguardTeam/AdguardFilters/tree/master/SpywareFilter/sections
 ## https://github.com/AdguardTeam/AdguardFilters/tree/master/EnglishFilter/sections
 
 
+## Spyware Filter - Github
 https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/tracking_servers.txt
 https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/tracking_servers_firstparty.txt
 https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/specific.txt
@@ -173,7 +219,7 @@ https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections
 https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/whitelist.txt
 
 
-
+## Social Filter - Github
 https://github.com/AdguardTeam/AdguardFilters/blob/master/SocialFilter/sections/css_extended.txt
 https://github.com/AdguardTeam/AdguardFilters/blob/master/SocialFilter/sections/general_elemhide.txt
 https://github.com/AdguardTeam/AdguardFilters/blob/master/SocialFilter/sections/general_extensions.txt
@@ -186,7 +232,7 @@ https://github.com/AdguardTeam/AdguardFilters/blob/master/SocialFilter/sections/
 
 
 
-
+## English Filter - Github
 https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/adservers.txt
 https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/adservers_firstparty.txt
 https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/antiadblock.txt
@@ -202,7 +248,7 @@ https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections
 https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/whitelist_stealth.txt
 
 
-
+## Annoyances Filter - Github
 https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/annoyances.txt
 https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/antiadblock.txt
 https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/cookies_general.txt
