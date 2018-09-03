@@ -3,7 +3,7 @@
 ##      Xe1phix-BlockLists.txt
 ## ----------------------------------- ##
 ##-===================================-## 
-## BlockLists-v2.2.txt
+## BlockLists-v4.7.txt
 
 [?] Here is A List of The Best ADBlocking Resources:
 
@@ -13,11 +13,14 @@ https://github.com/notracking/hosts-blocklists#sources
 https://github.com/AdAway/AdAway/wiki/HostsSources#other-hosts-sources
 https://github.com/AdAway/AdAway/wiki/HostsSources#adaways-default-hosts-sources
 https://www.reddit.com/r/uBlockOrigin/comments/6jirts/which_filters_would_you_guys_recommend/
+https://github.com/hl2guide/All-in-One-Customized-Adblock-List#lists
 https://github.com/uBlockOrigin/uAssets/tree/master/filters
 https://github.com/gorhill/uBlock.wiki.git
+https://v.firebog.net/hosts/lists.php?type=all
 https://adblockplus.org/subscriptions
+https://v.firebog.net/hosts/
 https://filterlists.com/
-
+https://firebog.net/
 
 
 
@@ -53,21 +56,9 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.tx
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resources.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
-
 https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt
 
-https://github.com/CHEF-KOCH/ASN-blocking
-https://github.com/CHEF-KOCH/NSABlocklist
 
-https://github.com/AdAway/AdAway/wiki/HostsSources#other-hosts-sources
-https://github.com/AdAway/AdAway/wiki/HostsSources#adaways-default-hosts-sources
-https://github.com/gorhill/uBlock.wiki.git
-
-https://github.com/CHEF-KOCH/dnscrypt-proxy-blacklist-filter
-
-
-
-https://www.malwaredomainlist.com/hostslist/hosts.txt
 
 
 https://hosts-file.net/download/hosts.txt
@@ -92,9 +83,7 @@ https://easylist-downloads.adblockplus.org/easylist.txt
 https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
 
 
-http://winhelp2002.mvps.org/hosts.txt
-
-
+https://www.malwaredomainlist.com/hostslist/hosts.txt
 http://mirror1.malwaredomains.com/files/immortal_domains.txt
 http://mirror1.malwaredomains.com/files/justdomains
 http://mirror1.malwaredomains.com/files/freewebhosts.txt
@@ -143,103 +132,43 @@ https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 
-http://malwareurls.joxeankoret.com/domains.txt
-http://malwareurls.joxeankoret.com/grayarea.txt
-http://malwareurls.joxeankoret.com/normal.txt
 
+https://github.com/CHEF-KOCH/ASN-blocking
+https://github.com/CHEF-KOCH/NSABlocklist
 
-
-https://urlhaus.abuse.ch/downloads/rpz
-
-## spam404
-https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
-
-
-http://www.bleedingsnort.com/blackhole-dns/
-
-
-https://github.com/CHEF-KOCH/Spotify-Ad-free
-https://github.com/CHEF-KOCH/Global-filter-list
-https://github.com/CHEF-KOCH/BarbBlock-filter-list
-https://github.com/CHEF-KOCH/Bypass-Adblockers
-https://github.com/CHEF-KOCH/Anti-Facebook
-https://github.com/CHEF-KOCH/Audio-fingerprint-pages
-https://github.com/CHEF-KOCH/WebRTC-tracking
-https://github.com/CHEF-KOCH/WebRTC-tracking/raw/master/WebRTC.txt
-
+https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/uBlock.txt
+https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/OpenWrt.txt
 https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/HOSTS.txt
-https://github.com/CHEF-KOCH/Canvas-Font-Fingerprinting-pages
-https://github.com/CHEF-KOCH/Canvas-Font-Fingerprinting-pages/raw/master/Canvas.txt
-https://github.com/CHEF-KOCH/Canvas-fingerprinting-pages
-https://github.com/CHEF-KOCH/Canvas-fingerprinting-pages/raw/master/Canvas.txt	
-https://github.com/CHEF-KOCH/Skype-Ad-Free
-https://github.com/CHEF-KOCH/android-ads-blocker
-https://github.com/CHEF-KOCH/FilterLists
-
-
-https://gist.github.com/CHEF-KOCH/79924daa128c0a5526cb94bec5ad9187
-https://gist.github.com/CHEF-KOCH/e0b8771cd1fd17c9b4d3
-https://gist.github.com/CHEF-KOCH/5918aeb0433a82694adfc857d1372167
-https://github.com/AdAway/AdAway/wiki/HostsSources
-https://gist.github.com/CHEF-KOCH/2dea75d43b2184f228ae94b168d275b1
-https://gist.github.com/CHEF-KOCH/2dea75d43b2184f228ae94b168d275b1/raw/a151f2a5cedc782db97a356e701619b140762a6e/Canvas%2520fingerprinting%2520pages%2520%255B2017%2520Edition%255D.txt
-
-https://gist.github.com/CHEF-KOCH/5a7b1593d1880f906b12a3c87cee4500
-https://gist.github.com/CHEF-KOCH/5a7b1593d1880f906b12a3c87cee4500/raw/3ba028508feb2ef67a3d7ab75f428fd284223e8b/WebRTC%2520tracking%2520list%2520%255B2017%2520Edition%255D.txt
-https://gist.github.com/CHEF-KOCH/d1c6f49492f6d10ee1d192817b7cdce5
-https://gist.github.com/CHEF-KOCH/5d98f57fd614cc2524d1d17e41edc652		##  Removing Video Metadata
-https://gist.github.com/CHEF-KOCH
-https://github.com/collinbarrett/FilterLists
-https://github.com/ukanth/afwall/wiki/CustomScripts
+https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/HOSTS-nulled.txt
+https://raw.githubusercontent.com/CHEF-KOCH/Canvas-fingerprinting-pages/master/Canvas.txt
+https://raw.githubusercontent.com/CHEF-KOCH/Canvas-Font-Fingerprinting-pages/master/Canvas.txt
+https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt
+https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/Spotify.txt
+https://raw.githubusercontent.com/CHEF-KOCH/dnscrypt-proxy-blacklist-filter/master/blacklist.txt
+https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Spotify-HOSTS-FilterList.txt
 
 
 
-https://github.com/CHEF-KOCH/BarbBlock-filter-list/blob/master/uBlock.txt
-https://github.com/CHEF-KOCH/BarbBlock-filter-list/blob/master/OpenWrt.txt
-https://github.com/CHEF-KOCH/BarbBlock-filter-list/blob/master/HOSTS.txt
-https://github.com/CHEF-KOCH/BarbBlock-filter-list/blob/master/HOSTS-nulled.txt
-
-https://github.com/uBlock-user/uMatrix-Hosts-List
-
-https://github.com/gorhill/uBlock/wiki/Block-more,-way-more
-
-http://pgl.yoyo.org/
 
 https://hosts-file.net/?s=Download
 https://hosts-file.net/ad_servers.txt
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 
 
 http://winhelp2002.mvps.org/hosts.txt
 
 
 
-
-http://www.malwaredomainlist.com/hostslist/hosts.txt
-
-
-
-
-
-
-
-
-
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 http://pgl.yoyo.org/adservers/scripts/squid/update-squid-adservers.txt
-
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=littlesnitch
 http://pgl.yoyo.org/adservers/iplist.php
 http://pgl.yoyo.org/adservers/serverlist.php?showintro=0;hostformat=hosts
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=unbound
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=unbound;showintro=0
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=dnsmasq
-
 http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
-
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblock
-
-
-http://www.bleedingsnort.com/blackhole-dns/
 http://pgl.yoyo.org/adservers/iplist.php?ipformat=snort
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=snort
 
@@ -250,19 +179,21 @@ https://hosts-file.net/download/HOSTS-NOPHAFSA-Optimized.txt
 
 
 
-https://github.com/uBlockOrigin/uAssets/tree/master/filters
 
-https://github.com/uBlockOrigin/uAssets/blob/master/filters/annoyances.txt
-
-https://github.com/uBlockOrigin/uAssets/blob/master/filters/badware.txt
-https://github.com/uBlockOrigin/uAssets/blob/master/filters/experimental.txt
-https://github.com/uBlockOrigin/uAssets/blob/master/filters/filters.txt 
-https://github.com/uBlockOrigin/uAssets/blob/master/filters/privacy.txt
-https://github.com/uBlockOrigin/uAssets/blob/master/filters/resource-abuse.txt
-https://github.com/uBlockOrigin/uAssets/blob/master/filters/resources.txt
-https://github.com/uBlockOrigin/uAssets/blob/master/filters/unbreak.txt
+##-==================================-##
+##          Warning!
+## Potentially Untrustworthy Lists:
+##   Add at your own risk!
+##-==================================-##
 
 
+
+## spam404
+https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
+
+http://www.bleedingsnort.com/blackhole-dns/
+
+https://urlhaus.abuse.ch/downloads/rpz
 
 https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt
 https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
@@ -272,7 +203,6 @@ https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock.tx
 https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social/hosts​​
-http://feeds.dshield.org/block.txt​​
 https://raw.githubusercontent.com/thoughtconverge/abf/master/abf.txt​​
 https://raw.githubusercontent.com/lewisje/jansal/master/adblock/hosts​​
 http://www.jabcreations.com/downloads/adblock-filters.php
@@ -286,6 +216,46 @@ https://jansal.googlecode.com/svn/trunk/adblock/hosts
 http://optimate.dl.sourceforge.net/project/adzhosts/HOSTS.txt
 http://hosts.eladkarako.com/hosts.txt
 https://github.com/yous/YousList/raw/master/hosts.txt
+
+
+https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
+https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt
+https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
+
+
+https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
+https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt
+https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
+https://raw.githubusercontent.com/eladkarako/hosts.eladkarako.com/master/build/hosts_adblock.txt
+https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+https://github.com/hoshsadiq/adblock-nocoin-list/blob/master/hosts.txt
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+https://github.com/mitchellkrogza/Top-Attacking-IP-Addresses-Against-Wordpress-Sites
+https://raw.githubusercontent.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses/master/ips.list
+https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+https://www.joewein.net/dl/bl/dom-bl-base.txt
+https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
+https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
+https://hostsfile.mine.nu/hosts0.txt
+
+
+https://v.firebog.net/hosts/static/w3kbl.txt
+
+
+http://malwareurls.joxeankoret.com/domains.txt
+http://malwareurls.joxeankoret.com/grayarea.txt
+http://malwareurls.joxeankoret.com/normal.txt
 
 
 
@@ -306,12 +276,38 @@ abp:subscribe?location=https%3A%2F%2Ffeodotracker.abuse.ch%2Fblocklist%2F%3Fdown
 abp:subscribe?location=https%3A%2F%2Ffeodotracker.abuse.ch%2Fblocklist%2F%3Fdownload%3Dipblocklist&title=abuse.ch%20Feodo%20IP%20Blocklist
 abp:subscribe?location=https%3A%2F%2Fzeustracker.abuse.ch%2Fblocklist.php%3Fdownload%3Dcompromised&title=abuse.ch%20ZeuS%20Compromised%20URL%20Blocklist
 abp:subscribe?location=https%3A%2F%2Fzeustracker.abuse.ch%2Fblocklist.php%3Fdownload%3Ddomainblocklist&title=abuse.ch%20ZeuS%20Domain%20Blocklist
-
 abp:subscribe?location=https%3A%2F%2F280blocker.net%2Ffiles%2F280blocker_adblock.txt&title=280%20Blocker
-http://someonewhocares.org/hosts/
 
-http://someonewhocares.org/hosts/hosts
-https://adaway.org/hosts.txt
+abp:subscribe?location=https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt&title=EasyList%20without%20element%20hiding
+
+abp:subscribe?location=https://secure.fanboy.co.nz/fanboy-problematic-sites.txt&title=Fanboy%20Problematic%20Sites
+abp:subscribe?location=https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt&title=Fanboy-Annoyances%20List&requiresLocation=https://easylist-downloads.adblockplus.org/easylist.txt&requiresTitle=Easylist
+abp:subscribe?location=https://secure.fanboy.co.nz/fanboy-antifacebook.txt&title=Anti-facebook%20List&requiresLocation=https://easylist-downloads.adblockplus.org/easylist.txt&requiresTitle=Easylist
+abp:subscribe?location=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt&title=Anti-Cookie%20List&requiresLocation=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+abp:subscribe?location=https://easylist-downloads.adblockplus.org/fanboy-social.txt&title=Fanboy-Social%20List&requiresLocation=https://easylist-downloads.adblockplus.org/easylist.txt&requiresTitle=Easylist
+abp:subscribe?location=https://secure.fanboy.co.nz/r/fanboy-complete.txt&title=Fanboy%20Complete%20Adblock
+abp:subscribe?location=https://secure.fanboy.co.nz/r/fanboy-ultimate.txt&title=Fanboy%20Ultimate%20Adblock
+abp:subscribe?location=https://secure.fanboy.co.nz/enhancedstats.txt&title=Enhanced%20Tracking
+abp:subscribe?location=https://secure.fanboy.co.nz/fanboy-antifacebook.txt&title=Anti-facebook
+abp:subscribe?location=https://secure.fanboy.co.nz/fanboy-antifonts.txt&title=Anti-font%20Tracking
+
+
+
+abp:subscribe?location=https://secure.fanboy.co.nz/malwaredomains_full.txt?a=0&title=Malware%20Domains-Mirror
+abp:subscribe?location=https://secure.fanboy.co.nz/easylist.txt?a=0&title=Easylist-Mirror
+abp:subscribe?location=https://secure.fanboy.co.nz/easyprivacy.txt?a=0&title=Easyprivacy-Mirror
+abp:subscribe?location=https://secure.fanboy.co.nz/easyprivacy+easylist.txt?a=0&title=Easylist+Easyprivacy-Mirror
+abp:subscribe?location=https://secure.fanboy.co.nz/fanboy-social.txt?a=0&title=Fanboy's%20Social%20List-Mirror
+abp:subscribe?location=https://secure.fanboy.co.nz/fanboy-annoyance.txt?a=0&title=Fanboy's%20Annoyance%20List-Mirror
+
+https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK%27s-FilterList.txt&title=CHEF-KOCH%27s-Filter-List
+
+
+
+
+
+Raspberry Pi distro which acts as a wifi access point that blocks ads.
+http://pgl.yoyo.org/adservers/#raspberry-pi-distro
 
 
 
@@ -326,17 +322,4 @@ https://github.com/uMatrix-Rules/uMatrix-Rules-Domain
 
 https://github.com/uMatrix-Rules/uMatrix-Rules.github.io
 https://github.com/uMatrix-Rules/uMatrix-Rules-Domain/raw/master/rules.txt
-
-
-https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK%27s-FilterList.txt&title=CHEF-KOCH%27s-Filter-List
-
-
-Raspberry Pi distro which acts as a wifi access point that blocks ads.
-http://pgl.yoyo.org/adservers/#raspberry-pi-distro
-
-
-
-
-
-
 
