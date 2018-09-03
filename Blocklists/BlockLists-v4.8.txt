@@ -68,6 +68,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.tx
 https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt
 
 
+
 http://www.fanboy.co.nz/adblock/fanboy-tracking.txt
 https://www.fanboy.co.nz/fanboy-problematic-sites.txt
 https://www.fanboy.co.nz/r/fanboy-complete.txt
@@ -153,13 +154,104 @@ http://pgl.yoyo.org/adservers/iplist.php?ipformat=snort
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=snort
 
 
-https://filters.adtidy.org/extension/chromium/filters/3.txt
-https://filters.adtidy.org/extension/chromium/filters/4.txt
-https://filters.adtidy.org/windows/filters/15.txt
-https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
-https://filters.adtidy.org/extension/chromium/filters/14.txt
+
+
+## AdGuard Filters on Github:
+## https://github.com/AdguardTeam/AdguardFilters/tree/master/AnnoyancesFilter/sections
+## https://github.com/AdguardTeam/AdguardFilters/tree/master/SocialFilter/sections
+## https://github.com/AdguardTeam/AdguardFilters/tree/master/SpywareFilter/sections
+## https://github.com/AdguardTeam/AdguardFilters/tree/master/EnglishFilter/sections
+
+
+https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/tracking_servers.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/tracking_servers_firstparty.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/specific.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/general_url.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/general_extensions.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/general_elemhide.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/css_extended.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/whitelist.txt
+
+
+
+https://github.com/AdguardTeam/AdguardFilters/blob/master/SocialFilter/sections/css_extended.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/SocialFilter/sections/general_elemhide.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/SocialFilter/sections/general_extensions.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/SocialFilter/sections/general_url.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/SocialFilter/sections/popups.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/SocialFilter/sections/social_trackers.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/SocialFilter/sections/specific.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/SocialFilter/sections/whitelist.txt
+
+
+
+
+
+https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/adservers.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/adservers_firstparty.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/antiadblock.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/cryptominers.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/css_extended.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/foreign.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/general_elemhide.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/general_extensions.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/general_url.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/replace.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/specific.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/whitelist.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/whitelist_stealth.txt
+
+
+
+https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/annoyances.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/antiadblock.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/cookies_general.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/cookies_specific.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/cookies_whitelist.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/css_extended.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/low-attendance.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/mobile-app.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/push-notifications.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/remains.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/self-promo.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/tweaks.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/widgets.txt
+
+
+## AdGuard Ad Filters
+## https://kb.adguard.com/en/general/adguard-ad-filters
+
+## English filter
 https://filters.adtidy.org/extension/chromium/filters/2.txt
+
+## Simplified domain names filter
+https://filters.adtidy.org/extension/chromium/filters/15.txt
+
+## Mobile ads filter
+https://filters.adtidy.org/extension/chromium/filters/11.txt
+
+## Experimental filter
 https://filters.adtidy.org/extension/chromium/filters/5.txt
+
+## Filter for useful ads
+https://filters.adtidy.org/extension/chromium/filters/10.txt
+
+## Annoyances filter
+https://filters.adtidy.org/extension/chromium/filters/14.txt
+
+## Social media filter
+https://filters.adtidy.org/extension/chromium/filters/4.txt
+
+## Spyware filter
+https://filters.adtidy.org/extension/chromium/filters/3.txt
+
+
+
+
+
+
+
+
 
 ##-==================================-##
 ##          Warning!
@@ -208,7 +300,7 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/host
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
 
-
+https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
 https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt
 https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
