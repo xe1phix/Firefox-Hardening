@@ -17,6 +17,8 @@ https://github.com/hl2guide/All-in-One-Customized-Adblock-List#lists
 https://github.com/uBlockOrigin/uAssets/tree/master/filters
 https://github.com/gorhill/uBlock.wiki.git
 https://v.firebog.net/hosts/lists.php?type=all
+https://github.com/CHEF-KOCH/ASN-blocking
+https://github.com/CHEF-KOCH/NSABlocklist
 https://adblockplus.org/subscriptions
 https://v.firebog.net/hosts/
 https://filterlists.com/
@@ -126,9 +128,6 @@ https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 
-
-https://github.com/CHEF-KOCH/ASN-blocking
-https://github.com/CHEF-KOCH/NSABlocklist
 
 https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/uBlock.txt
 https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/OpenWrt.txt
@@ -376,6 +375,9 @@ http://www.bleedingsnort.com/blackhole-dns/
 https://urlhaus.abuse.ch/downloads/rpz
 http://winhelp2002.mvps.org/hosts.txt
 
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
+https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
@@ -397,8 +399,7 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-g
 https://raw.githubusercontent.com/thoughtconverge/abf/master/abf.txt
 https://raw.githubusercontent.com/lewisje/jansal/master/adblock/hosts
 http://www.jabcreations.com/downloads/adblock-filters.php
-https://github.com/StevenBlack/hosts/raw/master/hosts
-
+https://github.com/aggsol/blocklists
 http://sysctl.org/cameleon/hosts
 http://rlwpx.free.fr/WPFF/hosts.htm
 http://securemecca.com/Downloads/hosts.txt
@@ -414,13 +415,6 @@ https://raw.githubusercontent.com/bogachenko/adfilters/master/adfilters.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/kano1/I/master/adware.txt
 https://raw.githubusercontent.com/MrThreat/Confirmed-Phish/master/phish.txt
-https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
-https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt
-https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
 
 https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
@@ -449,17 +443,24 @@ https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock_an
 https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock_anti_annoyances_block_inline_script.txt
 https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock_anti_annoyances_hide.txt
 https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock_anti_annoyances_style_inject.txt
-
 https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt
 
-
 https://v.firebog.net/hosts/static/w3kbl.txt
-
 
 http://malwareurls.joxeankoret.com/domains.txt
 http://malwareurls.joxeankoret.com/grayarea.txt
 http://malwareurls.joxeankoret.com/normal.txt
 
+
+
+
+
+https://github.com/uMatrix-Rules
+https://github.com/uMatrix-Rules/uMatrix-Rules-Site
+https://github.com/uMatrix-Rules/uMatrix-Rules-Domain
+
+https://github.com/uMatrix-Rules/uMatrix-Rules.github.io
+https://github.com/uMatrix-Rules/uMatrix-Rules-Domain/raw/master/rules.txt
 
 
 ## ------------------------------ ##
@@ -541,23 +542,4 @@ abp:subscribe?location=https%3A%2F%2Feasylist.to%2Feasylist%2Feasylist.txt&amp;t
 abp:subscribe?location=https%3A%2F%2Feasylist.to%2Feasylist%2Feasyprivacy.txt&amp;title=EasyPrivacy
 
 abp:subscribe?location=https%3A%2F%2Fgnuzilla.gnu.org%2Ffilters%2Fblacklist.txt&amp;title=GNU%20Blacklist
-
-
-
-Raspberry Pi distro which acts as a wifi access point that blocks ads.
-http://pgl.yoyo.org/adservers/#raspberry-pi-distro
-
-
-
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://github.com/aggsol/blocklists
-
-
-https://github.com/uMatrix-Rules
-https://github.com/uMatrix-Rules/uMatrix-Rules-Site
-https://github.com/uMatrix-Rules/uMatrix-Rules-Domain
-
-https://github.com/uMatrix-Rules/uMatrix-Rules.github.io
-https://github.com/uMatrix-Rules/uMatrix-Rules-Domain/raw/master/rules.txt
 
