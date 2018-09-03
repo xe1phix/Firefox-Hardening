@@ -37,11 +37,20 @@ https://www.spamhaus.org/drop/edrop.txt
 https://www.spamhaus.org/drop/dropv6.txt
 https://www.spamhaus.org/drop/asndrop.txt
 
-
+https://hosts-file.net/ad_servers.txt
 https://hosts-file.net/download/hosts.txt
 https://hosts-file.net/download/HOSTS-Optimized.txt
-https://hosts-file.net/download/hosts-NOPHAFSA.txt
 https://hosts-file.net/download/HOSTS-NOPHAFSA-Optimized.txt
+https://hosts-file.net/download/hosts-NOPHAFSA.txt
+https://hosts-file.net/pha.txt
+https://hosts-file.net/mmt.txt
+https://hosts-file.net/hjk.txt
+https://hosts-file.net/hfs.txt
+https://hosts-file.net/grm.txt
+https://hosts-file.net/fsa.txt
+https://hosts-file.net/exp.txt
+https://hosts-file.net/emd.txt
+
 
 http://someonewhocares.org/hosts/hosts
 https://someonewhocares.org/hosts/rss.xml
@@ -59,13 +68,6 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.tx
 https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt
 
 
-
-
-https://hosts-file.net/download/hosts.txt
-https://hosts-file.net/download/HOSTS-Optimized.txt
-https://hosts-file.net/download/hosts-NOPHAFSA.txt
-https://hosts-file.net/download/HOSTS-NOPHAFSA-Optimized.txt
-
 http://www.fanboy.co.nz/adblock/fanboy-tracking.txt
 https://www.fanboy.co.nz/fanboy-problematic-sites.txt
 https://www.fanboy.co.nz/r/fanboy-complete.txt
@@ -82,8 +84,6 @@ https://easylist-downloads.adblockplus.org/easyprivacy.txt
 https://easylist-downloads.adblockplus.org/easylist.txt
 https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
 
-
-https://www.malwaredomainlist.com/hostslist/hosts.txt
 http://mirror1.malwaredomains.com/files/immortal_domains.txt
 http://mirror1.malwaredomains.com/files/justdomains
 http://mirror1.malwaredomains.com/files/freewebhosts.txt
@@ -101,14 +101,6 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 
-https://filters.adtidy.org/extension/chromium/filters/3.txt
-https://filters.adtidy.org/extension/chromium/filters/4.txt
-https://filters.adtidy.org/windows/filters/15.txt
-https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
-https://filters.adtidy.org/extension/chromium/filters/14.txt
-https://filters.adtidy.org/extension/chromium/filters/2.txt
-https://filters.adtidy.org/extension/chromium/filters/5.txt
-
 https://zeustracker.abuse.ch/blocklist.php?download=badips
 https://zeustracker.abuse.ch/blocklist.php?download=ipblocklist
 https://zeustracker.abuse.ch/blocklist.php?download=baddomains
@@ -125,8 +117,6 @@ https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
-
-
 
 
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
@@ -149,16 +139,6 @@ https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/Audio
 https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Spotify-HOSTS-FilterList.txt
 
 
-
-
-https://hosts-file.net/?s=Download
-https://hosts-file.net/ad_servers.txt
-
-
-http://winhelp2002.mvps.org/hosts.txt
-
-
-
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 http://pgl.yoyo.org/adservers/scripts/squid/update-squid-adservers.txt
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=littlesnitch
@@ -172,13 +152,14 @@ http://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblock
 http://pgl.yoyo.org/adservers/iplist.php?ipformat=snort
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=snort
 
-https://hosts-file.net/download/hosts.txt
-https://hosts-file.net/download/HOSTS-Optimized.txt
-https://hosts-file.net/download/hosts-NOPHAFSA.txt
-https://hosts-file.net/download/HOSTS-NOPHAFSA-Optimized.txt
 
-
-
+https://filters.adtidy.org/extension/chromium/filters/3.txt
+https://filters.adtidy.org/extension/chromium/filters/4.txt
+https://filters.adtidy.org/windows/filters/15.txt
+https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
+https://filters.adtidy.org/extension/chromium/filters/14.txt
+https://filters.adtidy.org/extension/chromium/filters/2.txt
+https://filters.adtidy.org/extension/chromium/filters/5.txt
 
 ##-==================================-##
 ##          Warning!
@@ -194,6 +175,7 @@ https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
 http://www.bleedingsnort.com/blackhole-dns/
 
 https://urlhaus.abuse.ch/downloads/rpz
+http://winhelp2002.mvps.org/hosts.txt
 
 https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt
 https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
