@@ -1,0 +1,98 @@
+https-strict: behind-the-scene false
+matrix-off: about-scheme true
+matrix-off: behind-the-scene true
+matrix-off: chrome-extension-scheme true
+matrix-off: chrome-scheme true
+matrix-off: localhost true
+matrix-off: moz-extension-scheme true
+matrix-off: opera-scheme true
+matrix-off: wyciwyg-scheme true
+no-workers: * true
+* * * block
+* * cookie block
+* * css allow
+* * frame block
+* * image allow
+* * other block
+* 1st-party * allow
+* 1st-party frame allow
+* 1st-party other block
+* ajax.aspnetcdn.com script allow
+* ajax.cloudflare.com script allow
+* ajax.googleapis.com script allow
+* algolia.net * allow
+* algolianet.com * allow
+* api.github.com xhr allow
+* api.mapbox.com script allow
+* api.mapbox.com xhr allow
+* api.tiles.mapbox.com script allow
+* bootstrapcdn.com * allow
+* buttons.github.io frame allow
+* buttons.github.io script allow
+* cdn-static-1.medium.com script allow
+* cdn.ampproject.org script allow
+* cdn.embedly.com * allow
+* cdn.embedly.com frame allow
+* cdn.firebase.com * allow
+* cdn.jsdelivr.net * allow
+* cdn.jsdelivr.net script allow
+* cdn.klokantech.com script allow
+* cdn.polyfill.io script allow
+* cdn.streamroot.io * allow
+* cdnjs.cloudflare.com * allow
+* cdnjs.cloudflare.com css allow
+* cdnjs.cloudflare.com script allow
+* cloud.typography.com * allow
+* code.jquery.com script allow
+* consent.google.com * block
+* d3js.org * allow
+* discourse-cdn-sjc1.com * allow
+* fonts.googleapis.com xhr allow
+* free.tilehosting.com xhr allow
+* geocode.earth * allow
+* ghbtns.com * allow
+* ghbtns.com frame allow
+* gist.github.com script allow
+* lastpass.com * allow
+* lastpass.com cookie allow
+* lastpass.com frame allow
+* lastpass.com other allow
+* list-manage.com * allow
+* locations.api.yle.fi * block
+* maps.googleapis.com script allow
+* maps.tilehosting.com xhr allow
+* mapzen.com * allow
+* maxcdn.bootstrapcdn.com css allow
+* maxcdn.bootstrapcdn.com script allow
+* medium.com * allow
+* medium.com cookie allow
+* medium.com frame allow
+* netdna-ssl.com * allow
+* nextzen.org xhr allow
+* openmaptiles.github.io xhr allow
+* openstreetmap.org cookie allow
+* openstreetmap.org frame allow
+* platform.twitter.com frame allow
+* platform.twitter.com script allow
+* player.vimeo.com frame allow
+* s.ytimg.com script allow
+* shopify.com * allow
+* shopifycdn.com * allow
+* shopifycloud.com * allow
+* squarespace.com * allow
+* sstatic.net * allow
+* static.wixstatic.com * allow
+* t.klokantech.com * block
+* talk.theel0ja.info frame allow
+* theel0ja.info * allow
+* tiles.mapbox.com xhr allow
+* tileserver.com xhr allow
+* tunnus.yle.fi * block
+* twimg.com * allow
+* unpkg.com script allow
+* upload.wikimedia.org xhr allow
+* use.fontawesome.com script allow
+* use.typekit.net script allow
+* www.google.com cookie block
+* www.openstreetmap.org script allow
+* www.youtube.com script allow
