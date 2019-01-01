@@ -1,0 +1,34 @@
+What ports does I2P use? (link)
+
+Okay, here's a rundown of the default ports (everything is configurable through various settings, of course):
+
+    Internet-facing ports Note: New installs as of release 0.7.8 do not use port 8887; they select a random port between 9000 and 31000 when the program is run for the first time. The selected port is shown on the router configuration page.
+        Outbound UDP from the random port noted on the configuration page to arbitrary remote UDP ports, allowing replies
+        Outbound TCP from random high ports to arbitrary remote TCP ports
+        (optional, but recommended) Inbound UDP to the port noted on configuration page from arbitrary locations
+        (optional, but recommended) Inbound TCP to the port noted on configuration page from arbitrary locations
+        Inbound TCP may be disabled on the configuration page.
+        Outbound UDP on port 123, allowing replies
+        This is necessary for I2P's internal time sync (via SNTP - querying a random SNTP host in pool.ntp.org or another server you specify)
+    Local I2P ports, listening only to local connections by default, except where noted:
+        1900: UPnP SSDP UDP multicast listener. Cannot be changed. Binds to all interfaces. May be disabled on confignet.jsp.
+        2827: BOB bridge, a higher level socket API for clients Disabled by default. May be enabled/disabled on configclients.jsp. May be changed in the bob.config file.
+        4444: HTTP proxy May be disabled or changed on the i2ptunnel page in the router console. May also be configured to be bound to a specific interface or all interfaces.
+        4445: HTTPS proxy May be disabled or changed on the i2ptunnel page in the router console. May also be configured to be bound to a specific interface or all interfaces.
+        6668: IRC proxy May be disabled or changed on the i2ptunnel page in the router console. May also be configured to be bound to a specific interface or all interfaces.
+        7652: UPnP HTTP TCP event listener. Binds to the LAN address. May be changed with advanced config i2np.upnp.HTTPPort=nnnn. May be disabled on confignet.jsp.
+        7653: UPnP SSDP UDP search response listener. Binds to all interfaces. May be changed with advanced config i2np.upnp.SSDPPort=nnnn. May be disabled on confignet.jsp.
+        7654: I2P Client Protocol port, used by client apps. May be changed to a different port on configclients.jsp but this is not recommended. May be to bind to a different interface or all interfaces, or disabled, on configclients.jsp.
+        7655: UDP for SAM bridge, a higher level socket API for clients Only opened when a SAM V3 client requests a UDP session. May be enabled/disabled on configclients.jsp. May be changed in the clients.config file with the SAM command line option sam.udp.port=nnnn.
+        7656: SAM bridge, a higher level socket API for clients Disabled by default for new installs as of release 0.6.5. May be enabled/disabled on configclients.jsp. May be changed in the clients.config file.
+        7657: Your router console May be disabled in the clients.config file. May also be configured to be bound to a specific interface or all interfaces in that file.
+        7658: Your eepsite May be disabled in the clients.config file. May also be configured to be bound to a specific interface or all interfaces in the jetty.xml file.
+        7659: Outgoing mail to smtp.postman.i2p May be disabled or changed on the i2ptunnel page in the router console. May also be configured to be bound to a specific interface or all interfaces.
+        7660: Incoming mail from pop.postman.i2p May be disabled or changed on the i2ptunnel page in the router console. May also be configured to be bound to a specific interface or all interfaces.
+        8998: mtn.i2p2.i2p (Monotone - disabled by default) May be disabled or changed on the i2ptunnel page in the router console. May also be configured to be bound to a specific interface or all interfaces.
+        31000: Local connection to the wrapper control channel port. Outbound to 32000 only, does not listen on this port. Starts at 31000 and will increment until 31999 looking for a free port. To change, see the wrapper documentation. For more information see below.
+        32000: Local control channel for the service wrapper. To change, see the wrapper documentation. For more information see below.
+
+The local I2P ports and the I2PTunnel ports do not need to be reachable from remote machines, but *should* be reachable locally. You can also create additional ports for I2PTunnel instances via http://localhost:7657/i2ptunnel/ (and in turn, would need to get your firewall to allow you local access, but not remote access, unless desired).
+
+So, to summarize, nothing needs to be reachable by unsolicited remote peers, but if you can configure your NAT/firewall to allow inbound UDP and TCP the outbound facing port, you'll get better performance. You will also need to be able to send outbound UDP packets to arbitrary remote peers (blocking IPs randomly with something like PeerGuardian only hurts you - don't do it).
