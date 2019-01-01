@@ -1,0 +1,173 @@
+! 6/25/2018, 12:28:14 AM https://www.pornhub.com/video?page=2
+www.pornhub.com##body > .lonesomemuch
+
+! 6/25/2018, 12:28:28 AM https://www.pornhub.com/video?page=2
+www.pornhub.com##.footer
+
+! 6/25/2018, 12:28:34 AM https://www.pornhub.com/video?page=2
+www.pornhub.com##.footer-title
+
+! 6/25/2018, 12:28:45 AM https://www.pornhub.com/video?page=2
+www.pornhub.com##.logoFooterWrapper
+
+! 6/25/2018, 9:49:37 PM https://www.pornhub.com/pornstar/ashley-brooke
+www.pornhub.com##.psWrapper > .lonesomemuch
+
+! 6/25/2018, 9:49:48 PM https://www.pornhub.com/pornstar/ashley-brooke
+www.pornhub.com##.pornstarVideosCounter.showingCounter
+
+! 6/25/2018, 9:50:46 PM https://www.pornhub.com/pornstar/ashley-brooke
+www.pornhub.com###footer
+
+! 6/25/2018, 11:15:03 PM https://www.nsaneforums.com/discover/
+www.nsaneforums.com##.ipsType_center.ipsMessage_none.ipsMessage.cAnnouncementContentTop > [href="https://www.nsaneforums.com/announcement/1-donations/"]
+
+! 6/25/2018, 11:15:15 PM https://www.nsaneforums.com/discover/
+www.nsaneforums.com###ipsLayout_sidebar
+
+! 6/26/2018, 1:23:05 AM https://www.nsaneforums.com/discover/
+www.nsaneforums.com##.cAnnouncementsContent
+
+! 6/26/2018, 1:57:47 AM https://www.warez-bb.org/
+www.warez-bb.org###slogan
+
+! 6/26/2018, 1:57:55 AM https://www.warez-bb.org/
+||img12.warez-bb.org/wbb3_theme/logos/wbb_logo_v3.jpg$image
+
+! 6/26/2018, 1:58:09 AM https://www.warez-bb.org/
+www.warez-bb.org###infobar
+
+! 6/26/2018, 2:26:39 AM https://theintercept.com/2018/06/25/att-internet-nsa-spy-hubs/
+theintercept.com##.Post--current.Post--190502.Post--feature.Post > .Post-body > .Post-content-block-outer > .Post-scroll-container.GridContainer > .GridRow > .Post-content-block > .Post-content-block-inner > .InlineDonationPromo
+
+! 6/26/2018, 9:24:25 PM https://uploadocean.com/jnpc8sq5pgjg
+uploadocean.com##div.strip_right:nth-of-type(3)
+
+! 6/26/2018, 9:25:41 PM https://www.golem.de/
+www.golem.de###gservabo
+
+! 6/27/2018, 12:28:28 AM https://www.google.de/search?q=can%27t+open+action+center&source=lnt&tbs=qdr:m&sa=X&ved=0ahUKEwiaoZfZr_LbAhXvsaQKHX9cDlgQpwUIHw&biw=1597&bih=942
+www.google.de##.vk_c.yAVMkd
+
+! 6/27/2018, 4:24:41 PM https://gls-group.eu/DE/de/paketverfolgung?match=483066604945&txtAction=71000
+gls-group.eu###gls_app_witt002_pageControllerSearch_0 > .appHeadWrp
+
+! 6/27/2018, 10:28:54 PM https://skidrowgamesreloaded.com/
+skidrowgamesreloaded.com###block-main > div > div > .wrapper > section.grid-block:nth-of-type(1) > .grid-box
+
+! 6/28/2018, 11:52:51 PM https://www.rockpapershotgun.com/2018/01/02/biggest-steam-games-2017/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rockpapershotgun%2Fsteam+%28Rock%2C+Paper%2C+Shotgun%3A+Steam+RSS%29
+www.rockpapershotgun.com##.cookie-bar.cookie-gdpr
+
+! 6/29/2018, 7:52:24 PM https://www.golem.de/
+www.golem.de##.rmp-error-text
+
+! 6/30/2018, 5:05:46 AM https://www.pornhub.com/pornstars?page=31
+www.pornhub.com###pornstarsFilterContainer > .lonesomemuch
+
+! 6/30/2018, 5:15:34 AM https://www.pornhub.com/view_video.php?viewkey=ph5b2ce3e926fd2
+www.pornhub.com##ads > div:nth-of-type(1)
+
+! 6/30/2018, 5:15:39 AM https://www.pornhub.com/view_video.php?viewkey=ph5b2ce3e926fd2
+www.pornhub.com##ads > div:nth-of-type(2)
+
+! 7/9/2018, 9:39:43 PM https://www.twitch.tv/meesbaker
+www.twitch.tv##._ig_twitch_buybutton
+
+! 7/9/2018, 11:49:53 PM https://www.pornhub.com/categories/babe
+www.pornhub.com##body > .foragirllikeyou
+
+! 7/10/2018, 2:00:46 AM https://sourceforge.net/p/equalizerapo/discussion/general/?page=0
+sourceforge.net##.qc-cmp-showing.qc-cmp-ui-container
+
+! 7/10/2018, 4:47:04 AM https://www.speedrun.com/earthbound/guides
+www.speedrun.com###maincontainer > div:nth-of-type(1)
+
+! 7/10/2018, 4:47:09 AM https://www.speedrun.com/earthbound/guides
+www.speedrun.com###sidebar > div:nth-of-type(2)
+
+! 7/10/2018, 4:47:15 AM https://www.speedrun.com/earthbound/guides
+www.speedrun.com##footer:nth-of-type(1)
+
+! 7/29/2018, 3:05:03 PM https://www.vb-audio.com/Voicemeeter/banana.htm
+www.vb-audio.com##center:nth-of-type(5) > table > tbody > tr > td:nth-of-type(3) > center
+
+! 7/29/2018, 3:05:20 PM https://www.vb-audio.com/Voicemeeter/banana.htm
+www.vb-audio.com##center:nth-of-type(7) > table > tbody > tr > td > center:nth-of-type(1)
+
+! 7/29/2018, 3:05:24 PM https://www.vb-audio.com/Voicemeeter/banana.htm
+www.vb-audio.com##center:nth-of-type(7) > table > tbody > tr > td > center:nth-of-type(2)
+
+! 7/29/2018, 3:05:56 PM https://www.vb-audio.com/Voicemeeter/banana.htm
+www.vb-audio.com###Documentation > center:nth-of-type(1) > table > tbody > tr > td
+
+! 8/4/2018, 9:58:11 PM https://www.nsaneforums.com/topic/315047-w10-digital-license-generation-c-version-of-hwid-fork/?page=8&tab=comments#comment-1357509
+www.nsaneforums.com##.ipsSpacer_bottom.ipsPad.ipsPhotoPanel_tiny.ipsPhotoPanel.ipsBox.cContentMessage
+
+! 8/4/2018, 10:08:46 PM https://www.nsaneforums.com/topic/316668-w10-digital-license-activation-script/
+www.nsaneforums.com##.ipsResponsive_hidePhone.ipsSpacer_both.ipsClearfix.ipsToolList_horizontal.ipsToolList
+
+! 8/4/2018, 10:08:52 PM https://www.nsaneforums.com/topic/316668-w10-digital-license-activation-script/
+www.nsaneforums.com###ipsLayout_mainArea > div.ipsClearfix:nth-of-type(3)
+
+! 8/8/2018, 1:33:06 AM https://uploadocean.com/mqd4d9ilmotz
+uploadocean.com##.down1_holder > div:nth-of-type(2)
+
+! 8/8/2018, 6:18:23 AM https://uploadocean.com/a0hzki3j8wwz
+||uploadocean.com/UploadOcean_images/ico-prem-black.png$image
+
+! 8/8/2018, 6:18:27 AM https://uploadocean.com/a0hzki3j8wwz
+uploadocean.com##.make_money > [href="https://uploadocean.com/make_money.html"]
+
+! 9/14/2018, 1:05:01 AM https://thehackernews.com/
+thehackernews.com##.right-box
+
+! 9/14/2018, 1:05:19 AM https://thehackernews.com/
+thehackernews.com##.cf.deals
+
+! 9/16/2018, 6:24:39 PM https://www.howtogeek.com/245445/how-to-use-slmgr-to-change-remove-or-extend-your-windows-license/
+www.howtogeek.com##.email-overlay
+
+! 9/16/2018, 6:28:10 PM https://www.howtogeek.com/245445/how-to-use-slmgr-to-change-remove-or-extend-your-windows-license/
+www.howtogeek.com##.overlay-wrapper
+
+! 9/16/2018, 6:28:21 PM https://www.howtogeek.com/245445/how-to-use-slmgr-to-change-remove-or-extend-your-windows-license/
+www.howtogeek.com##.overlay-inner
+
+! 9/18/2018, 7:25:16 PM https://upload4earn.org/edk2qbbqwj76
+upload4earn.org##center
+
+! 9/18/2018, 8:43:48 PM https://crackwatch.com/
+crackwatch.com##.App > div > div:nth-of-type(5)
+
+! 9/18/2018, 8:44:29 PM https://crackwatch.com/game/beyond-good-and-evil-2
+crackwatch.com###ts0w54
+
+! 9/19/2018, 1:02:52 AM https://www.twitch.tv/
+www.twitch.tv##.tw-top-0.tw-right-0.tw-relative.tw-pd-y-1.tw-pd-x-2.tw-left-0.tw-justify-content-center.tw-flex-row.tw-flex.tw-c-text.tw-c-background-accent-alt-2.tw-border-b.tw-align-items-center.gdpr-consent-banner
+
+! 9/20/2018, 4:11:29 PM https://www.station-drivers.com/index.php?option=com_content&view=featured&Itemid=101&lang=en-nz
+www.station-drivers.com##.uk-grid.tm-top-a > .uk-width-1-1 > .uk-panel-box.uk-panel
+
+! 9/20/2018, 4:11:35 PM https://www.station-drivers.com/index.php?option=com_content&view=featured&Itemid=101&lang=en-nz
+www.station-drivers.com###tm-top-a
+
+! 9/20/2018, 11:31:22 PM https://cloud.mail.ru/public/Lwv7/CJS6xsGYX
+cloud.mail.ru##.b-layer__container_disko-popup.b-layer__container_popup.b-layer__container
+
+! 9/20/2018, 11:31:26 PM https://cloud.mail.ru/public/Lwv7/CJS6xsGYX
+cloud.mail.ru##.b-layer__wrapper3_disko-popup.b-layer__wrapper3_popup.b-layer__wrapper3
+
+! 9/20/2018, 11:31:31 PM https://cloud.mail.ru/public/Lwv7/CJS6xsGYX
+cloud.mail.ru##.b-layer__wrapper_disko-popup.b-layer__wrapper_popup.b-layer__wrapper
+
+! 9/20/2018, 11:31:36 PM https://cloud.mail.ru/public/Lwv7/CJS6xsGYX
+cloud.mail.ru##.b-layer__overlay
+
+! 9/20/2018, 11:31:43 PM https://cloud.mail.ru/public/Lwv7/CJS6xsGYX
+cloud.mail.ru##.b-tooltip__content
+
+! 9/23/2018, 2:10:06 AM https://www.xrel.to/game-nfo/1660955/Doll-of-Resurrection-HOODLUM.html
+www.xrel.to###tbm-text
+
+! 9/23/2018, 2:10:10 AM https://www.xrel.to/game-nfo/1660955/Doll-of-Resurrection-HOODLUM.html
+www.xrel.to###tbm-dim
