@@ -1,0 +1,102 @@
+! Ads related
+!
+! Adblock Warning Removal List
+! https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+! Anti-Adblock Killer | Reek
+! raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
+! EasyList
+! easylist-downloads.adblockplus.org/easylist.txt
+! EasyList w/o element hiding rules
+! easylist-downloads.adblockplus.org/easylist_noelemhide.txt
+! Acceptable Ads
+! https://adblockplus.org/en/acceptable-ads
+
+
+
+! Privacy related
+!
+! Basic tracking list by Disconnect‎
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+! EasyPrivacy by adblock.org
+! easylist-downloads.adblockplus.org/easyprivacy.txt
+! Fanboy’s Enhanced Tracking List by fanboy.co.nz
+! http://www.fanboy.co.nz/enhancedstats.txt
+! GNU privacy filter
+! http://gnuzilla.gnu.org/filters/blacklist.txt
+! CHEF-KOCH's NSA blocklist
+! https://github.com/CHEF-KOCH/NSABlocklist/blob/master/HOSTS.txt
+
+
+
+! Blocks Malware domains
+!
+! Malvertising filter list by Disconnect‎
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+! Malware filter list by Disconnect‎
+https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
+! Malware Domain list
+! http://www.malwaredomainlist.com/hostslist/hosts.txt
+! Malware Domain (just Domains) [mirror from mailwaredomainlist.com]
+! mirror1.malwaredomains.com/files/justdomains
+! Immortal Domains (also called long-lived)
+! mirror1.malwaredomains.com/files/immortal_domains.txt
+! Spam404 by spam404bl.com
+! http://spam404bl.com/blacklist.txt
+
+
+
+! Anti social networks and buttons
+! 
+! Fanboy's anti-social list which blocks buttons, sites, ...
+! http://www.fanboy.co.nz/fanboy-antifacebook.txt
+! Fanboy’s Annoyance List by adblockplus.org
+! easylist-downloads.adblockplus.org/fanboy-annoyance.txt
+! Fanboy's third-party Annoyance list
+! easylist-downloads.adblockplus.org/fanboy-annoyance.txt
+! Fanboy's Social Blocking List 
+! easylist-downloads.adblockplus.org/fanboy-social.txt
+
+
+
+! Multipurpose and Misc
+!
+! Dan Pollock’s hosts file by someonewhocares.org [also avb. as IPv6 and nulled]
+! someonewhocares.org/hosts/hosts
+! Fanboy's ultimate list (combines all)
+! http://www.fanboy.co.nz/fanboy-ultimate.txt
+! hpHosts’s Ad and tracking servers by hosts-file.net [sometimes offline]
+! hosts-file.net/ad-servers
+! MVPS HOSTS
+! winhelp2002.mvps.org/hosts.txt
+! AdGuards blocking list (overview only)
+! -> https://adguard.com/en/filters.html
+
+
+
+! YouTube related
+! 
+! YouTube all suggestions and comments
+! https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt
+! YouTube suggestions 
+https://easylist-downloads.adblockplus.org/yt_annoyances_suggestions.txt
+! YouTube annoyances
+! https://easylist-downloads.adblockplus.org/yt_annoyances_other.txt
+! YouTube Remove Comments
+https://easylist-downloads.adblockplus.org/yt_annoyances_comments.txt
+
+
+
+! Cookie related
+!
+! EU: Prebake - Filter Obtrusive Cookie Notices
+! https://raw.githubusercontent.com/liamja/Prebake/master/obtrusive.txt
+
+easylist-downloads.adblockplus.org/easylist.txt
+someonewhocares.org/hosts/hosts
+https://github.com/CHEF-KOCH/NSABlocklist/blob/master/HOSTS.txt
+http://www.fanboy.co.nz/enhancedstats.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+https://raw.githubusercontent.com/liamja/Prebake/master/obtrusive.txt
+http://www.fanboy.co.nz/fanboy-ultimate.txt
+http://gnuzilla.gnu.org/filters/blacklist.txt
