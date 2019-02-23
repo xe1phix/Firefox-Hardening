@@ -1,0 +1,148 @@
+##-==============================================-##
+##    CHEF-KOCH-uBlock-Amazon-FilterList.txt
+##-==============================================-##
+!
+! ---------- Amazon ----------
+!
+!posthaven-assets.s3.amazonaws.com^
+###freespace [href*="amazon.co.jp"]
+###right a[href*="amazon.co.jp"]
+###side a[href*="amazon.co.jp"]
+###sidemenu a[href*="amazon.co.jp"]
+###sub a[href*="amazon.co.jp"]
+##.left-column-inner a[href*="amazon.co.jp"]
+##.left-container a[href*="amazon.co.jp"]
+##.plugin-freearea a[href*="amazon.co.jp"]
+##.plugin-freearea1 a[href*="amazon.co.jp"]
+##.right-column-inner a[href*="amazon.co.jp"]
+##.right-container a[href*="amazon.co.jp"]
+##.side a[href*="amazon.co.jp"]
+##.sidemenu2 a[href*="amazon.co.jp"]
+##.sidewrapper a[href*="amazon.co.jp"]
+#.column-inner-2 a[href*="amazon.co.jp"]
+/\:\/\/s3\.amazonaws\.com\/.*[a-f0-9\/]{50,}/$script,xmlhttprequest,third-party,domain=~amazon.com
+/amazon.js
+/tinywidget.min.js
+@@||amazon.*^*uedata$image
+amazon.co.uk##.actor.xrayQuickViewListItem
+amazon.co.uk##.show.xrayQuickView
+amazon.co.uk##.xrayHeaderLink
+amazon.co.uk##.xrayQuickViewList.collectionView
+amazon.com###huc-v2-order-row-placeholder
+amazon.com###miniATFUDP:style(position: relative !important; top: 0 !important;)
+amazon.com###miniATF_feature_div:style(position: relative !important; top: 0 !important;)
+amazon.com###nav-flyout-ewc:style(position: absolute !important; top: 0 !important; height: 600px !important;)
+amazon.com###nav-mobile-airstream-stripe
+amazon.com###subtotalsContainer:style(position: absolute !important; top: 0 !important;)
+amazon.com###tell-a-friend-byline
+amazon.com###tellAFriendBox_feature_div
+amazon.com###tellafriendAUI
+amazon.com##.actor.xrayQuickViewListItem
+amazon.com##.ewc-beacon.nav-flyout-body:style(top: 0 !important; height: 501px !important; border-bottom-color: rgb(202, 202, 202); !important; border-bottom-style: solid !important; border-bottom-width: 1px !important;)
+amazon.com##.huc-v2-pinned-order-row-with-divider:style(position: relative !important; top: 0 !important; padding: 0 !important;)
+amazon.com##.nav-flyout-head:style(padding-top: 47px !important; height: 99px !important; top: 0px !important;)
+amazon.com##.nav-sprite.nav-tools.nav-flyout-head:style(top: 0px !important;)
+amazon.com##.pantry-place-holder
+amazon.com##.pantry-wayfinder-sticky-bar:style(position: relative !important;)
+amazon.com##.show.xrayQuickView
+amazon.com##.stickybuybox.a-button-stack:style(position: absolute !important;)
+amazon.com##.w-swf-inline-tab
+amazon.com##.xrayHeaderLink
+amazon.com##.xrayQuickViewList.collectionView
+amazon.com##body:style(overflow-x: hidden !important; overflow-y: auto !important; padding-top: 0px !important;)
+amazon.com/empty.gif
+amazon.com/mn/search/uedata/
+ams-ads-cornerstone-creatives.s3.amazonaws.com
+fls-na.amazon.com/*/amazon-clicks/
+m.media-amazon.com/images/*/AMSSponsoredSearch
+ssl-images-amazon.com/images/*/ClientSideMetricsAUIJavascript
+||10bet.s3.amazonaws.com^
+||a6522.s3-website-us-east-1.amazonaws.com^
+||ad-amazing.com^
+||admarvel.s3.amazonaws.com^
+||ads_ad_center.s3.amazonaws.com^
+||adstracking.s3-website-us-west-1.amazonaws.com^
+||adstracking.s3-website-us-west-2.amazonaws.com^
+||adtago.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||advrts.s3.amazonaws.com^
+||adzerk-www.s3.amazonaws.com^
+||adzerk.s3.amazonaws.com^
+||airpushmarketing.s3.amazonaws.com^
+||alexa-sitestats.s3.amazonaws.com^
+||applab-sdk.amazon.com^
+||arabmistress.s3.amazonaws.com^
+||assets-hellobar-com.s3.amazonaws.com^
+||assoc-amazon.co.uk^
+||assoc-amazon.com^
+||biowebb-data.s3.amazonaws.com^
+||blamads-assets.s3.amazonaws.com^
+||bo-videos.s3.amazonaws.com^
+||bro1.s3.amazonaws.com^
+||cadreon.s3.amazonaws.com^
+||campaign-tapad.s3.amazonaws.com^
+||cd-ladsp-com.s3.amazonaws.com^
+||cdn.installationsafe.net.s3.amazonaws.com^
+||cdnpuaf.s3.amazonaws.com^
+||ce2-dev-trk.s3.amazonaws.com^
+||ce2-dev.s3.amazonaws.com^
+||chartaca.com.s3.amazonaws.com^
+||click.s3.amazonaws.com^
+||cloudfront-labs.amazonaws.com^
+||clutchmag.s3.amazonaws.com^
+||com.djinnworks.sdm.s3.amazonaws.com^
+||convertglobal.s3.amazonaws.com^
+||d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com^
+||dban4-549565586.eu-west-1.elb.amazonaws.com^
+||demandmedia.s3.amazonaws.com^
+||deskwww.s3.amazonaws.com^
+||ec2-54-171-97-32.eu-west-1.compute.amazonaws.com^
+||ec2-54-225-149-4.compute-1.amazonaws.com^
+||ec2-54-235-183-132.compute-1.amazonaws.com^
+||ecommstats.s3.amazonaws.com^
+||entrecard.s3.amazonaws.com^
+||epowernetworktrackerimages.s3.amazonaws.com^
+||evs-hosted-14facd241e1c08.s3.amazonaws.com^
+||fls-eu.amazon.com^
+||fls-eu.amazon.de^
+||fls-eu.amazon.uk^
+||fls-fe.amazon.co.jp^
+||fls-na-amazon.com^
+||forumwarz.s3.amazonaws.com^
+||gateways.s3.amazonaws.com^
+||get-amazing-results.com^
+||getbarometer.s3.amazonaws.com^
+||getsidecar.s3.amazonaws.com^
+||gfaf-banners.s3.amazonaws.com^
+||gtrk.s3.amazonaws.com^$important
+||hb-assets.s3.amazonaws.com^
+||homad-global-configs-eu-fra.schneevonmorgen.com.s3.amazonaws.com^
+||html5adkit.plusmo.s3.amazonaws.com^
+||html5ads.s3.amazonaws.com^
+||htmlads.s3.amazonaws.com^
+||iacpromotion.s3.amazonaws.com^
+||immassets.s3.amazonaws.com^
+||inneractive-assets.s3.amazonaws.com^
+||inpref.s3-external-3.amazonaws.com^
+||inpref.s3.amazonaws.com^
+||interactive-assets.s3.amazonaws.com^
+||kkastatic.s3.amazonaws.com^
+||kraken-measurements.s3.amazonaws.com^
+||livechat.s3.amazonaws.com^
+||livefyre-avatar.s3.amazonaws.com^
+||load.s3.amazonaws.com^
+||load.s3.amazonaws.com^$important
+||loved-by.s3.amazonaws.com^
+||rcm-de.amazon.de^
+||rcm-images.amazon.com^
+||rcm.amazon.com^
+||rich-agent.s3.amazonaws.com^
+||s3-tracking.synthasite.net.s3.amazonaws.com^
+||s3-us-west-2.amazonaws.com/bww.mediagroup/veam-8-30-17-webinar-overlay-v2.2.png$image
+||s3.amazonaws.com/homad-global-configs.schneevonmorgen.com/hd-main.js$script,domain=autobild.de|chip.de|cinema.de|computerbild.de|cdnapi.kaltura.com|erdbeerlounge.de|focus.de|gamona.de|giga.de|spiegel.de|spieleaffe.de|spieletipps.de|sueddeutsche.de|t-online.de,redirect=hd-main.js
+||s3.amazonaws.com^$xmlhttprequest,domain=iwatchonline.cr|iwatchonline.eu
+||sana.newsinc.com.s3.amazonaws.com^
+~amazon.co.jp###sidebar a[href*="amazon.co.jp"]
+~amazon.co.jp,~amazon.com,~amazon.co.uk,~amazon.co.de###left a[href*="amazon.co.jp"]
+~amazon.co.jp,~amazon.com,~amazon.co.uk,~amazon.co.de##.sidebar a[href*="amazon.co.jp"]
+
