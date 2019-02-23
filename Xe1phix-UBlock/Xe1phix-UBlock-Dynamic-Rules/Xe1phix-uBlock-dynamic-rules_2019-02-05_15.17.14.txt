@@ -1,0 +1,403 @@
+no-cosmetic-filtering: addons.mozilla.org true
+no-csp-reports: * true
+no-large-media: * true
+no-large-media: act.eff.org false
+no-large-media: adblockplus.org false
+no-large-media: addons.mozilla.org false
+no-large-media: archive.org false
+no-large-media: askubuntu.com false
+no-large-media: behind-the-scene false
+no-large-media: blog.mozilla.org false
+no-large-media: boards.420chan.org false
+no-large-media: boards.4chan.org false
+no-large-media: brave.com false
+no-large-media: browse.startpage.com false
+no-large-media: browsec.com false
+no-large-media: browseraudit.com false
+no-large-media: browserleaks.com false
+no-large-media: browserprint.info false
+no-large-media: cdimage.ubuntu.com false
+no-large-media: cdn-fastly.deb.debian.org false
+no-large-media: chef-koch.deviantart.com false
+no-large-media: chef-koch.github.io false
+no-large-media: classic.startpage.com false
+no-large-media: community.brave.com true
+no-large-media: community.cloudflare.com false
+no-large-media: community.f-secure.com false
+no-large-media: community.openvpn.net true
+no-large-media: community.oracle.com false
+no-large-media: crackstation.net false
+no-large-media: crypto.stackexchange.com false
+no-large-media: cryptome.wikileaks.org true
+no-large-media: distrowatch.com false
+no-large-media: dnscrypt-proxy.slack.com false
+no-large-media: dnscrypt.info false
+no-large-media: dnscrypt.org false
+no-large-media: dnsleak.com false
+no-large-media: doc.pfsense.org false
+no-large-media: docs.fedoraproject.org false
+no-large-media: docs.parrotsec.org false
+no-large-media: docs.vmware.com false
+no-large-media: download.dnscrypt.org false
+no-large-media: download.lineageos.org true
+no-large-media: duckduckgo.com false
+no-large-media: eff.org false
+no-large-media: feeds.feedburner.com false
+no-large-media: forum.adguard.com false
+no-large-media: forum.bittorrent.com false
+no-large-media: forum.pfsense.org false
+no-large-media: forum.pidgin-im.de false
+no-large-media: forum.xda-developers.com false
+no-large-media: forums.androidcentral.com false
+no-large-media: forums.fedoraforum.org false
+no-large-media: forums.opensuse.org false
+no-large-media: fossbytes.com false
+no-large-media: geti2p.net false
+no-large-media: giphy.com false
+no-large-media: gist.github.com false
+no-large-media: github.com false
+no-large-media: gitlab.com false
+no-large-media: guardianproject.github.io false
+no-large-media: hackaday.com false
+no-large-media: imgur.com false
+no-large-media: linuxacademy.com false
+no-large-media: maps.org false
+no-large-media: netflix.com false
+no-large-media: player.fm false
+no-large-media: privateinternetaccess.com false
+no-large-media: protonmail.com false
+no-large-media: protonvpn.com false
+no-large-media: secdsm.slack.com false
+no-large-media: torproject.org false
+no-large-media: twitter.com false
+no-large-media: ubuntu.com false
+no-large-media: www.jupiterbroadcasting.com false
+no-large-media: www.linuxfoundation.org false
+no-large-media: www.lpi.org false
+no-large-media: www.parrotsec.org false
+no-large-media: www.reddit.com false
+no-large-media: www.redhat.com false
+no-large-media: www.slideshare.net false
+no-large-media: www.startpage.com false
+no-large-media: www.talosintelligence.com false
+no-large-media: www.wireguard.com false
+no-large-media: www.youtube.com false
+no-large-media: www.zendoproject.org false
+no-remote-fonts: * true
+no-remote-fonts: boards.420chan.org false
+no-remote-fonts: boards.4chan.org false
+no-remote-fonts: browse.startpage.com false
+no-remote-fonts: distrowatch.com false
+no-remote-fonts: docs.parrotsec.org false
+no-remote-fonts: filterlists.com false
+no-remote-fonts: gitlab.com false
+no-remote-fonts: maps.org false
+no-remote-fonts: player.fm false
+no-remote-fonts: protonmail.com false
+no-remote-fonts: protonvpn.com false
+no-remote-fonts: secdsm.slack.com false
+no-remote-fonts: stackoverflow.blog false
+no-remote-fonts: www.eventbrite.com false
+no-remote-fonts: www.ibm.com false
+no-remote-fonts: www.linuxfoundation.org false
+no-remote-fonts: www.lpi.org false
+no-remote-fonts: www.redhat.com false
+no-remote-fonts: www.slideshare.net false
+no-remote-fonts: www.startpage.com false
+no-remote-fonts: www.wireguard.com false
+no-remote-fonts: www.zendoproject.org false
+no-scripting: * true
+no-scripting: access.redhat.com false
+no-scripting: addons.mozilla.org false
+no-scripting: behind-the-scene false
+no-scripting: boards.420chan.org false
+no-scripting: boards.4chan.org false
+no-scripting: cdimage.parrotsec.org false
+no-scripting: community.parrotsec.org false
+no-scripting: developer.ubuntu.com false
+no-scripting: distrowatch.com false
+no-scripting: dnscrypt.info false
+no-scripting: docs.parrotsec.org false
+no-scripting: duckduckgo.com false
+no-scripting: eff.org false
+no-scripting: filterlists.com false
+no-scripting: github.com false
+no-scripting: gitlab.com false
+no-scripting: huddle.hy-vee.com false
+no-scripting: imgur.com false
+no-scripting: iplists.firehol.org false
+no-scripting: linuxacademy.com false
+no-scripting: maps.org false
+no-scripting: openosint.slack.com false
+no-scripting: player.fm false
+no-scripting: prism-break.org false
+no-scripting: protonmail.com false
+no-scripting: protonvpn.com false
+no-scripting: secdsm.slack.com false
+no-scripting: slack.com false
+no-scripting: startpage.com false
+no-scripting: twitter.com false
+no-scripting: www.eventbrite.com false
+no-scripting: www.jupiterbroadcasting.com false
+no-scripting: www.linuxfoundation.org false
+no-scripting: www.lpi.org false
+no-scripting: www.parrotsec.org false
+no-scripting: www.privacytools.io false
+no-scripting: www.reddit.com false
+no-scripting: www.redhat.com false
+no-scripting: www.slideshare.net false
+no-scripting: www.talosintelligence.com false
+no-scripting: www.wireguard.com false
+no-scripting: www.youtube.com false
+no-scripting: www.zendoproject.org false
+* * 3p block
+* * 3p-frame block
+* * 3p-script block
+* 3g2upl4pq6kufc4m.onion * allow
+* 420chan.org * allow
+* 4cdn.org * allow
+* 4chan.org * allow
+* a-ads.com * block
+* a.nytimes.com * block
+* aaxads.com * block
+* ad-delivery.net * block
+* ad.mail.ru * block
+* adglare.net * block
+* adguard.com * noop
+* adobe.com * block
+* adobecqms.net * block
+* adobedtm.com * block
+* adobelogin.com * block
+* adobetag.com * block
+* ads-twitter.com * block
+* adservice.google.de * block
+* adtng.com * block
+* advice-ads-cdn.vice.com * block
+* ajax.googleapis.com * block
+* amazon-adsystem.com * block
+* amplitude.com * block
+* analytics.twitter.com * block
+* apple.com * block
+* avatars0.githubusercontent.com * allow
+* avatars1.githubusercontent.com * allow
+* avatars2.githubusercontent.com * allow
+* avatars3.githubusercontent.com * allow
+* bizographics.com * block
+* bootstrapcdn.com * allow
+* bugsnag.com * block
+* camo.githubusercontent.com * allow
+* cloudflare.com * allow
+* crsspxl.com * block
+* d2wy8f7a9ursnm.cloudfront.net * allow
+* d3pkfiqitivr8j.cloudfront.net * allow
+* d3tglifpd8whs6.cloudfront.net * block
+* digi77.com * allow
+* dnscrypt.info * allow
+* duckduckgo.com * allow
+* evbstatic.com * allow
+* evbuc.com * allow
+* eventbrite.com * allow
+* facebook.com * block
+* facebook.net * block
+* filterlists.com * allow
+* firehol.org * allow
+* fonts.googleapis.com * block
+* fsdn.com * block
+* github.com * allow
+* github.s3.amazonaws.com * allow
+* githubapp.com * block
+* githubassets.com * allow
+* gitlab-static.net * allow
+* gitlab.com * allow
+* gitlab.net * allow
+* google-analytics.com * block
+* google.com * block
+* googletagmanager.com * block
+* googletagservices.com * block
+* googlevideo.com * allow
+* gravatar.com * block
+* gstatic.com * block
+* highcharts.com * block
+* hy-vee.com * allow
+* iblocklist.com * allow
+* imgur.com * allow
+* janrain.com * block
+* jupiterbroadcasting.com * allow
+* la-samhna.de * allow
+* launchpad.net * allow
+* launchpadlibrarian.net * allow
+* matrix.org * allow
+* moatads.com * block
+* mozilla.net * allow
+* mozilla.org * allow
+* newrelic.com * block
+* parrotsec.org * allow
+* prism-break.org * allow
+* privacytools.io * allow
+* pro-market.net * block
+* pubmine.com * block
+* raw.githubusercontent.com * allow
+* rawgit.com * allow
+* redd.it * block
+* reddit.com * allow
+* redditmedia.com * allow
+* redditstatic.com * allow
+* redhat.com * allow
+* riot.im * allow
+* rpxnow.com * block
+* slack-edge.com * allow
+* slack-imgs.com * allow
+* slack.com * allow
+* slashdot.org * allow
+* speedcurve.com * block
+* startpage.com * allow
+* subgraph.com * allow
+* twimg.com * allow
+* twitter.com * allow
+* ubuntu.com * allow
+* vntsm.com * block
+* whonix.org * allow
+* youtube.com * allow
+about.riot.im riot.im * allow
+access.redhat.com redhat.com * allow
+addons.mozilla.org google-analytics.com * block
+addons.mozilla.org mozilla.net * allow
+addons.mozilla.org mozilla.org * allow
+behind-the-scene * * noop
+behind-the-scene * 1p-script noop
+behind-the-scene * 3p-frame block
+behind-the-scene * 3p-script block
+behind-the-scene * image noop
+behind-the-scene * inline-script noop
+boards.420chan.org 420chan.org * allow
+boards.4chan.org 4cdn.org * allow
+boards.4chan.org 4chan.org * allow
+boards.4chan.org adglare.net * block
+boards.4chan.org adtng.com * block
+boards.4chan.org google-analytics.com * block
+boards.4chan.org google.com * block
+browse.startpage.com startpage.com * allow
+cdimage.parrotsec.org parrotsec.org * allow
+community.parrotsec.org parrotsec.org * allow
+developer.ubuntu.com googletagmanager.com * block
+developer.ubuntu.com ubuntu.com * allow
+dnscrypt.info dnscrypt.info * allow
+dnscrypt.info yandex.ru * allow
+duckduckgo.com 3g2upl4pq6kufc4m.onion * allow
+duckduckgo.com duckduckgo.com * allow
+filterlists.com filterlists.com * allow
+github.com 4chan.org * allow
+github.com avatars0.githubusercontent.com * allow
+github.com avatars1.githubusercontent.com * allow
+github.com avatars2.githubusercontent.com * allow
+github.com avatars3.githubusercontent.com * allow
+github.com camo.githubusercontent.com * allow
+github.com github.com * allow
+github.com githubapp.com * block
+github.com githubassets.com * allow
+github.com google-analytics.com * block
+github.com raw.githubusercontent.com * allow
+gitlab.com gitlab-static.net * allow
+gitlab.com gitlab.com * allow
+gitlab.com gitlab.net * allow
+humaniterations.wordpress.com * 3p-frame block
+humaniterations.wordpress.com google-analytics.com * block
+humaniterations.wordpress.com pubmine.com * block
+humaniterations.wordpress.com wordpress.com * allow
+humaniterations.wordpress.com wp.com * allow
+imgur.com * 3p block
+imgur.com * 3p-frame block
+imgur.com ajax.googleapis.com * block
+imgur.com amazon-adsystem.com * block
+imgur.com amplitude.com * block
+imgur.com facebook.com * block
+imgur.com fonts.googleapis.com * block
+imgur.com googletagmanager.com * block
+imgur.com googletagservices.com * block
+imgur.com imgur.com * allow
+imgur.com moatads.com * block
+imgur.com twitter.com * block
+imgur.com vntsm.com * block
+iplists.firehol.org bootstrapcdn.com * allow
+iplists.firehol.org cloudflare.com * allow
+iplists.firehol.org firehol.org * allow
+iplists.firehol.org github.com * allow
+iplists.firehol.org github.s3.amazonaws.com * allow
+iplists.firehol.org highcharts.com * block
+iplists.firehol.org rawgit.com * allow
+it.slashdot.org * 3p block
+it.slashdot.org * 3p-frame block
+it.slashdot.org crsspxl.com * block
+it.slashdot.org d3tglifpd8whs6.cloudfront.net * block
+it.slashdot.org fsdn.com * block
+it.slashdot.org gstatic.com * block
+it.slashdot.org janrain.com * block
+it.slashdot.org linkedin.com * block
+it.slashdot.org pro-market.net * block
+it.slashdot.org rpxnow.com * block
+it.slashdot.org slashdot.org * allow
+la-samhna.de la-samhna.de * allow
+linkedin.com linkedin.com * allow
+matrix.org * 3p-script block
+matrix.org fonts.googleapis.com * block
+matrix.org matrix.org * allow
+matrix.org riot.im * allow
+matrix.org twitter.com * block
+openosint.slack.com slack.com * allow
+prism-break.org prism-break.org * allow
+raw.githubusercontent.com raw.githubusercontent.com * allow
+s4-eu1.startpage.com startpage.com * allow
+secdsm.slack.com slack-edge.com * allow
+secdsm.slack.com slack-imgs.com * allow
+secdsm.slack.com slack.com * allow
+slack.com slack.com * allow
+startpage.com 3g2upl4pq6kufc4m.onion * allow
+startpage.com startpage.com * allow
+subgraph.com subgraph.com * allow
+twitter.com google-analytics.com * block
+twitter.com twimg.com * allow
+twitter.com twitter.com * allow
+wiki.ubuntu.com google-analytics.com * block
+wiki.ubuntu.com launchpad.net * allow
+wiki.ubuntu.com launchpadlibrarian.net * allow
+wiki.ubuntu.com ubuntu.com * allow
+www.digi77.com ajax.googleapis.com * block
+www.digi77.com digi77.com * allow
+www.digi77.com fonts.googleapis.com * block
+www.digi77.com google-analytics.com * block
+www.digi77.com gravatar.com * block
+www.digi77.com twitter.com * block
+www.digi77.com youtube.com * block
+www.eventbrite.com bugsnag.com * block
+www.eventbrite.com d2wy8f7a9ursnm.cloudfront.net * allow
+www.eventbrite.com evbstatic.com * allow
+www.eventbrite.com evbuc.com * allow
+www.eventbrite.com eventbrite.com * allow
+www.eventbrite.com facebook.net * block
+www.eventbrite.com google-analytics.com * block
+www.eventbrite.com google.com * block
+www.eventbrite.com googletagmanager.com * block
+www.eventbrite.com speedcurve.com * block
+www.iblocklist.com d3pkfiqitivr8j.cloudfront.net * allow
+www.iblocklist.com iblocklist.com * allow
+www.jupiterbroadcasting.com bootstrapcdn.com * allow
+www.jupiterbroadcasting.com cloudflare.com * allow
+www.jupiterbroadcasting.com google-analytics.com * block
+www.jupiterbroadcasting.com jquery.com * allow
+www.jupiterbroadcasting.com jupiterbroadcasting.com * allow
+www.privacytools.io privacytools.io * allow
+www.reddit.com * 3p block
+www.reddit.com aaxads.com * block
+www.reddit.com amazon-adsystem.com * block
+www.reddit.com googletagmanager.com * block
+www.reddit.com googletagservices.com * block
+www.reddit.com redd.it * block
+www.reddit.com reddit.com * allow
+www.reddit.com redditmedia.com * allow
+www.reddit.com redditstatic.com * allow
+www.startpage.com startpage.com * allow
+www.whonix.org whonix.org * allow
+www.youtube.com google.com * block
+www.youtube.com googlevideo.com * allow
+www.youtube.com gstatic.com * block
+www.youtube.com youtube.com * allow
