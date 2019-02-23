@@ -1,0 +1,283 @@
+no-cosmetic-filtering: addons.mozilla.org true
+no-csp-reports: * true
+no-large-media: * true
+no-large-media: 420chan.org false
+no-large-media: 7chan.org false
+no-large-media: 8ch.net false
+no-large-media: act.eff.org false
+no-large-media: adblockplus.org false
+no-large-media: addons.mozilla.org false
+no-large-media: archive.org false
+no-large-media: askubuntu.com false
+no-large-media: behind-the-scene false
+no-large-media: blog.mozilla.org false
+no-large-media: boards.420chan.org false
+no-large-media: boards.4chan.org false
+no-large-media: brave.com false
+no-large-media: browsec.com false
+no-large-media: browseraudit.com false
+no-large-media: browserleaks.com false
+no-large-media: browserprint.info false
+no-large-media: cdimage.ubuntu.com false
+no-large-media: cdn-fastly.deb.debian.org false
+no-large-media: chef-koch.deviantart.com false
+no-large-media: chef-koch.github.io false
+no-large-media: classic.startpage.com false
+no-large-media: community.brave.com true
+no-large-media: community.cloudflare.com false
+no-large-media: community.f-secure.com false
+no-large-media: community.openvpn.net true
+no-large-media: community.oracle.com false
+no-large-media: crackstation.net false
+no-large-media: crypto.stackexchange.com false
+no-large-media: cryptome.wikileaks.org true
+no-large-media: distrowatch.com false
+no-large-media: dnscrypt-proxy.slack.com false
+no-large-media: dnscrypt.org false
+no-large-media: dnsleak.com false
+no-large-media: doc.pfsense.org false
+no-large-media: docs.fedoraproject.org false
+no-large-media: docs.parrotsec.org false
+no-large-media: docs.vmware.com false
+no-large-media: download.dnscrypt.org false
+no-large-media: download.lineageos.org true
+no-large-media: duckduckgo.com false
+no-large-media: eff.org false
+no-large-media: feeds.feedburner.com false
+no-large-media: forum.adguard.com false
+no-large-media: forum.bittorrent.com false
+no-large-media: forum.pfsense.org false
+no-large-media: forum.pidgin-im.de false
+no-large-media: forum.xda-developers.com false
+no-large-media: forums.androidcentral.com false
+no-large-media: forums.fedoraforum.org false
+no-large-media: forums.opensuse.org false
+no-large-media: fossbytes.com false
+no-large-media: geti2p.net false
+no-large-media: giphy.com false
+no-large-media: gist.github.com false
+no-large-media: github.com false
+no-large-media: gitlab.com false
+no-large-media: guardianproject.github.io false
+no-large-media: hackaday.com false
+no-large-media: linuxacademy.com false
+no-large-media: maps.org false
+no-large-media: netflix.com false
+no-large-media: player.fm false
+no-large-media: podcasts.joerogan.net false
+no-large-media: privateinternetaccess.com false
+no-large-media: protonmail.com false
+no-large-media: protonvpn.com false
+no-large-media: secdsm.org false
+no-large-media: secdsm.slack.com false
+no-large-media: torproject.org false
+no-large-media: ubuntu.com false
+no-large-media: www.bitchute.com false
+no-large-media: www.google.com true
+no-large-media: www.linuxfoundation.org false
+no-large-media: www.lpi.org false
+no-large-media: www.parrotsec.org false
+no-large-media: www.redhat.com false
+no-large-media: www.talosintelligence.com false
+no-large-media: www.twitch.tv false
+no-large-media: www.wireguard.com false
+no-large-media: www.youtube.com false
+no-large-media: www.zendoproject.org false
+no-remote-fonts: * true
+no-remote-fonts: boards.4chan.org false
+no-remote-fonts: distrowatch.com false
+no-remote-fonts: docs.parrotsec.org false
+no-remote-fonts: gitlab.com false
+no-remote-fonts: maps.org false
+no-remote-fonts: player.fm false
+no-remote-fonts: podcasts.joerogan.net false
+no-remote-fonts: protonmail.com false
+no-remote-fonts: protonvpn.com false
+no-remote-fonts: secdsm.slack.com false
+no-remote-fonts: stackoverflow.blog false
+no-remote-fonts: uncyclopedia.wikia.com false
+no-remote-fonts: www.bitchute.com false
+no-remote-fonts: www.ibm.com false
+no-remote-fonts: www.linuxfoundation.org false
+no-remote-fonts: www.lpi.org false
+no-remote-fonts: www.redhat.com false
+no-remote-fonts: www.wireguard.com false
+no-remote-fonts: www.zendoproject.org false
+no-scripting: * true
+no-scripting: 420chan.org false
+no-scripting: 7chan.org false
+no-scripting: 8ch.net false
+no-scripting: accounts.google.com false
+no-scripting: behind-the-scene false
+no-scripting: boards.4chan.org false
+no-scripting: distrowatch.com false
+no-scripting: docs.parrotsec.org false
+no-scripting: eff.org false
+no-scripting: github.com false
+no-scripting: gitlab.com false
+no-scripting: linuxacademy.com false
+no-scripting: maps.org false
+no-scripting: player.fm false
+no-scripting: podcasts.joerogan.net false
+no-scripting: protonmail.com false
+no-scripting: protonvpn.com false
+no-scripting: secdsm.org false
+no-scripting: secdsm.slack.com false
+no-scripting: twitter.com false
+no-scripting: uncyclopedia.wikia.com false
+no-scripting: www.aliexpress.com false
+no-scripting: www.bitchute.com false
+no-scripting: www.google.com true
+no-scripting: www.jupiterbroadcasting.com false
+no-scripting: www.linuxfoundation.org false
+no-scripting: www.lpi.org false
+no-scripting: www.parrotsec.org false
+no-scripting: www.redhat.com false
+no-scripting: www.startpage.com false
+no-scripting: www.talosintelligence.com false
+no-scripting: www.twitch.tv false
+no-scripting: www.wireguard.com false
+no-scripting: www.youtube.com false
+no-scripting: www.zendoproject.org false
+* * 3p block
+* * 3p-frame block
+* * 3p-script block
+* 420chan.org * allow
+* 4cdn.org * allow
+* 4chan.org * allow
+* 4channel.org * allow
+* 7chan.org * allow
+* 8ch.net * allow
+* a-ads.com * block
+* a.nytimes.com * block
+* ad-delivery.net * block
+* ad.mail.ru * block
+* adglare.net * block
+* adguard.com * noop
+* adobe.com * block
+* adobecqms.net * block
+* adobedtm.com * block
+* adobelogin.com * block
+* adobetag.com * block
+* ads-twitter.com * block
+* adservice.google.de * block
+* adtng.com * block
+* advice-ads-cdn.vice.com * block
+* ajax.googleapis.com * block
+* alicdn.com * allow
+* aliexpress.com * allow
+* amazon-adsystem.com * block
+* analytics.twitter.com * block
+* apple.com * block
+* avatars3.githubusercontent.com * allow
+* bitchute.com * allow
+* cloudflare.com * allow
+* coinpayments.net * block
+* d2v02itv0y9u9t.cloudfront.net * allow
+* disqus.com * block
+* doubleclick.net * block
+* facebook.com * block
+* facebook.net * block
+* ggpht.com * block
+* github.com * allow
+* githubassets.com * allow
+* gitlab-static.net * allow
+* gitlab.com * allow
+* go-mpulse.net * block
+* google-analytics.com * block
+* google.com * block
+* googletagservices.com * block
+* googleusercontent.com * allow
+* googlevideo.com * allow
+* gstatic.com * block
+* imasdk.googleapis.com * allow
+* joerogan.net * allow
+* juicyads.com * block
+* paypalobjects.com * block
+* player.fm * allow
+* polyfill.io * block
+* secdsm.org * allow
+* slack-edge.com * allow
+* slack.com * allow
+* startpage.com * allow
+* twimg.com * allow
+* twitch.tv * allow
+* twitchcdn.net * allow
+* twitchsvc.net * allow
+* twitter.com * allow
+* wikia.com * allow
+* youtube.com * allow
+* ytimg.com * allow
+420chan.org 420chan.org * allow
+420chan.org twimg.com * allow
+7chan.org 7chan.org * allow
+7chan.org ajax.googleapis.com * block
+7chan.org google-analytics.com * block
+7chan.org google.com * block
+7chan.org juicyads.com * block
+8ch.net 4chan.org * allow
+8ch.net 8ch.net * allow
+behind-the-scene * * noop
+behind-the-scene * 1p-script noop
+behind-the-scene * 3p-frame block
+behind-the-scene * 3p-script block
+behind-the-scene * image noop
+behind-the-scene * inline-script noop
+boards.4chan.org 4cdn.org * allow
+boards.4chan.org 4chan.org * allow
+boards.4chan.org 4channel.org * allow
+boards.4chan.org adglare.net * block
+boards.4chan.org adtng.com * block
+boards.4chan.org google-analytics.com * block
+boards.4chan.org google.com * block
+github.com avatars3.githubusercontent.com * allow
+github.com github.com * allow
+github.com githubassets.com * allow
+gitlab.com gitlab-static.net * allow
+gitlab.com gitlab.com * allow
+player.fm player.fm * allow
+podcasts.joerogan.net facebook.net * block
+podcasts.joerogan.net google-analytics.com * block
+podcasts.joerogan.net google.com * block
+podcasts.joerogan.net joerogan.net * allow
+podcasts.joerogan.net twitter.com * block
+secdsm.org secdsm.org * allow
+secdsm.slack.com slack-edge.com * allow
+secdsm.slack.com slack.com * allow
+twitter.com twimg.com * allow
+twitter.com twitter.com * allow
+uncyclopedia.wikia.com doubleclick.net * block
+uncyclopedia.wikia.com google-analytics.com * block
+uncyclopedia.wikia.com wikia.com * allow
+www.aliexpress.com alicdn.com * allow
+www.aliexpress.com aliexpress.com * allow
+www.aliexpress.com facebook.net * block
+www.aliexpress.com go-mpulse.net * block
+www.aliexpress.com google-analytics.com * block
+www.aliexpress.com google.com * block
+www.bitchute.com bitchute.com * allow
+www.bitchute.com cloudflare.com * allow
+www.bitchute.com coinpayments.net * block
+www.bitchute.com disqus.com * block
+www.bitchute.com paypalobjects.com * block
+www.bitchute.com polyfill.io * block
+www.startpage.com startpage.com * allow
+www.twitch.tv amazon-adsystem.com * block
+www.twitch.tv d2v02itv0y9u9t.cloudfront.net * allow
+www.twitch.tv doubleclick.net * block
+www.twitch.tv facebook.com * block
+www.twitch.tv google-analytics.com * block
+www.twitch.tv google.com * block
+www.twitch.tv googletagservices.com * block
+www.twitch.tv gstatic.com * block
+www.twitch.tv imasdk.googleapis.com * allow
+www.twitch.tv twitch.tv * allow
+www.twitch.tv twitchcdn.net * allow
+www.twitch.tv twitchsvc.net * allow
+www.youtube.com doubleclick.net * block
+www.youtube.com ggpht.com * block
+www.youtube.com google.com * block
+www.youtube.com googleusercontent.com * allow
+www.youtube.com googlevideo.com * allow
+www.youtube.com youtube.com * allow
+www.youtube.com ytimg.com * allow
