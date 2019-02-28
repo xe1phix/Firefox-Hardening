@@ -1,0 +1,20 @@
+##-========================================-##
+##    CHEF-KOCH-uBlock-GitHub-FilterList
+##-========================================-##
+!
+! ---------- GitHub ----------
+!
+||collector.githubapp.com^
+||collector-cdn.github.com^
+||pivotal.github.com^
+##.icon-github
+@@||githubusercontent.com^$image
+github.com##.flash-full.flash
+github.com##.github-jobs-promotion > p
+github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
+github.com##.text-small.jobs-logo
+github.com##.unsupported-browser
+||assets-cdn.github.com/images/modules/site/site-signup-prompt.png$image
+||github.io^$third-party,websocket,domain=~github.com|~tumblr.com
+||github.io^$third-party,xmlhttprequest,domain=~github.com|~tumblr.com
+github.com##.rounded-1.signup-prompt-bg
