@@ -1,5 +1,7 @@
 http://1hosts.cf
+
 http://1hosts.cf/addon/
+
 http://hostsfile.mine.nu/hosts0.txt
 http://mirror1.malwaredomains.com/files/immortal_domains.txt
 http://mirror1.malwaredomains.com/files/justdomains
