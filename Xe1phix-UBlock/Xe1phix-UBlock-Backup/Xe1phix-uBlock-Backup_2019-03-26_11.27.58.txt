@@ -1,0 +1,677 @@
+no-cosmetic-filtering: addons.mozilla.org true
+no-csp-reports: * true
+no-large-media: * true
+no-large-media: access.redhat.com false
+no-large-media: accounts.google.com false
+no-large-media: act.eff.org false
+no-large-media: adblockplus.org false
+no-large-media: addons.mozilla.org false
+no-large-media: archive.org false
+no-large-media: askubuntu.com false
+no-large-media: audio.fireside.fm false
+no-large-media: behind-the-scene false
+no-large-media: blog.mozilla.org false
+no-large-media: boards.420chan.org false
+no-large-media: boards.4chan.org false
+no-large-media: boards.4channel.org false
+no-large-media: brave.com false
+no-large-media: browsec.com false
+no-large-media: browseraudit.com false
+no-large-media: browserleaks.com false
+no-large-media: browserprint.info false
+no-large-media: cdimage.ubuntu.com false
+no-large-media: cdn-fastly.deb.debian.org false
+no-large-media: chef-koch.deviantart.com false
+no-large-media: chef-koch.github.io false
+no-large-media: classic.startpage.com false
+no-large-media: community.brave.com true
+no-large-media: community.cloudflare.com false
+no-large-media: community.f-secure.com false
+no-large-media: community.openvpn.net true
+no-large-media: community.oracle.com false
+no-large-media: convertcsv.com false
+no-large-media: crackstation.net false
+no-large-media: crypto.stackexchange.com false
+no-large-media: cryptome.wikileaks.org true
+no-large-media: distrowatch.com false
+no-large-media: dnscrypt-proxy.slack.com false
+no-large-media: dnscrypt.org false
+no-large-media: dnsleak.com false
+no-large-media: doc.pfsense.org false
+no-large-media: docs.fedoraproject.org false
+no-large-media: docs.parrotsec.org false
+no-large-media: docs.vmware.com false
+no-large-media: documentation.wazuh.com false
+no-large-media: download.dnscrypt.org false
+no-large-media: download.lineageos.org true
+no-large-media: duckduckgo.com false
+no-large-media: eff.org false
+no-large-media: feeds.feedburner.com false
+no-large-media: forum.adguard.com false
+no-large-media: forum.bittorrent.com false
+no-large-media: forum.pfsense.org false
+no-large-media: forum.pidgin-im.de false
+no-large-media: forum.xda-developers.com false
+no-large-media: forums.androidcentral.com false
+no-large-media: forums.fedoraforum.org false
+no-large-media: forums.opensuse.org false
+no-large-media: fossbytes.com false
+no-large-media: geti2p.net false
+no-large-media: giphy.com false
+no-large-media: gist.github.com false
+no-large-media: github.com false
+no-large-media: gitlab.com false
+no-large-media: guardianproject.github.io false
+no-large-media: hackaday.com false
+no-large-media: hwcdn.libsyn.com false
+no-large-media: ics.slack.com false
+no-large-media: imgur.com false
+no-large-media: linuxacademy.com false
+no-large-media: live.osgeo.org false
+no-large-media: maps.org false
+no-large-media: media.fireside.fm false
+no-large-media: netflix.com false
+no-large-media: player.fm false
+no-large-media: privateinternetaccess.com false
+no-large-media: protonmail.com false
+no-large-media: protonvpn.com false
+no-large-media: secdsm.org false
+no-large-media: secdsm.slack.com false
+no-large-media: sourceforge.net false
+no-large-media: support.google.com false
+no-large-media: teespring.com false
+no-large-media: torproject.org false
+no-large-media: ubuntu.com false
+no-large-media: www.ibm.com false
+no-large-media: www.jupiterbroadcasting.com false
+no-large-media: www.linkedin.com false
+no-large-media: www.linuxfoundation.org false
+no-large-media: www.lpi.org false
+no-large-media: www.ossec.net false
+no-large-media: www.parrotsec.org false
+no-large-media: www.redhat.com false
+no-large-media: www.talosintelligence.com false
+no-large-media: www.trustedsec.com false
+no-large-media: www.wireguard.com false
+no-large-media: www.youtube.com false
+no-large-media: www.zendoproject.org false
+no-remote-fonts: * true
+no-remote-fonts: boards.4chan.org false
+no-remote-fonts: boards.4channel.org false
+no-remote-fonts: convertcsv.com false
+no-remote-fonts: distrowatch.com false
+no-remote-fonts: docs.parrotsec.org false
+no-remote-fonts: firejail.wordpress.com false
+no-remote-fonts: github.com false
+no-remote-fonts: gitlab.com false
+no-remote-fonts: ics.slack.com false
+no-remote-fonts: maps.org false
+no-remote-fonts: media.fireside.fm false
+no-remote-fonts: player.fm false
+no-remote-fonts: protonmail.com false
+no-remote-fonts: protonvpn.com false
+no-remote-fonts: secdsm.org false
+no-remote-fonts: secdsm.slack.com false
+no-remote-fonts: stackoverflow.blog false
+no-remote-fonts: teespring.com false
+no-remote-fonts: www.alienvault.com false
+no-remote-fonts: www.crestron.com false
+no-remote-fonts: www.ibm.com false
+no-remote-fonts: www.jupiterbroadcasting.com false
+no-remote-fonts: www.linuxfoundation.org false
+no-remote-fonts: www.lpi.org false
+no-remote-fonts: www.ossec.net false
+no-remote-fonts: www.redhat.com false
+no-remote-fonts: www.wireguard.com false
+no-remote-fonts: www.zendoproject.org false
+* * 3p block
+* * 3p-frame block
+* * 3p-script block
+* 420chan.org * allow
+* 4cdn.org * allow
+* 4chan.org * allow
+* 4channel.org * allow
+* a-ads.com * block
+* a.nytimes.com * block
+* ad-delivery.net * block
+* ad.mail.ru * block
+* addthis.com * block
+* addtoany.com * block
+* adglare.net * block
+* adguard.com * noop
+* adnxs.com * block
+* adobe.com * block
+* adobecqms.net * block
+* adobedtm.com * block
+* adobelogin.com * block
+* adobetag.com * block
+* ads-twitter.com * block
+* adservice.google.de * block
+* adtng.com * block
+* advice-ads-cdn.vice.com * block
+* aerotek.com * allow
+* ajax.googleapis.com * block
+* akamaized.net * block
+* alienvault.com * allow
+* amazon-adsystem.com * block
+* amplitude.com * block
+* analytics.twitter.com * block
+* android.com * allow
+* apple.com * block
+* archive.org * allow
+* archlinux.org * allow
+* avatars0.githubusercontent.com * allow
+* avatars1.githubusercontent.com * allow
+* avatars2.githubusercontent.com * allow
+* avatars3.githubusercontent.com * allow
+* azureedge.net * block
+* bing.com * block
+* bitchute.com * allow
+* bizible.com * block
+* bodhizazen.com * allow
+* bootstrapcdn.com * allow
+* browser-update.org * block
+* bugsnag.com * block
+* c.live.com * block
+* c.microsoft.com * block
+* c1.microsoft.com * block
+* camo.githubusercontent.com * allow
+* careerbuilder.com * allow
+* cbtalentnetwork.com * allow
+* cdn-apple.com * block
+* cedexis.com * block
+* centos.org * allow
+* chart.googleapis.com * block
+* clarium.global.ssl.fastly.net * block
+* cloudflare.com * allow
+* compendium.com * block
+* contentstack.io * allow
+* convertcsv.com * allow
+* cookiebot.com * block
+* cookielaw.org * block
+* crestron.com * allow
+* crsspxl.com * block
+* crwdcntrl.net * block
+* d1b2zzpxewkr9z.cloudfront.net * allow
+* d2gatte9o95jao.cloudfront.net * allow
+* debian.org * allow
+* dice.com * allow
+* distrowatch.com * allow
+* doubleclick.net * block
+* duckduckgo.com * allow
+* elastic.co * allow
+* f-droid.org * allow
+* facebook.com * block
+* facebook.net * block
+* fedoraproject.org * allow
+* fireside.fm * allow
+* fonts.googleapis.com * block
+* fsdn.com * allow
+* ggpht.com * block
+* github.com * allow
+* githubapp.com * allow
+* githubassets.com * allow
+* gitlab-static.net * allow
+* gitlab.com * allow
+* globalsiteanalytics.com * block
+* google-analytics.com * block
+* google.com * block
+* googleadservices.com * block
+* googlesyndication.com * block
+* googletagmanager.com * block
+* googletagservices.com * block
+* googleusercontent.com * allow
+* googlevideo.com * allow
+* graph.facebook.com * block
+* gravatar.com * block
+* gstatic.com * block
+* hotjar.com * block
+* hs-scripts.com * block
+* ibm.com * allow
+* imgur.com * allow
+* indeed.com * allow
+* intercom.io * block
+* intlfcstone.com * allow
+* ixsystems.com * allow
+* jquery.com * allow
+* jsdelivr.net * allow
+* juicyads.com * block
+* jupiterbroadcasting.com * allow
+* kali.org * allow
+* kodi.tv * allow
+* libsyn.com * allow
+* libvirt.org * allow
+* licdn.com * allow
+* linkedin.com * allow
+* linuxacademy-video.s3.amazonaws.com * allow
+* linuxacademy.com * allow
+* linuxcontainers.org * allow
+* lpi.org * allow
+* marketo.com * block
+* maxcdn.com * block
+* ml314.com * block
+* monster.com * allow
+* mozilla.org * allow
+* nmap.org * allow
+* ntp.org * allow
+* nymag.com * block
+* olark.com * block
+* ooyala.com * block
+* opendns.com * allow
+* opennicproject.org * allow
+* openstack.org * allow
+* opensuse.org * allow
+* openvswitch.org * allow
+* optimizely.com * block
+* oracle.com * allow
+* oracleimg.com * allow
+* osgeo.org * allow
+* ossec.net * allow
+* parrotsec.org * allow
+* pfsense.org * allow
+* pingdom.net * block
+* player.fm * allow
+* powerad.ai * block
+* powerlinks.com * block
+* pro-market.net * block
+* protonmail.com * allow
+* pthree.org * allow
+* pubmatic.com * block
+* pubmine.com * block
+* qemu.org * allow
+* quantserve.com * block
+* qubes-os.org * allow
+* radiojar.com * block
+* raw.githubusercontent.com * allow
+* reddit.com * allow
+* redditmedia.com * allow
+* redditstatic.com * allow
+* redhat.com * allow
+* revcontent.com * block
+* s81c.com * block
+* scorecardresearch.com * block
+* secdsm.org * allow
+* slack-edge.com * allow
+* slack-imgs.com * allow
+* slack.com * allow
+* sourceforge.net * allow
+* splunk.com * allow
+* stack-sonar.com * block
+* startpage.com * allow
+* statuspage.io * block
+* stripe.com * block
+* teespring.com * allow
+* teksystems.com * allow
+* trustarc.com * block
+* trustedsec.com * allow
+* twimg.com * allow
+* twitter.com * allow
+* typekit.net * block
+* ubuntu.com * allow
+* urbandictionary.com * allow
+* videoplayerhub.com * block
+* vidyard.com * block
+* virtualbox.org * allow
+* wazuh.com * allow
+* whonix.org * allow
+* woopra.com * block
+* wordpress.com * allow
+* wp.com * block
+* xenproject.org * allow
+* youtube.com * allow
+* ytimg.com * allow
+* zamimg.com * block
+access.redhat.com doubleclick.net * block
+access.redhat.com maxcdn.com * block
+access.redhat.com redhat.com * allow
+access.redhat.com statuspage.io * block
+accounts.careerbuilder.com careerbuilder.com * allow
+accounts.careerbuilder.com fonts.googleapis.com * block
+accounts.careerbuilder.com globalsiteanalytics.com * block
+accounts.careerbuilder.com google-analytics.com * block
+accounts.careerbuilder.com googletagmanager.com * block
+accounts.careerbuilder.com icbdr.com * allow
+accounts.careerbuilder.com newrelic.com * allow
+addons.mozilla.org mozilla.org * allow
+archive.org archive.org * allow
+audio.fireside.fm * 3p block
+audio.fireside.fm * 3p-frame block
+audio.fireside.fm * 3p-script block
+audio.fireside.fm fireside.fm * allow
+behind-the-scene * * noop
+behind-the-scene * 1p-script noop
+behind-the-scene * 3p noop
+behind-the-scene * 3p-frame block
+behind-the-scene * 3p-script block
+behind-the-scene * image noop
+behind-the-scene * inline-script noop
+blogs.oracle.com adobedtm.com * block
+blogs.oracle.com akamaized.net * block
+blogs.oracle.com compendium.com * block
+blogs.oracle.com oracle.com * allow
+blogs.oracle.com oracleimg.com * allow
+blogs.oracle.com trustarc.com * block
+boards.420chan.org 420chan.org * allow
+boards.420chan.org google-analytics.com * block
+boards.420chan.org zamimg.com * block
+boards.4chan.org * 3p block
+boards.4chan.org * 3p-frame block
+boards.4chan.org * 3p-script block
+boards.4chan.org 4cdn.org * allow
+boards.4chan.org 4chan.org * allow
+boards.4chan.org 4channel.org * allow
+boards.4chan.org adglare.net * block
+boards.4chan.org adtng.com * block
+boards.4chan.org google-analytics.com * block
+boards.4chan.org google.com * block
+boards.4chan.org juicyads.com * block
+boards.4channel.org * 3p block
+boards.4channel.org * 3p-frame block
+boards.4channel.org * 3p-script block
+boards.4channel.org 4cdn.org * allow
+boards.4channel.org 4channel.org * allow
+boards.4channel.org google-analytics.com * block
+boards.4channel.org google.com * block
+boards.4channel.org powerad.ai * block
+boards.4channel.org revcontent.com * block
+bodhizazen.com ajax.googleapis.com * block
+bodhizazen.com bodhizazen.com * allow
+convertcsv.com bootstrapcdn.com * allow
+convertcsv.com cloudflare.com * allow
+convertcsv.com convertcsv.com * allow
+convertcsv.com googlesyndication.com * block
+convertcsv.com googletagmanager.com * block
+convertcsv.com jsdelivr.net * allow
+docs.fedoraproject.org fedoraproject.org * allow
+documentation.wazuh.com google-analytics.com * block
+documentation.wazuh.com wazuh.com * allow
+duckduckgo.com duckduckgo.com * allow
+firejail.wordpress.com fonts.googleapis.com * block
+firejail.wordpress.com google-analytics.com * block
+firejail.wordpress.com pubmine.com * block
+firejail.wordpress.com wordpress.com * allow
+firejail.wordpress.com wp.com * allow
+github.com avatars0.githubusercontent.com * allow
+github.com avatars1.githubusercontent.com * allow
+github.com avatars2.githubusercontent.com * allow
+github.com avatars3.githubusercontent.com * allow
+github.com camo.githubusercontent.com * allow
+github.com github.com * allow
+github.com githubapp.com * allow
+github.com githubassets.com * allow
+github.com raw.githubusercontent.com * allow
+gitlab.com gitlab-static.net * allow
+gitlab.com gitlab.com * allow
+hwcdn.libsyn.com libsyn.com * allow
+ics.slack.com slack-edge.com * allow
+ics.slack.com slack.com * allow
+imgur.com * 3p-script block
+imgur.com ajax.googleapis.com * block
+imgur.com amazon-adsystem.com * block
+imgur.com amplitude.com * block
+imgur.com crwdcntrl.net * block
+imgur.com facebook.com * block
+imgur.com fonts.googleapis.com * block
+imgur.com googletagmanager.com * block
+imgur.com imgur.com * allow
+imgur.com twitter.com * block
+inbox.indeed.com indeed.com * allow
+insights.dice.com adobedtm.com * block
+insights.dice.com ajax.googleapis.com * block
+insights.dice.com cloudflare.com * allow
+insights.dice.com d1zoyh6qfvajy7.cloudfront.net * allow
+insights.dice.com dice.com * allow
+insights.dice.com dsms0mj1bbhn4.cloudfront.net * allow
+insights.dice.com googletagmanager.com * block
+insights.dice.com googletagservices.com * block
+insights.dice.com gravatar.com * block
+insights.dice.com netdna-ssl.com * block
+insights.dice.com wp.com * block
+kodi.tv kodi.tv * allow
+libvirt.org libvirt.org * allow
+linuxacademy.com ads-twitter.com * block
+linuxacademy.com cloudflare.com * allow
+linuxacademy.com d3bm05a1cocdno.cloudfront.net * allow
+linuxacademy.com d3tvkhs7n88b6u.cloudfront.net * allow
+linuxacademy.com doubleclick.net * block
+linuxacademy.com facebook.net * block
+linuxacademy.com fonts.googleapis.com * block
+linuxacademy.com google-analytics.com * block
+linuxacademy.com google.com * block
+linuxacademy.com googlesyndication.com * block
+linuxacademy.com googletagmanager.com * block
+linuxacademy.com intercom.io * block
+linuxacademy.com linuxacademy-video.s3.amazonaws.com * allow
+linuxacademy.com linuxacademy.com * allow
+linuxacademy.com olark.com * block
+linuxacademy.com twitter.com * block
+linuxacademy.com typekit.net * block
+linuxacademy.com walkme.com * block
+linuxacademy.com youtube.com * allow
+linuxacademy.com ytimg.com * allow
+linuxcontainers.org linuxcontainers.org * allow
+linuxcontainers.org ubuntu.com * allow
+live.osgeo.org osgeo.org * allow
+login20.monster.com cloudflare.com * allow
+login20.monster.com ensighten.com * block
+login20.monster.com fonts.googleapis.com * block
+login20.monster.com monster.com * allow
+login20.monster.com newjobs.com * allow
+login20.monster.com truste.com * allow
+mail.protonmail.com protonmail.com * allow
+media.fireside.fm fireside.fm * allow
+player.fm * 3p block
+player.fm * 3p-frame block
+player.fm * 3p-script block
+player.fm fonts.googleapis.com * block
+player.fm google-analytics.com * block
+player.fm google.com * block
+player.fm gstatic.com * block
+player.fm intercom.io * block
+player.fm player.fm * allow
+player.fm stripe.com * block
+pthree.org chart.googleapis.com * block
+pthree.org pthree.org * allow
+salsa.debian.org debian.org * allow
+secdsm.org fonts.googleapis.com * block
+secdsm.org google.com * block
+secdsm.org secdsm.org * allow
+secdsm.slack.com slack-edge.com * allow
+secdsm.slack.com slack-imgs.com * allow
+secdsm.slack.com slack.com * allow
+secure.indeed.com indeed.com * allow
+source.android.com android.com * allow
+source.android.com fonts.googleapis.com * block
+source.android.com gstatic.com * block
+sourceforge.net crsspxl.com * block
+sourceforge.net fonts.googleapis.com * block
+sourceforge.net fsdn.com * allow
+sourceforge.net google-analytics.com * block
+sourceforge.net google.com * block
+sourceforge.net licdn.com * block
+sourceforge.net ml314.com * block
+sourceforge.net newrelic.com * noop
+sourceforge.net pro-market.net * block
+sourceforge.net sourceforge.net * allow
+sourceforge.net stack-sonar.com * block
+teespring.com d1b2zzpxewkr9z.cloudfront.net * allow
+teespring.com google.com * block
+teespring.com googletagmanager.com * block
+teespring.com teespring.com * allow
+twitter.com twimg.com * allow
+twitter.com twitter.com * allow
+web.archive.org archive.org * allow
+wiki.archlinux.org archlinux.org * allow
+www.alienvault.com alienvault.com * allow
+www.alienvault.com bootstrapcdn.com * allow
+www.alienvault.com cloudflare.com * allow
+www.alienvault.com fonts.googleapis.com * block
+www.alienvault.com googletagmanager.com * block
+www.alienvault.com newrelic.com * block
+www.alienvault.com optimizely.com * block
+www.bitchute.com bitchute.com * allow
+www.bitchute.com cloudflare.com * allow
+www.careerbuilder.com ajax.googleapis.com * block
+www.careerbuilder.com careerbuilder.com * allow
+www.careerbuilder.com google.com * block
+www.careerbuilder.com googletagmanager.com * block
+www.careerbuilder.com icbdr.com * allow
+www.careerbuilder.com newrelic.com * allow
+www.centos.org centos.org * allow
+www.centos.org fonts.googleapis.com * block
+www.centos.org google-analytics.com * block
+www.crestron.com azureedge.net * block
+www.crestron.com cloudflare.com * allow
+www.crestron.com crestron.com * allow
+www.crestron.com facebook.com * block
+www.crestron.com facebook.net * block
+www.crestron.com googletagmanager.com * block
+www.crestron.com hotjar.com * block
+www.crestron.com pingdom.net * block
+www.elastic.co cloudflare.com * allow
+www.elastic.co contentstack.io * allow
+www.elastic.co elastic.co * allow
+www.elastic.co fonts.googleapis.com * block
+www.elastic.co googletagmanager.com * block
+www.elastic.co marketo.com * block
+www.ibm.com ibm.com * allow
+www.ibm.com s81c.com * block
+www.indeed.com addthis.com * block
+www.indeed.com d1ymdoy4af119w.cloudfront.net * allow
+www.indeed.com d3fw5vlhllyvee.cloudfront.net * allow
+www.indeed.com d3hbwax96mbv6t.cloudfront.net * allow
+www.indeed.com doubleclick.net * block
+www.indeed.com dpuk71x9wlmkf.cloudfront.net * allow
+www.indeed.com facebook.com * block
+www.indeed.com facebook.net * block
+www.indeed.com fontawesome.com * allow
+www.indeed.com google-analytics.com * block
+www.indeed.com googletagmanager.com * block
+www.indeed.com indeed.com * allow
+www.indeed.com optimizely.com * block
+www.indeed.com scorecardresearch.com * block
+www.ixsystems.com fonts.googleapis.com * block
+www.ixsystems.com googletagmanager.com * block
+www.ixsystems.com ixsystems.com * allow
+www.jupiterbroadcasting.com * 3p block
+www.jupiterbroadcasting.com * 3p-frame block
+www.jupiterbroadcasting.com * 3p-script block
+www.jupiterbroadcasting.com bootstrapcdn.com * allow
+www.jupiterbroadcasting.com cloudflare.com * allow
+www.jupiterbroadcasting.com fonts.googleapis.com * block
+www.jupiterbroadcasting.com google-analytics.com * block
+www.jupiterbroadcasting.com google.com * block
+www.jupiterbroadcasting.com jquery.com * allow
+www.jupiterbroadcasting.com jupiterbroadcasting.com * allow
+www.jupiterbroadcasting.com radiojar.com * block
+www.jupiterbroadcasting.com scaleengine.net * block
+www.jupiterbroadcasting.com woopra.com * block
+www.kali.org fonts.googleapis.com * block
+www.kali.org google-analytics.com * block
+www.kali.org kali.org * allow
+www.kali.org twitter.com * allow
+www.linkedin.com * 3p block
+www.linkedin.com * 3p-script block
+www.linkedin.com adnxs.com * block
+www.linkedin.com bing.com * block
+www.linkedin.com cedexis.com * block
+www.linkedin.com google-analytics.com * block
+www.linkedin.com licdn.com * allow
+www.linkedin.com linkedin.com * allow
+www.linkedin.com lynda.com * block
+www.linkedin.com powerlinks.com * block
+www.linkedin.com scorecardresearch.com * block
+www.lpi.org fonts.googleapis.com * block
+www.lpi.org google-analytics.com * block
+www.lpi.org google.com * block
+www.lpi.org googletagmanager.com * block
+www.lpi.org lpi.org * allow
+www.monster.com cloudflare.com * allow
+www.monster.com ensighten.com * block
+www.monster.com fonts.googleapis.com * block
+www.monster.com googletagmanager.com * block
+www.monster.com jobs.com * allow
+www.monster.com materialdesignicons.com * block
+www.monster.com monster.com * allow
+www.monster.com newjobs.com * allow
+www.monster.com truste.com * allow
+www.openstack.org ads-twitter.com * block
+www.openstack.org cookiebot.com * block
+www.openstack.org fonts.googleapis.com * block
+www.openstack.org google-analytics.com * block
+www.openstack.org licdn.com * block
+www.openstack.org openstack.org * allow
+www.openstack.org quantserve.com * block
+www.openvswitch.org openvswitch.org * allow
+www.ossec.net bootstrapcdn.com * allow
+www.ossec.net ossec.net * allow
+www.parrotsec.org distrowatch.com * allow
+www.parrotsec.org parrotsec.org * allow
+www.pfsense.org fonts.googleapis.com * block
+www.pfsense.org google-analytics.com * block
+www.pfsense.org pfsense.org * allow
+www.qemu.org ajax.googleapis.com * block
+www.qemu.org bootstrapcdn.com * allow
+www.qemu.org fonts.googleapis.com * block
+www.qemu.org qemu.org * allow
+www.qubes-os.org qubes-os.org * allow
+www.reddit.com reddit.com * allow
+www.reddit.com redditmedia.com * allow
+www.reddit.com redditstatic.com * allow
+www.splunk.com bizible.com * block
+www.splunk.com doubleclick.net * block
+www.splunk.com google.com * block
+www.splunk.com googletagmanager.com * block
+www.splunk.com ooyala.com * block
+www.splunk.com splunk.com * allow
+www.splunk.com vidyard.com * block
+www.startpage.com startpage.com * allow
+www.teksystems.com aerotek.com * allow
+www.teksystems.com bootstrapcdn.com * allow
+www.teksystems.com browser-update.org * block
+www.teksystems.com cbtalentnetwork.com * allow
+www.teksystems.com cookielaw.org * block
+www.teksystems.com googletagmanager.com * block
+www.teksystems.com teksystems.com * allow
+www.trustedsec.com * 3p block
+www.trustedsec.com * 3p-frame block
+www.trustedsec.com * 3p-script block
+www.trustedsec.com addtoany.com * block
+www.trustedsec.com bootstrapcdn.com * allow
+www.trustedsec.com fonts.googleapis.com * block
+www.trustedsec.com google-analytics.com * block
+www.trustedsec.com hs-scripts.com * block
+www.trustedsec.com jsdelivr.net * block
+www.trustedsec.com licdn.com * block
+www.trustedsec.com linkedin.com * block
+www.trustedsec.com trustedsec.com * allow
+www.trustedsec.com twitter.com * block
+www.urbandictionary.com bugsnag.com * block
+www.urbandictionary.com clarium.global.ssl.fastly.net * block
+www.urbandictionary.com cloudflare.com * allow
+www.urbandictionary.com d2gatte9o95jao.cloudfront.net * allow
+www.urbandictionary.com fonts.googleapis.com * block
+www.urbandictionary.com google-analytics.com * block
+www.urbandictionary.com jsdelivr.net * block
+www.urbandictionary.com maxcdn.com * block
+www.urbandictionary.com pubmatic.com * block
+www.urbandictionary.com quantserve.com * block
+www.urbandictionary.com urbandictionary.com * allow
+www.urbandictionary.com videoplayerhub.com * block
+www.virtualbox.org virtualbox.org * allow
+www.whonix.org whonix.org * allow
+www.xenproject.org addthis.com * block
+www.xenproject.org fonts.googleapis.com * block
+www.xenproject.org google-analytics.com * block
+www.xenproject.org xenproject.org * allow
+www.youtube.com doubleclick.net * block
+www.youtube.com ggpht.com * block
+www.youtube.com google.com * block
+www.youtube.com googleadservices.com * block
+www.youtube.com googlesyndication.com * block
+www.youtube.com googletagservices.com * block
+www.youtube.com googleusercontent.com * allow
+www.youtube.com googlevideo.com * allow
+www.youtube.com gstatic.com * block
+www.youtube.com youtube.com * allow
+www.youtube.com ytimg.com * allow
