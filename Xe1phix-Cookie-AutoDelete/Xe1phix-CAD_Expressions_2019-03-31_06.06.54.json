@@ -1,0 +1,266 @@
+{
+  "default": [
+    {
+      "expression": "*.4chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "jgNTjUZQr"
+    },
+    {
+      "expression": "*.archive.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "OYn_6GDBWQ"
+    },
+    {
+      "expression": "*.archlinux.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "YblWKMhFZ"
+    },
+    {
+      "expression": "*.boards.4chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ltY5SiqXb"
+    },
+    {
+      "expression": "*.bodhizazen.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "eMHiiajZL"
+    },
+    {
+      "expression": "*.gitlab.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "uw143KRc3"
+    },
+    {
+      "expression": "*.hwcdn.libsyn.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "y5bLWQSoh"
+    },
+    {
+      "expression": "*.ics.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "L04y-mVhq"
+    },
+    {
+      "expression": "*.lpi.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "tiPAW479F"
+    },
+    {
+      "expression": "*.mail.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "TROTsD-4i"
+    },
+    {
+      "expression": "*.parrotsec.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "2FmNW9_H4"
+    },
+    {
+      "expression": "*.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "lyxQKoO-t"
+    },
+    {
+      "expression": "*.secdsm.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Uf2PHAtKt"
+    },
+    {
+      "expression": "*.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "eu2AzqdLy"
+    },
+    {
+      "expression": "*.startpage.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "BaIhD-crj"
+    },
+    {
+      "expression": "*.wiki.archlinux.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "_ECdXRXOQk"
+    },
+    {
+      "expression": "archive.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "8eBog9fIh"
+    },
+    {
+      "expression": "boards.4chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "DPu-PY4Sw"
+    },
+    {
+      "expression": "bodhizazen.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "oSVdT7ueR"
+    },
+    {
+      "expression": "convertcsv.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "X3aVB8bU5",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "gitlab.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "P_q8rF-Y3"
+    },
+    {
+      "expression": "hwcdn.libsyn.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "LqQnnRJOw"
+    },
+    {
+      "expression": "ics.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "xjCShaoH7"
+    },
+    {
+      "expression": "lpi.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "WMy-6MjQK"
+    },
+    {
+      "expression": "mail.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "o9IA_WVF7A"
+    },
+    {
+      "expression": "parrotsec.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "sY4zFnjZt"
+    },
+    {
+      "expression": "secdsm.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "OsSZxIC5p"
+    },
+    {
+      "expression": "startpage.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "jrhGgrPyf"
+    },
+    {
+      "expression": "twitter.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Ha9DFgxy0"
+    },
+    {
+      "expression": "wiki.archlinux.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "sJSNjeHWM"
+    },
+    {
+      "expression": "wilderssecurity.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "VVIbMC_hw"
+    },
+    {
+      "expression": "*.urbandictionary.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "gSTKxA9YF",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.wilderssecurity.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "uzRjPWsCM"
+    },
+    {
+      "expression": "*.youtube.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "CH2m9oE1W",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "urbandictionary.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "cS_pWyNOs",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "youtube.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ukZj87Gm0",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    }
+  ]
+}
