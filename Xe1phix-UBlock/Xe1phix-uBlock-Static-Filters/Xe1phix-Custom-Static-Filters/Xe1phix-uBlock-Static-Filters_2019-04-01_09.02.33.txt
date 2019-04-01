@@ -1,0 +1,86 @@
+! 4/1/2019, 1:10:50 AM 4chan.org
+||www.google-analytics.com/analytics.js$script
+
+! 4/1/2019, 1:12:15 AM 4chan.org
+@@||www.google.com/recaptcha/api.js?onload=onRecaptchaLoaded&render=explicit$script,domain=boards.4chan.org
+
+! 4/1/2019, 1:12:34 AM 4chan.org
+@@||www.google.com/recaptcha/api.js$script,domain=boards.4chan.org
+
+! 4/1/2019, 1:13:32 AM 4chan.org
+@@||www.gstatic.com/recaptcha/api2/*$script,domain=boards.4chan.org
+
+! 4/1/2019, 1:15:36 AM 4chan.org
+||www.google-analytics.com^$important
+
+! 4/1/2019, 1:18:29 AM youtube.com
+||static.doubleclick.net^$important
+
+! 4/1/2019, 1:48:01 AM youtube.com
+||googleads.g.doubleclick.net^$important
+
+! 4/1/2019, 1:49:11 AM youtube.com
+||pagead2.googlesyndication.com/pagead/*$important
+
+! 4/1/2019, 1:50:21 AM youtube.com
+||googleads.g.doubleclick.net/pagead/viewthroughconversion/*$important
+
+! 4/1/2019, 1:50:32 AM youtube.com
+||googleads.g.doubleclick.net/pagead/*$important
+
+! 4/1/2019, 1:51:32 AM youtube.com
+||googleads.g.doubleclick.net/pagead/id$xmlhttprequest,domain=www.youtube.com,important
+
+! 4/1/2019, 1:52:39 AM youtube.com
+||www.youtube.com/ptracking$domain=www.youtube.com,important
+
+! 4/1/2019, 1:53:48 AM youtube.com
+||securepubads.g.doubleclick.net/pcs/view$important
+
+! 4/1/2019, 1:54:00 AM youtube.com
+||securepubads.g.doubleclick.net/pcs/*$important
+
+! 4/1/2019, 1:54:47 AM youtube.com
+||tpc.googlesyndication.com^$script,domain=www.youtube.com,important
+
+! 4/1/2019, 6:42:24 AM thepiratebay.org
+||traffic.adxprtz.com^$important
+
+! 4/1/2019, 6:43:16 AM thepiratebay.org
+||traffic.adxprtz.com/ads/ads.js$script,domain=www.thepiratebay.org,important
+
+! 4/1/2019, 6:43:25 AM thepiratebay.org
+||traffic.adxprtz.com/ads/ads.js$domain=www.thepiratebay.org,important
+
+! 4/1/2019, 6:43:29 AM thepiratebay.org
+||traffic.adxprtz.com/ads/ads.js$important
+
+! 4/1/2019, 6:44:24 AM thepiratebay.org
+||traffic.adxprtz.com/tpb/*$subdocument,important
+
+! 4/1/2019, 6:46:02 AM thepiratebay.org
+||www.thepiratebay.org^$popup,domain=www.thepiratebay.org,important
+
+! 4/1/2019, 6:46:05 AM thepiratebay.org
+||www.thepiratebay.org^$popup,important
+
+! 4/1/2019, 6:46:07 AM thepiratebay.org
+||www.thepiratebay.org^$popup,first-party,important
+
+! 4/1/2019, 6:50:18 AM thepiratebay.org
+||traffic.adxprtz.com/ads/ads.js$script,domain=thepiratebay.org,important
+
+! 4/1/2019, 6:50:21 AM thepiratebay.org
+||traffic.adxprtz.com/ads/ads.js$script,important
+
+! 4/1/2019, 6:50:30 AM thepiratebay.org
+||traffic.adxprtz.com/ads/*$script,domain=www.thepiratebay.org,important
+
+! 4/1/2019, 6:50:32 AM thepiratebay.org
+||traffic.adxprtz.com/ads/*$script,domain=thepiratebay.org,important
+
+! 4/1/2019, 7:14:06 AM demonoid.to
+||www.google-analytics.com/analytics.js$script,important
+
+! 4/1/2019, 7:14:17 AM demonoid.to
+||www.google-analytics.com^$script,important
