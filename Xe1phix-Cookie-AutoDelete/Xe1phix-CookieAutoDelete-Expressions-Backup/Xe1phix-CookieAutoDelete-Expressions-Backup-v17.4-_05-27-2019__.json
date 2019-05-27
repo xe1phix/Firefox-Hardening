@@ -1,0 +1,527 @@
+{
+  "default": [
+    {
+      "expression": "*.4chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "jHwMztedW"
+    },
+    {
+      "expression": "*.archive.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "mut59R0qtD"
+    },
+    {
+      "expression": "*.archlinux.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "PqHhG9kBsq"
+    },
+    {
+      "expression": "*.boards.4chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "bi0PJf10Z2"
+    },
+    {
+      "expression": "*.bodhizazen.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "TJuLl8lwjO"
+    },
+    {
+      "expression": "*.ebay.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "l_GY-8wKQB"
+    },
+    {
+      "expression": "*.gitlab.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "rC0qGArj5V"
+    },
+    {
+      "expression": "*.hwcdn.libsyn.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "pRvMbV1P0P"
+    },
+    {
+      "expression": "*.ics.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "kDHIX_WahL"
+    },
+    {
+      "expression": "*.iptorrents.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "9rFnXd5hyD"
+    },
+    {
+      "expression": "*.lpi.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "pMKTqfyPEq"
+    },
+    {
+      "expression": "*.mail.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "W3IPtGtA_T"
+    },
+    {
+      "expression": "*.parrotsec.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ZhXZW-keqO"
+    },
+    {
+      "expression": "*.paypal.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "64kZctPFxg"
+    },
+    {
+      "expression": "*.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "l79R4KpWft"
+    },
+    {
+      "expression": "*.secdsm.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "6-yczJXovy"
+    },
+    {
+      "expression": "*.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "YUePu88BhFr"
+    },
+    {
+      "expression": "*.startpage.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "9Nd_BvVtdW2"
+    },
+    {
+      "expression": "*.wiki.archlinux.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "_7G5TbAN-g8"
+    },
+    {
+      "expression": "*.wilderssecurity.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ST6kLywGmEd"
+    },
+    {
+      "expression": "archive.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "DSeRQupvJSG"
+    },
+    {
+      "expression": "boards.4chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "DZjE3rCfqBw"
+    },
+    {
+      "expression": "bodhizazen.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ldLeT2WCTMf"
+    },
+    {
+      "expression": "ebay.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "AdiqCFb_dEH"
+    },
+    {
+      "expression": "gitlab.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "WokmtynsBJA"
+    },
+    {
+      "expression": "hwcdn.libsyn.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "qT4Q0gsJetT"
+    },
+    {
+      "expression": "ics.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "O1KPrQDWrIc"
+    },
+    {
+      "expression": "iptorrents.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "NOma0Bqqjbx"
+    },
+    {
+      "expression": "lpi.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "fP3gJLxa_uF"
+    },
+    {
+      "expression": "mail.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "wR2mtZojy-J"
+    },
+    {
+      "expression": "parrotsec.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "MEv88RMbGtv"
+    },
+    {
+      "expression": "paypal.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "LczYLeIWLzj"
+    },
+    {
+      "expression": "secdsm.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "7oTE0Gmj71c"
+    },
+    {
+      "expression": "startpage.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "HTSC94vOEoB"
+    },
+    {
+      "expression": "twitter.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "bSKnFXF8uZa"
+    },
+    {
+      "expression": "wiki.archlinux.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "zBXKGI6dEFJ"
+    },
+    {
+      "expression": "wilderssecurity.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "t8HBJOt8PVo"
+    },
+    {
+      "expression": "*.azlyrics.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "xPrQWKe-SA8",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.en.wikipedia.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "8dAk9_Axd05",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.torrentz2.eu",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ZchUKtq_VJ6",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.urbandictionary.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "m8IaGiOmt1u",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.wikipedia.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "v0XOHiBXW0m",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.youtube.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "a5rRj6X324o",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "azlyrics.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "UaZeJg1RydL",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "convertcsv.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "6nwE-4Q7g3A",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "en.wikipedia.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "naR6fyFXYA5",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "torrentz2.eu",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "dLJfkHo_Sy9",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "urbandictionary.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "EZfGiHcOUCE",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "youtube.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "vnfxQcZStcL",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    }
+  ],
+  "firefox-private": [
+    {
+      "expression": "*.4chan.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "CjH--97ai"
+    },
+    {
+      "expression": "*.boards.4chan.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "7IT-XXrTj"
+    },
+    {
+      "expression": "*.cdimage.debian.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "1DfYZVgKBc"
+    },
+    {
+      "expression": "*.debian.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "7E-48-Uxm"
+    },
+    {
+      "expression": "*.gitlab.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "oZCvVpjJz-"
+    },
+    {
+      "expression": "*.iptorrents.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "sp4xKxw9e"
+    },
+    {
+      "expression": "*.mullvad.net",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "JKbwk3m9Uh"
+    },
+    {
+      "expression": "*.my.veridiancu.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "39ungCkxxM"
+    },
+    {
+      "expression": "*.startpage.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "s7nRGjIbt"
+    },
+    {
+      "expression": "*.veridiancu.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "4x4eHXo3_"
+    },
+    {
+      "expression": "01c60144-237d-4363-a0ca-97d8e7c0c371",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "6nksLGdnT"
+    },
+    {
+      "expression": "boards.4chan.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "upVdLiixm"
+    },
+    {
+      "expression": "cdimage.debian.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "XScDNSoit"
+    },
+    {
+      "expression": "gitlab.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "M7_C8Sz1p"
+    },
+    {
+      "expression": "iptorrents.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "XZeZkPf-S"
+    },
+    {
+      "expression": "mullvad.net",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "O_Zq2qG6Z"
+    },
+    {
+      "expression": "my.veridiancu.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "-7pfK8Oaj"
+    },
+    {
+      "expression": "startpage.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "bKBkJzDF8"
+    },
+    {
+      "expression": "*.abebooks.com",
+      "listType": "GREY",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "w7keo_LtB"
+    },
+    {
+      "expression": "*.pornhub.com",
+      "listType": "GREY",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "6_Za5xsk7"
+    },
+    {
+      "expression": "abebooks.com",
+      "listType": "GREY",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "TboD1nTvF"
+    },
+    {
+      "expression": "pornhub.com",
+      "listType": "GREY",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "ukpeuM34d"
+    }
+  ]
+}
