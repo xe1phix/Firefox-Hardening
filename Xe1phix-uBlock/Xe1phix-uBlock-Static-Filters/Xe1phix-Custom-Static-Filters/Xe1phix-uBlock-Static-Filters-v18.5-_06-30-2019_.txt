@@ -1,0 +1,243 @@
+! 4/1/2019, 1:10:50 AM 4chan.org
+||www.google-analytics.com/analytics.js$script
+
+! 4/1/2019, 1:12:15 AM 4chan.org
+@@||www.google.com/recaptcha/api.js?onload=onRecaptchaLoaded&render=explicit$script,domain=boards.4chan.org
+
+! 4/1/2019, 1:12:34 AM 4chan.org
+@@||www.google.com/recaptcha/api.js$script,domain=boards.4chan.org
+
+! 4/1/2019, 1:13:32 AM 4chan.org
+@@||www.gstatic.com/recaptcha/api2/*$script,domain=boards.4chan.org
+
+! 4/1/2019, 1:15:36 AM 4chan.org
+||www.google-analytics.com^$important
+
+! 4/1/2019, 1:18:29 AM youtube.com
+||static.doubleclick.net^$important
+
+! 4/1/2019, 1:48:01 AM youtube.com
+||googleads.g.doubleclick.net^$important
+
+! 4/1/2019, 1:49:11 AM youtube.com
+||pagead2.googlesyndication.com/pagead/*$important
+
+! 4/1/2019, 1:50:21 AM youtube.com
+||googleads.g.doubleclick.net/pagead/viewthroughconversion/*$important
+
+! 4/1/2019, 1:50:32 AM youtube.com
+||googleads.g.doubleclick.net/pagead/*$important
+
+! 4/1/2019, 1:51:32 AM youtube.com
+||googleads.g.doubleclick.net/pagead/id$xmlhttprequest,domain=www.youtube.com,important
+
+! 4/1/2019, 1:52:39 AM youtube.com
+||www.youtube.com/ptracking$domain=www.youtube.com,important
+
+! 4/1/2019, 1:53:48 AM youtube.com
+||securepubads.g.doubleclick.net/pcs/view$important
+
+! 4/1/2019, 1:54:00 AM youtube.com
+||securepubads.g.doubleclick.net/pcs/*$important
+
+! 4/1/2019, 1:54:47 AM youtube.com
+||tpc.googlesyndication.com^$script,domain=www.youtube.com,important
+
+! 4/1/2019, 6:42:24 AM thepiratebay.org
+||traffic.adxprtz.com^$important
+
+! 4/1/2019, 6:43:16 AM thepiratebay.org
+||traffic.adxprtz.com/ads/ads.js$script,domain=www.thepiratebay.org,important
+
+! 4/1/2019, 6:43:25 AM thepiratebay.org
+||traffic.adxprtz.com/ads/ads.js$domain=www.thepiratebay.org,important
+
+! 4/1/2019, 6:43:29 AM thepiratebay.org
+||traffic.adxprtz.com/ads/ads.js$important
+
+! 4/1/2019, 6:44:24 AM thepiratebay.org
+||traffic.adxprtz.com/tpb/*$subdocument,important
+
+! 4/1/2019, 6:46:02 AM thepiratebay.org
+||www.thepiratebay.org^$popup,domain=www.thepiratebay.org,important
+
+! 4/1/2019, 6:46:05 AM thepiratebay.org
+||www.thepiratebay.org^$popup,important
+
+! 4/1/2019, 6:46:07 AM thepiratebay.org
+||www.thepiratebay.org^$popup,first-party,important
+
+! 4/1/2019, 6:50:18 AM thepiratebay.org
+||traffic.adxprtz.com/ads/ads.js$script,domain=thepiratebay.org,important
+
+! 4/1/2019, 6:50:21 AM thepiratebay.org
+||traffic.adxprtz.com/ads/ads.js$script,important
+
+! 4/1/2019, 6:50:30 AM thepiratebay.org
+||traffic.adxprtz.com/ads/*$script,domain=www.thepiratebay.org,important
+
+! 4/1/2019, 6:50:32 AM thepiratebay.org
+||traffic.adxprtz.com/ads/*$script,domain=thepiratebay.org,important
+
+! 4/1/2019, 7:14:06 AM demonoid.to
+||www.google-analytics.com/analytics.js$script,important
+
+! 4/1/2019, 7:14:17 AM demonoid.to
+||www.google-analytics.com^$script,important
+
+! 6/30/2019 redtube.com
+||media.trafficjunky.net^$script,domain=www.redtube.com,important
+||media.trafficjunky.net/js/*$script,domain=www.redtube.com,important
+||media.trafficjunky.net/js/*$script,domain=redtube.com,important
+||media.trafficjunky.net/js/*$domain=redtube.com,important
+||media.trafficjunky.net^$domain=redtube.com,important
+||www.google-analytics.com/analytics.js$script,domain=www.redtube.com,important
+||www.google-analytics.com/analytics.js$script,domain=redtube.com,important
+||www.google-analytics.com^$script,domain=redtube.com,important
+||www.google-analytics.com^$script,important
+||www.google-analytics.com^$important
+||www.google-analytics.com^$domain=redtube.com,important
+||www.google-analytics.com^$domain=www.redtube.com,important
+||smpop.icfcdn.com/smpop-stable.js$script,domain=redtube.com,important
+||smpop.icfcdn.com/smpop-stable.js$domain=redtube.com,important
+||smpop.icfcdn.com^$domain=redtube.com,important
+||ei.rdtcdn.com/www-static/cdn_files/redtube/js/common/common/service_worker_starter-1.0.0.js$script,domain=www.redtube.com,important
+||www.google-analytics.com/analytics.js$domain=www.redtube.com,important
+||www.google-analytics.com/analytics.js$domain=redtube.com,important
+||www.google-analytics.com/analytics.js$important
+||www.google-analytics.com/analytics.js$script,important
+||www.google-analytics.com^$script,domain=www.redtube.com,important
+||cdn1d-static-shared.phncdn.com/mg_utils-2.0.0.js$script,domain=www.redtube.com,important
+||cdn1d-static-shared.phncdn.com/mg_utils-2.0.0.js$domain=www.redtube.com,important
+||cdn1d-static-shared.phncdn.com/mg_utils-2.0.0.js$domain=redtube.com,important
+||smpop.icfcdn.com/smpop-stable.js$script,domain=www.redtube.com,important
+||smpop.icfcdn.com/smpop-stable.js$domain=www.redtube.com,important
+||smpop.icfcdn.com/smpop-stable.js$important
+||media.trafficjunky.net/js/*$script,important
+||media.trafficjunky.net/js/*$domain=www.redtube.com,important
+||media.trafficjunky.net/js/*$important
+||media.trafficjunky.net^$important
+||media.trafficjunky.net^$domain=www.redtube.com,important
+||media.trafficjunky.net/js/holiday-promo.js$important
+||ci.rdtcdn.com/www-static/cdn_files/redtube/js/common/common/service_worker_starter-1.0.0.js$script,domain=www.redtube.com,important
+||ci.rdtcdn.com/www-static/cdn_files/redtube/js/common/common/service_worker_starter-1.0.0.js$script,domain=redtube.com,important
+||ci.rdtcdn.com/www-static/cdn_files/redtube/js/common/common/service_worker_starter-1.0.0.js$domain=redtube.com,important
+||ci.rdtcdn.com/www-static/cdn_files/redtube/js/common/common/service_worker_starter-1.0.0.js$domain=www.redtube.com,important
+||smpop.icfcdn.com/smpop-stable.js$script,important
+||smpop.icfcdn.com^$script,important
+||smpop.icfcdn.com^$important
+
+! 6/30/2019 https://www.redtube.com
+@@||www.redtube.com###header_search
+
+! 6/30/2019 pornhub.com
+||www.google-analytics.com/analytics.js$script,domain=www.pornhub.com,important
+||www.google-analytics.com/analytics.js$script,domain=pornhub.com,important
+||www.google-analytics.com^$script,domain=pornhub.com,important
+||www.google-analytics.com^$script,domain=www.pornhub.com,important
+||www.google-analytics.com^$domain=www.pornhub.com,important
+||www.google-analytics.com^$domain=pornhub.com,important
+||www.google-analytics.com/analytics.js$domain=pornhub.com,important
+||www.google-analytics.com/analytics.js$domain=www.pornhub.com,important
+||media.trafficjunky.net/__js/test.js$script,domain=www.pornhub.com,important
+||media.trafficjunky.net/__js/test.js$script,domain=pornhub.com,important
+||media.trafficjunky.net/__js/*$script,domain=pornhub.com,important
+||media.trafficjunky.net/__js/*$script,domain=www.pornhub.com,important
+||media.trafficjunky.net/__js/*$script,important
+||media.trafficjunky.net/__js/*$domain=www.pornhub.com,important
+||media.trafficjunky.net/__js/*$domain=pornhub.com,important
+||media.trafficjunky.net/__js/*$important
+||cdn1d-static-shared.phncdn.com/mg_utils-1.0.0.js?cache=2019062801$script,domain=www.pornhub.com,important
+||cdn1d-static-shared.phncdn.com/mg_utils-1.0.0.js?cache=2019062801$script,domain=pornhub.com,important
+||cdn1d-static-shared.phncdn.com/mg_utils-1.0.0.js$script,domain=pornhub.com,important
+||cdn1d-static-shared.phncdn.com/mg_utils-1.0.0.js$script,domain=www.pornhub.com,important
+||cdn1d-static-shared.phncdn.com/mg_utils-1.0.0.js$domain=www.pornhub.com,important
+||cdn1d-static-shared.phncdn.com/mg_utils-1.0.0.js$domain=pornhub.com,important
+||cdn1d-static-shared.phncdn.com/mg_utils-1.0.0.js$important
+||cdn1d-static-shared.phncdn.com/mg_utils-1.0.0.js?cache=2019062801$important
+||cdn1d-static-shared.phncdn.com/mg_utils-1.0.0.js?cache=2019062801$domain=pornhub.com,important
+||cdn1d-static-shared.phncdn.com/mg_utils-1.0.0.js?cache=2019062801$domain=www.pornhub.com,important
+||ci.phncdn.com/www-static/js/ph-tracking.js?cache=2019062801$script,domain=www.pornhub.com,important
+||ci.phncdn.com/www-static/js/ph-tracking.js?cache=2019062801$script,domain=pornhub.com,important
+||ci.phncdn.com/www-static/js/ph-tracking.js?cache=2019062801$script,important
+||ci.phncdn.com/www-static/js/ph-tracking.js$script,important
+||ci.phncdn.com/www-static/js/ph-tracking.js$script,domain=www.pornhub.com,important
+||ci.phncdn.com/www-static/js/ph-tracking.js$script,domain=pornhub.com,important
+||ci.phncdn.com/www-static/js/ph-tracking.js$domain=pornhub.com,important
+||ci.phncdn.com/www-static/js/ph-tracking.js$domain=www.pornhub.com,important
+||ci.phncdn.com/www-static/js/ph-tracking.js$important
+
+! 6/30/2019 https://www.pornhub.com
+www.pornhub.com##li:nth-of-type(1) > yclqx > div
+
+! 6/30/2019 thepiratebay.org
+||genergyund.pro^$important
+||genergyund.pro/p?b=300981695732&c=23134570$important
+||genergyund.pro/p$important
+||genergyund.pro/p$domain=thepiratebay.org,important
+||genergyund.pro/p?b=300981695732&c=23134570$domain=thepiratebay.org,important
+||secure.adnxs.com^$domain=thepiratebay.org,important
+||secure.adnxs.com/getuid?https://genergyund.pro/s?a=$UID&b=300981695732$domain=thepiratebay.org,important
+||secure.adnxs.com/getuid$domain=thepiratebay.org,important
+||secure.adnxs.com/getuid$important
+||secure.adnxs.com^$important
+||secure.adnxs.com/getuid?https://genergyund.pro/s?a=$UID&b=300981695732$important
+||genergyund.pro/p?b=300981695732&c=64298323$xmlhttprequest,domain=thepiratebay.org,important
+||genergyund.pro/p$xmlhttprequest,domain=thepiratebay.org,important
+||genergyund.pro^$xmlhttprequest,domain=thepiratebay.org,important
+||genergyund.pro^$xmlhttprequest,important
+||genergyund.pro/p$xmlhttprequest,important
+||genergyund.pro/p?b=300981695732&c=64298323$xmlhttprequest,important
+||genergyund.pro/p?b=300981695732&c=64298323$important
+||genergyund.pro^$domain=thepiratebay.org,important
+||genergyund.pro/p?b=300981695732&c=64298323$domain=thepiratebay.org,important
+||furtherescottom.info/WDJkTHJ3DQc/*$domain=thepiratebay.org,important
+||furtherescottom.info^$domain=thepiratebay.org,important
+||furtherescottom.info^$important
+||furtherescottom.info/WDJkTHJ3DQc/*$important
+||furtherescottom.info/WDJkTHJ3DQc/TxUAIgkXMwonGjENaC8aOx14MThHDVUtKzUQCiBqBjFWWXpCbQVWeVQoWwBxQ35BEC0GLUFZeEF+WwoqHWUUEnFDdgFQYkt2AEI4AjlVWX1UKEYQIE9pB1J9SmELVHlLaQJU$important
+||furtherescottom.info/WDJkTHJ3DQc/TxUAIgkXMwonGjENaC8aOx14MThHDVUtKzUQCiBqBjFWWXpCbQVWeVQoWwBxQ35BEC0GLUFZeEF+WwoqHWUUEnFDdgFQYkt2AEI4AjlVWX1UKEYQIE9pB1J9SmELVHlLaQJU$domain=thepiratebay.org,important
+||furtherescottom.info^$image,domain=thepiratebay.org,important
+||furtherescottom.info/WDJkTHJ3DQc/*$image,domain=thepiratebay.org,important
+||furtherescottom.info/WDJkTHJ3DQc/TxUAIgkXMwonGjENaC8aOx14MThHDVUtKzUQCiBqBjFWWXpCbQVWeVQoWwBxQ35BEC0GLUFZeEF+WwoqHWUUEnFDdgFQYkt2AEI4AjlVWX1UKEYQIE9pB1J9SmELVHlLaQJU$image,domain=thepiratebay.org,important
+||secure.adnxs.com/getuid?https://genergyund.pro/s?a=$UID&b=300981695732$image,domain=thepiratebay.org
+||secure.adnxs.com/getuid$image,domain=thepiratebay.org,important
+||secure.adnxs.com^$image,domain=thepiratebay.org,important
+||secure.adnxs.com/getuid?https://genergyund.pro/s?a=$UID&b=300981695732$image,domain=thepiratebay.org,important
+||secure.adnxs.com/getuid?https://genergyund.pro/s?a=$UID&b=300981695732$image,important
+||secure.adnxs.com/getuid$image,important
+||secure.adnxs.com^$image,important
+||butheptesitrew.pro/TjFQWHgvUzM1RztDPGVdfHd1aj4qAGk+SCpBYTwQeQY6KVYtXT8tHChDPzYMYF81LF18dwUVSyVIBB8uH3c8LwkZWjMJLiB3BBlIOXc2NDkYdGAdEg0BHh0pD2hoARF/eRY/QXhpYAFKD2BlEj4NcBUAKnphMT86KnY3YUEfABk8LQZ3Ah4pf3IZL0wBdWArXXx3GGlMK2Y6DTQfAGkQNBhZNR4TKV0TDkAXd2NsEgxdMxsZGFIUDS0+CAYaIgVSFzQgD0kGOjEmcxwAOQwJGAkMHlMIKCoIWiAvGRhSFBtIHEEGNjIecD0SLgldJxkeD3sHHxRjWjoJOQsUYh45BkkFGUgldTYeKRliJxEJCnQVOy4NfDQeEzoBNTQtKmICCU0ZdwoWORYBERkTJmY0DikCZQE3CRhdNBotfWQRGQA2YzQJIQVlNwJOG10KFF4kQj82CHNDGgEpGkQKMjE$subdocument,domain=thepiratebay.org,important
+||butheptesitrew.pro/TjFQWHgvUzM1RztDPGVdfHd1aj4qAGk+SCpBYTwQeQY6KVYtXT8tHChDPzYMYF81LF18dwUVSyVIBB8uH3c8LwkZWjMJLiB3BBlIOXc2NDkYdGAdEg0BHh0pD2hoARF/eRY/*$subdocument,domain=thepiratebay.org,important
+||butheptesitrew.pro/TjFQWHgvUzM1RztDPGVdfHd1aj4qAGk+SCpBYTwQeQY6KVYtXT8tHChDPzYMYF81LF18dwUVSyVIBB8uH3c8LwkZWjMJLiB3BBlIOXc2NDkYdGAdEg0BHh0pD2hoARF/*$subdocument,domain=thepiratebay.org,important
+||butheptesitrew.pro^$subdocument,domain=thepiratebay.org,important
+||butheptesitrew.pro^$subdocument,important
+||butheptesitrew.pro/TjFQWHgvUzM1RztDPGVdfHd1aj4qAGk+SCpBYTwQeQY6KVYtXT8tHChDPzYMYF81LF18dwUVSyVIBB8uH3c8LwkZWjMJLiB3BBlIOXc2NDkYdGAdEg0BHh0pD2hoARF/eRY/QXhpYAFKD2BlEj4NcBUAKnphMT86KnY3YUEfABk8LQZ3Ah4pf3IZL0wBdWArXXx3GGlMK2Y6DTQfAGkQNBhZNR4TKV0TDkAXd2NsEgxdMxsZGFIUDS0+CAYaIgVSFzQgD0kGOjEmcxwAOQwJGAkMHlMIKCoIWiAvGRhSFBtIHEEGNjIecD0SLgldJxkeD3sHHxRjWjoJOQsUYh45BkkFGUgldTYeKRliJxEJCnQVOy4NfDQeEzoBNTQtKmICCU0ZdwoWORYBERkTJmY0DikCZQE3CRhdNBotfWQRGQA2YzQJIQVlNwJOG10KFF4kQj82CHNDGgEpGkQKMjE$subdocument,important
+||butheptesitrew.pro/TjFQWHgvUzM1RztDPGVdfHd1aj4qAGk+SCpBYTwQeQY6KVYtXT8tHChDPzYMYF81LF18dwUVSyVIBB8uH3c8LwkZWjMJLiB3BBlIOXc2NDkYdGAdEg0BHh0pD2hoARF/eRY/*$subdocument,important
+||butheptesitrew.pro/TjFQWHgvUzM1RztDPGVdfHd1aj4qAGk+SCpBYTwQeQY6KVYtXT8tHChDPzYMYF81LF18dwUVSyVIBB8uH3c8LwkZWjMJLiB3BBlIOXc2NDkYdGAdEg0BHh0pD2hoARF/*$subdocument,important
+||butheptesitrew.pro/TjFQWHgvUzM1RztDPGVdfHd1aj4qAGk+SCpBYTwQeQY6KVYtXT8tHChDPzYMYF81LF18dwUVSyVIBB8uH3c8LwkZWjMJLiB3BBlIOXc2NDkYdGAdEg0BHh0pD2hoARF/*$domain=thepiratebay.org,important
+||butheptesitrew.pro/TjFQWHgvUzM1RztDPGVdfHd1aj4qAGk+SCpBYTwQeQY6KVYtXT8tHChDPzYMYF81LF18dwUVSyVIBB8uH3c8LwkZWjMJLiB3BBlIOXc2NDkYdGAdEg0BHh0pD2hoARF/eRY/QXhpYAFKD2BlEj4NcBUAKnphMT86KnY3YUEfABk8LQZ3Ah4pf3IZL0wBdWArXXx3GGlMK2Y6DTQfAGkQNBhZNR4TKV0TDkAXd2NsEgxdMxsZGFIUDS0+CAYaIgVSFzQgD0kGOjEmcxwAOQwJGAkMHlMIKCoIWiAvGRhSFBtIHEEGNjIecD0SLgldJxkeD3sHHxRjWjoJOQsUYh45BkkFGUgldTYeKRliJxEJCnQVOy4NfDQeEzoBNTQtKmICCU0ZdwoWORYBERkTJmY0DikCZQE3CRhdNBotfWQRGQA2YzQJIQVlNwJOG10KFF4kQj82CHNDGgEpGkQKMjE$domain=thepiratebay.org,important
+||butheptesitrew.pro/TjFQWHgvUzM1RztDPGVdfHd1aj4qAGk+SCpBYTwQeQY6KVYtXT8tHChDPzYMYF81LF18dwUVSyVIBB8uH3c8LwkZWjMJLiB3BBlIOXc2NDkYdGAdEg0BHh0pD2hoARF/eRY/*$domain=thepiratebay.org,important
+||butheptesitrew.pro^$domain=thepiratebay.org,important
+||furtherescottom.info^$domain=thepiratebay.org
+||furtherescottom.info/MXRQVnEeSzMlTGdEIyETdiY9MB10JBE8KEQhBmcifx04AzVdJj5wBVgQbWBBBENiY1dBHTRrQBcHJDcFRAdtZ1dYGjY5TBcCbWdfAkB+b18DUiQmEFZJYXABRQA8a0AEQmFuSAhEZWJAAUQ$domain=thepiratebay.org,important
+||furtherescottom.info/MXRQVnEeSzMlTGdEIyETdiY9MB10JBE8KEQhBmcifx04AzVdJj5wBVgQbWBBBENiY1dBHTRrQBcHJDcFRAdtZ1dYGjY5TBcCbWdfAkB+b18DUiQmEFZJYXABRQA8a0AEQmFuSAhEZWJAAUQ$important
+||traffic.adxprtz.com/ads/ad/ads.js$script,domain=thepiratebay.org,important
+||traffic.adxprtz.com/ads/ad/*$script,domain=thepiratebay.org,important
+||traffic.adxprtz.com/ads/*$script,domain=thepiratebay.org,important
+||traffic.adxprtz.com^$script,domain=thepiratebay.org,important
+||traffic.adxprtz.com^$script,important
+||traffic.adxprtz.com/ads/*$script,important
+||traffic.adxprtz.com/ads/ad/*$script,important
+||traffic.adxprtz.com/ads/ad/ads.js$script,important
+||traffic.adxprtz.com/ads/ad/ads.js$important
+||traffic.adxprtz.com/ads/ad/*$important
+||traffic.adxprtz.com/ads/*$important
+||traffic.adxprtz.com^$important
+||traffic.adxprtz.com^$domain=thepiratebay.org,important
+||traffic.adxprtz.com/ads/*$domain=thepiratebay.org,important
+||traffic.adxprtz.com/ads/ad/*$domain=thepiratebay.org,important
+||traffic.adxprtz.com/ads/ad/ads.js$domain=thepiratebay.org,important
+
+
+||thepiratebay.org##iframe[src^="//thepiratebay.org/static/ads/"]
