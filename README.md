@@ -30,6 +30,12 @@
 </p>
 
 
+___
+[uMatrix Github Page](https://github.com/gorhill/uMatrix)
+___
+Visit the [uMatrix's Wiki](https://github.com/gorhill/uMatrix/wiki) for documentation.
+___
+[uMatrix Stable Release](https://github.com/gorhill/uMatrix/releases) - Click the latest `uMatrix.webext.signed.xpi` link
 
 
 ***
