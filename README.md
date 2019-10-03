@@ -7,6 +7,30 @@
 *** 
 
 
+***
+# uBlock
+***
+
+<p align="center">
+    <a href="https://repology.org/project/ffext:ublock-origin/versions">
+        <img src="https://repology.org/badge/version-for-repo/parrot/ffext:ublock-origin.svg" alt="Parrot package">
+    </a>
+    <a href="https://repology.org/project/ffext:ublock-origin/versions">
+        <img src="https://repology.org/badge/version-for-repo/debian_stable/ffext:ublock-origin.svg" alt="Debian Stable package">
+    </a>
+    <a href="https://repology.org/project/ffext:ublock-origin/versions">
+        <img src="https://repology.org/badge/latest-versions/ffext:ublock-origin.svg" alt="latest packaged version(s)">
+    </a>
+    <a href="https://repology.org/project/ffext:ublock-origin/versions">
+        <img src="https://repology.org/badge/version-for-repo/kali_rolling/ffext:ublock-origin.svg" alt="Kali Linux Rolling package">
+    </a>
+</p>
+
+[![Build](https://travis-ci.org/gorhill/uBlock.svg?branch=master)](https://travis-ci.org/gorhill/uBlock)
+[<img src="https://travis-ci.org/gorhill/uBlock.svg?branch=master" height="16">](https://travis-ci.org/gorhill/uBlock)
+
+
+
 
 
 ***
@@ -28,6 +52,9 @@
         <img src="https://repology.org/badge/version-for-repo/kali_rolling/umatrix.svg" alt="Kali Linux Rolling package">
     </a>
 </p>
+
+[<img src="https://travis-ci.org/gorhill/uMatrix.svg?branch=master" height="16">](https://travis-ci.org/gorhill/uMatrix)
+[![Build](https://travis-ci.org/gorhill/uMatrix.svg?branch=master)](https://travis-ci.org/gorhill/uMatrix)
 
 
 ___
