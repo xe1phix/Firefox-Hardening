@@ -13,13 +13,13 @@
 
 <p align="center">
     <a href="https://repology.org/project/ffext:ublock-origin/versions">
-        <img src="https://repology.org/badge/version-for-repo/parrot/ffext:ublock-origin.svg" alt="Parrot package">
+        <img src="https://repology.org/badge/latest-versions/ffext:ublock-origin.svg" alt="latest packaged version(s)">
     </a>
     <a href="https://repology.org/project/ffext:ublock-origin/versions">
         <img src="https://repology.org/badge/version-for-repo/debian_stable/ffext:ublock-origin.svg" alt="Debian Stable package">
     </a>
     <a href="https://repology.org/project/ffext:ublock-origin/versions">
-        <img src="https://repology.org/badge/latest-versions/ffext:ublock-origin.svg" alt="latest packaged version(s)">
+        <img src="https://repology.org/badge/version-for-repo/parrot/ffext:ublock-origin.svg" alt="Parrot package">
     </a>
     <a href="https://repology.org/project/ffext:ublock-origin/versions">
         <img src="https://repology.org/badge/version-for-repo/kali_rolling/ffext:ublock-origin.svg" alt="Kali Linux Rolling package">
