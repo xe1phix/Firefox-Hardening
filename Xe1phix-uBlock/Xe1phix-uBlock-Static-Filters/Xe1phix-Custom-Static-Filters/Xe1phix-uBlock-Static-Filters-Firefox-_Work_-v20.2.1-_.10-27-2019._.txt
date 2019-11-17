@@ -1,0 +1,393 @@
+! 4/1/2019, 1:10:50 AM 4chan.org
+||www.google-analytics.com/analytics.js$script
+
+! 4/1/2019, 1:12:15 AM 4chan.org
+@@||www.google.com/recaptcha/api.js?onload=onRecaptchaLoaded&render=explicit$script,domain=boards.4chan.org
+
+! 4/1/2019, 1:12:34 AM 4chan.org
+@@||www.google.com/recaptcha/api.js$script,domain=boards.4chan.org
+
+! 4/1/2019, 1:13:32 AM 4chan.org
+@@||www.gstatic.com/recaptcha/api2/*$script,domain=boards.4chan.org
+
+! 4/1/2019, 1:15:36 AM 4chan.org
+||www.google-analytics.com^$important
+
+! 4/1/2019, 1:18:29 AM youtube.com
+||static.doubleclick.net^$important
+
+! 4/1/2019, 1:48:01 AM youtube.com
+||googleads.g.doubleclick.net^$important
+
+! 4/1/2019, 1:49:11 AM youtube.com
+||pagead2.googlesyndication.com/pagead/*$important
+
+! 4/1/2019, 1:50:21 AM youtube.com
+||googleads.g.doubleclick.net/pagead/viewthroughconversion/*$important
+
+! 4/1/2019, 1:50:32 AM youtube.com
+||googleads.g.doubleclick.net/pagead/*$important
+
+! 4/1/2019, 1:51:32 AM youtube.com
+||googleads.g.doubleclick.net/pagead/id$xmlhttprequest,domain=www.youtube.com,important
+
+! 4/1/2019, 1:52:39 AM youtube.com
+||www.youtube.com/ptracking$domain=www.youtube.com,important
+
+! 4/1/2019, 1:53:48 AM youtube.com
+||securepubads.g.doubleclick.net/pcs/view$important
+
+! 4/1/2019, 1:54:00 AM youtube.com
+||securepubads.g.doubleclick.net/pcs/*$important
+
+! 4/1/2019, 1:54:47 AM youtube.com
+||tpc.googlesyndication.com^$script,domain=www.youtube.com,important
+
+! 4/1/2019, 6:42:24 AM thepiratebay.org
+||traffic.adxprtz.com^$important
+
+! 4/1/2019, 6:43:16 AM thepiratebay.org
+||traffic.adxprtz.com/ads/ads.js$script,domain=www.thepiratebay.org,important
+
+! 4/1/2019, 6:43:25 AM thepiratebay.org
+||traffic.adxprtz.com/ads/ads.js$domain=www.thepiratebay.org,important
+
+! 4/1/2019, 6:43:29 AM thepiratebay.org
+||traffic.adxprtz.com/ads/ads.js$important
+
+! 4/1/2019, 6:44:24 AM thepiratebay.org
+||traffic.adxprtz.com/tpb/*$subdocument,important
+
+! 4/1/2019, 6:46:02 AM thepiratebay.org
+||www.thepiratebay.org^$popup,domain=www.thepiratebay.org,important
+
+! 4/1/2019, 6:46:05 AM thepiratebay.org
+||www.thepiratebay.org^$popup,important
+
+! 4/1/2019, 6:46:07 AM thepiratebay.org
+||www.thepiratebay.org^$popup,first-party,important
+
+! 4/1/2019, 6:50:18 AM thepiratebay.org
+||traffic.adxprtz.com/ads/ads.js$script,domain=thepiratebay.org,important
+
+! 4/1/2019, 6:50:21 AM thepiratebay.org
+||traffic.adxprtz.com/ads/ads.js$script,important
+
+! 4/1/2019, 6:50:30 AM thepiratebay.org
+||traffic.adxprtz.com/ads/*$script,domain=www.thepiratebay.org,important
+
+! 4/1/2019, 6:50:32 AM thepiratebay.org
+||traffic.adxprtz.com/ads/*$script,domain=thepiratebay.org,important
+
+! 4/1/2019, 7:14:06 AM demonoid.to
+||www.google-analytics.com/analytics.js$script,important
+
+! 4/1/2019, 7:14:17 AM demonoid.to
+||www.google-analytics.com^$script,important
+
+! 6/17/2019 instructables.com
+||www.google-analytics.com/analytics.js$script,important
+||www.google-analytics.com/analytics.js$important
+||www.google-analytics.com^$important
+
+! 6/29/2019 whatsmyip.org
+||connect.facebook.net^$important
+
+! 7/23/2019 youtube.com
+||googleads.g.doubleclick.net/pagead/id$xmlhttprequest,domain=www.youtube.com,important
+||googleads.g.doubleclick.net/pagead/*$xmlhttprequest,domain=www.youtube.com,important
+||googleads.g.doubleclick.net^$xmlhttprequest,domain=www.youtube.com,important
+||googleads.g.doubleclick.net^$xmlhttprequest,domain=youtube.com,important
+||googleads.g.doubleclick.net^$domain=youtube.com,important
+||googleads.g.doubleclick.net/pagead/id$domain=youtube.com,important
+||googleads.g.doubleclick.net/pagead/*$domain=youtube.com,important
+||googleads.g.doubleclick.net^$domain=www.youtube.com,important
+||googleads.g.doubleclick.net^$important
+||googleads.g.doubleclick.net/pagead/id$important
+||googleads.g.doubleclick.net/pagead/*$important
+
+! 7/23/2019 4chan.org
+||www.google-analytics.com/analytics.js$script,domain=boards.4chan.org,important
+||www.google-analytics.com^$script,domain=boards.4chan.org,important
+||www.google-analytics.com^$script,domain=4chan.org,important
+||www.google-analytics.com^$script,important
+||www.google-analytics.com/analytics.js$script,important
+||www.google-analytics.com/analytics.js$script,domain=4chan.org,important
+||www.google-analytics.com/analytics.js$domain=boards.4chan.org,important
+||www.google-analytics.com/analytics.js$domain=4chan.org,important
+||www.google-analytics.com/analytics.js$important
+||www.google-analytics.com^$domain=boards.4chan.org,important
+||www.google-analytics.com^$domain=4chan.org,important
+||www.google-analytics.com^$important
+||a.adtng.com^$important
+||a.adtng.com^$domain=4chan.org,important
+||a.adtng.com^$domain=boards.4chan.org,important
+||a.adtng.com/get/*$domain=boards.4chan.org,important
+||a.adtng.com/get/*$domain=4chan.org,important
+||a.adtng.com/get/*$important
+||a.adtng.com/get/10001653$important
+||a.adtng.com/get/10001653$domain=4chan.org,important
+||a.adtng.com/get/10001653$domain=boards.4chan.org,important
+||a.adtng.com^$subdocument,important
+||a.adtng.com^$subdocument,domain=boards.4chan.org,important
+||a.adtng.com^$subdocument,domain=4chan.org,important
+||a.adtng.com/get/*$subdocument,important
+||a.adtng.com/get/*$subdocument,domain=boards.4chan.org,important
+||a.adtng.com/get/*$subdocument,domain=4chan.org,important
+
+! 8/18/2019 4chan.org
+||www.google-analytics.com/analytics.js$script,domain=boards.4chan.org,important
+||www.google-analytics.com/analytics.js$script,domain=4chan.org,important
+||www.google-analytics.com/analytics.js$script,important
+||www.google-analytics.com^$script,important
+||www.google-analytics.com^$script,domain=4chan.org,important
+||www.google-analytics.com^$script,domain=boards.4chan.org,important
+@@||i.4cdn.org/f/*$domain=boards.4chan.org
+@@||i.4cdn.org/f/*$object,domain=boards.4chan.org
+@@||i.4cdn.org^$domain=boards.4chan.org
+@@||i.4cdn.org^$domain=4chan.org
+@@||i.4cdn.org/f/*$domain=4chan.org
+@@||i.4cdn.org/f/*$object,domain=4chan.org
+@@||i.4cdn.org^$object,domain=4chan.org
+@@||i.4cdn.org^$object,domain=boards.4chan.org
+@@||i.4cdn.org/f/whiteboard.swf$object,domain=boards.4chan.org
+@@||i.4cdn.org/f/whiteboard.swf$object,domain=4chan.org
+@@||i.4cdn.org/f/whiteboard.swf$object
+@@||i.4cdn.org/f/*$object
+@@||i.4cdn.org^$object
+@@||i.4cdn.org/f/whiteboard.swf
+@@||i.4cdn.org/f/whiteboard.swf$domain=4chan.org
+@@||i.4cdn.org/f/whiteboard.swf$domain=boards.4chan.org
+
+! 9/21/2019 talosintelligence.com
+@@||talos-intelligence-site.s3.amazonaws.com/production/podcast_files/*$media,domain=www.talosintelligence.com
+@@||talos-intelligence-site.s3.amazonaws.com^$media,domain=www.talosintelligence.com
+@@||talos-intelligence-site.s3.amazonaws.com/production/*$media,domain=www.talosintelligence.com
+
+! 9/21/2019 talos-intelligence-site.s3.amazonaws.com
+@@||www.talosintelligence.com/podcasts/107$other,domain=talos-intelligence-site.s3.amazonaws.com
+@@||www.talosintelligence.com/podcasts/*$other,domain=talos-intelligence-site.s3.amazonaws.com
+
+! 9/21/2019 instructables.com
+||securepubads.g.doubleclick.net^$script,domain=www.instructables.com,important
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=www.instructables.com,important
+||securepubads.g.doubleclick.net/tag/js/*$script,domain=www.instructables.com,important
+||securepubads.g.doubleclick.net/tag/*$script,domain=www.instructables.com,important
+||securepubads.g.doubleclick.net^$domain=www.instructables.com,important
+||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=www.instructables.com,important
+||securepubads.g.doubleclick.net/tag/js/*$domain=www.instructables.com,important
+||securepubads.g.doubleclick.net/tag/*$domain=www.instructables.com,important
+||securepubads.g.doubleclick.net^$important
+||securepubads.g.doubleclick.net/tag/js/gpt.js$important
+||securepubads.g.doubleclick.net/tag/js/*$important
+||securepubads.g.doubleclick.net/tag/*$important
+||mtrx.go.sonobi.com^$important
+||mtrx.go.sonobi.com/morpheus.instruct.js$important
+||mtrx.go.sonobi.com/morpheus.instruct.js$domain=instructables.com,important
+||ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js$script,domain=www.instructables.com,important
+||ap.lijit.com/www/sovrn_beacon_standalone/*$script,domain=www.instructables.com,important
+||ap.lijit.com/www/*$script,domain=www.instructables.com,important
+||ap.lijit.com^$script,domain=www.instructables.com,important
+||ap.lijit.com^$script,important
+||ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js$script,important
+||ap.lijit.com/www/sovrn_beacon_standalone/*$script,important
+||ap.lijit.com^$important
+||ap.lijit.com/www/*$important
+||ap.lijit.com/www/sovrn_beacon_standalone/*$important
+||ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js$important
+||www.google-analytics.com/analytics.js$script,domain=www.instructables.com,important
+||www.google-analytics.com/analytics.js$script,domain=instructables.com,important
+||www.google-analytics.com/analytics.js$script,important
+||www.google-analytics.com^$script,important
+||www.google-analytics.com/analytics.js$important
+||www.google-analytics.com^$important
+||use.typekit.net^$stylesheet,important
+||use.typekit.net^$stylesheet,domain=instructables.com,important
+||use.typekit.net^$stylesheet,domain=www.instructables.com,important
+
+! 9/21/2019 stackoverflow.com
+||www.google-analytics.com/analytics.js$script,domain=stackoverflow.com,important
+||www.google-analytics.com^$script,domain=stackoverflow.com,important
+
+! 9/28/2019 player.fm
+||ssl.google-analytics.com^$important
+||ssl.google-analytics.com/ga.js$important
+||ssl.google-analytics.com/ga.js$script,important
+||ssl.google-analytics.com^$script,important
+||apis.google.com^$script,important
+||apis.google.com/js/*$script,important
+||apis.google.com/js/client:platform.js$script,important
+||apis.google.com/js/client:platform.js?onload=prepareGoogleLogin$script,important
+||apis.google.com/js/client:platform.js?onload=prepareGoogleLogin$important
+||apis.google.com/js/client:platform.js$important
+||apis.google.com/js/*$important
+||apis.google.com^$important
+||js.stripe.com^$important
+||js.stripe.com/v3/*$important
+||js.stripe.com^$script,important
+||js.stripe.com/v3/*$script,important
+||fonts.googleapis.com^$important
+||fonts.googleapis.com/css$important
+||fonts.googleapis.com/css?family=Lato$important
+||fonts.googleapis.com/css?family=Lato$stylesheet,important
+||fonts.googleapis.com/css$stylesheet,important
+||fonts.googleapis.com^$stylesheet,important
+||apis.google.com/js/client:platform.js?onload=prepareGoogleLogin$script,domain=player.fm,important
+
+! 9/29/2019 4chan.org
+@@||i.4cdn.org/f/*$object,domain=boards.4chan.org
+@@||i.4cdn.org/f/*$object,domain=4chan.org
+@@||i.4cdn.org^$object,domain=4chan.org
+@@||i.4cdn.org^$object,domain=boards.4chan.org
+@@||i.4cdn.org^$object
+@@||i.4cdn.org/f/*$object
+||www.google.com/recaptcha/api.js?onload=onRecaptchaLoaded&render=explicit$domain=boards.4chan.org,important
+||www.google.com/recaptcha/api.js?onload=onRecaptchaLoaded&render=explicit$domain=4chan.org,important
+||www.google.com/recaptcha/api.js?onload=onRecaptchaLoaded&render=explicit$important
+||www.google.com/recaptcha/api.js$important
+||www.google.com/recaptcha/api.js$domain=4chan.org,important
+||www.google.com/recaptcha/api.js$domain=boards.4chan.org,important
+||www.google.com/recaptcha/api.js$script,domain=boards.4chan.org,important
+||www.google.com/recaptcha/api.js$script,domain=4chan.org,important
+||www.google.com/recaptcha/api.js$script,important
+||www.google.com/recaptcha/*$script,important
+||www.google.com/recaptcha/*$script,domain=boards.4chan.org,important
+||www.google.com/recaptcha/*$script,domain=4chan.org,important
+||www.google.com/recaptcha/*$important
+||www.google.com/recaptcha/*$domain=boards.4chan.org,important
+||www.google.com/recaptcha/*$domain=4chan.org,important
+||www.google.com^$important
+||www.google.com^$domain=boards.4chan.org,important
+||www.google.com^$domain=4chan.org,important
+||www.google.com^$script,important
+||www.google.com^$script,domain=boards.4chan.org,important
+||www.google.com^$script,domain=4chan.org,important
+||www.google.com/recaptcha/api.js?onload=onRecaptchaLoaded&render=explicit$script,important
+||www.google.com/recaptcha/api.js?onload=onRecaptchaLoaded&render=explicit$script,domain=boards.4chan.org,important
+||www.google.com/recaptcha/api.js?onload=onRecaptchaLoaded&render=explicit$script,domain=4chan.org,important
+
+! 10/15/2019 player.fm
+|about:$popup,domain=player.fm,important
+|about:$popup,important
+||widget.intercom.io^$important
+||widget.intercom.io/widget/*$important
+||widget.intercom.io/widget/bqm10q34$important
+||widget.intercom.io/widget/*$script,important
+||widget.intercom.io/widget/*$script,domain=player.fm,important
+||ssl.google-analytics.com^$important
+||ssl.google-analytics.com/ga.js$important
+||ssl.google-analytics.com/ga.js$script,important
+||ssl.google-analytics.com^$script,important
+||ssl.google-analytics.com^$script,domain=player.fm,important
+||apis.google.com^$important
+||apis.google.com/js/*$important
+||apis.google.com/js/client:platform.js$important
+||apis.google.com/js/client:platform.js?onload=prepareGoogleLogin$important
+||apis.google.com/js/client:platform.js?onload=prepareGoogleLogin$script,important
+||apis.google.com/js/client:platform.js$script,important
+||apis.google.com/js/*$script,important
+||apis.google.com^$script,important
+||apis.google.com^$domain=player.fm,important
+||apis.google.com/js/*$domain=player.fm,important
+||apis.google.com/js/client:platform.js$domain=player.fm,important
+||apis.google.com/js/client:platform.js?onload=prepareGoogleLogin$domain=player.fm,important
+||fonts.gstatic.com^$font,important
+||fonts.gstatic.com/s/*$font,important
+||fonts.gstatic.com/s/lato/*$font,important
+||fonts.gstatic.com/s/lato/v14/*$font,important
+||fonts.gstatic.com/s/lato/v14/UyBMtLsHKBKXelqf4x7VRQ.woff2$font,important
+||fonts.gstatic.com^$important
+||fonts.gstatic.com/s/*$important
+||fonts.gstatic.com/s/lato/*$important
+||fonts.gstatic.com^$domain=player.fm,important
+||fonts.gstatic.com/s/*$domain=player.fm,important
+
+! 10/20/2019 player.fm
+@@||player.fm/series/beers-with-talos-podcast$document,first-party
+
+! 10/27/2019 stackoverflow.com
+||sb.scorecardresearch.com/beacon.js$important
+||www.google-analytics.com/analytics.js$important
+||www.google-analytics.com/analytics.js$domain=stackoverflow.com,important
+||www.google-analytics.com/analytics.js$script,domain=stackoverflow.com,important
+||www.google-analytics.com/analytics.js$script,important
+||www.google-analytics.com^$script,important
+||www.google-analytics.com^$script,domain=stackoverflow.com,important
+||www.google-analytics.com^$domain=stackoverflow.com,important
+||www.google-analytics.com^$important
+
+! 10/27/2019 stackexchange.com
+||www.google-analytics.com/analytics.js$script,domain=stackexchange.com,important
+||www.google-analytics.com/analytics.js$script,domain=reverseengineering.stackexchange.com,important
+||www.google-analytics.com/analytics.js$domain=reverseengineering.stackexchange.com,important
+||www.google-analytics.com/analytics.js$domain=stackexchange.com,important
+||www.google-analytics.com^$domain=stackexchange.com,important
+||www.google-analytics.com^$domain=reverseengineering.stackexchange.com,important
+@@||cdn.sstatic.net^$domain=stackexchange.com
+@@||cdn.sstatic.net/Sites/*$domain=stackexchange.com
+@@||cdn.sstatic.net/Sites/*$domain=reverseengineering.stackexchange.com
+@@||cdn.sstatic.net^$domain=reverseengineering.stackexchange.com
+@@||cdn.sstatic.net/Sites/reverseengineering/*$domain=reverseengineering.stackexchange.com
+@@||cdn.sstatic.net/Sites/reverseengineering/*$domain=stackexchange.com
+||graph.facebook.com^$important
+||graph.facebook.com^$domain=stackexchange.com,important
+||graph.facebook.com^$domain=reverseengineering.stackexchange.com,important
+||graph.facebook.com^$image,important
+||graph.facebook.com^$image,domain=stackexchange.com,important
+||graph.facebook.com^$image,domain=reverseengineering.stackexchange.com,important
+
+! 10/27/2019 whatsmyip.org
+||connect.facebook.net^$important
+||connect.facebook.net/en_US/*$important
+||connect.facebook.net/en_US/all.js$important
+||connect.facebook.net^$script,important
+||connect.facebook.net/en_US/*$script,important
+||connect.facebook.net/en_US/all.js$script,important
+||connect.facebook.net^$domain=whatsmyip.org,important
+||connect.facebook.net^$domain=www.whatsmyip.org,important
+||connect.facebook.net^$script,domain=www.whatsmyip.org,important
+||connect.facebook.net^$script,domain=whatsmyip.org,important
+||connect.facebook.net/en_US/*$script,domain=whatsmyip.org,important
+||connect.facebook.net/en_US/*$script,domain=www.whatsmyip.org,important
+||connect.facebook.net/en_US/all.js$script,domain=www.whatsmyip.org,important
+||connect.facebook.net/en_US/all.js$script,domain=whatsmyip.org,important
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$important
+||pagead2.googlesyndication.com/pagead/js/*$important
+||pagead2.googlesyndication.com/pagead/*$important
+||pagead2.googlesyndication.com^$important
+||pagead2.googlesyndication.com^$script,important
+||pagead2.googlesyndication.com/pagead/*$script,important
+||pagead2.googlesyndication.com/pagead/js/*$script,important
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,important
+||pagead2.googlesyndication.com^$domain=www.whatsmyip.org,important
+||pagead2.googlesyndication.com/pagead/*$domain=www.whatsmyip.org,important
+||pagead2.googlesyndication.com/pagead/js/*$domain=www.whatsmyip.org,important
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=www.whatsmyip.org,important
+||pagead2.googlesyndication.com^$script,domain=www.whatsmyip.org,important
+||pagead2.googlesyndication.com^$script,domain=whatsmyip.org,important
+||pagead2.googlesyndication.com/pagead/*$script,domain=www.whatsmyip.org,important
+||pagead2.googlesyndication.com/pagead/js/*$script,domain=www.whatsmyip.org,important
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=www.whatsmyip.org,important
+||pagead2.googlesyndication.com/pagead/js/*$script,domain=whatsmyip.org,important
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=whatsmyip.org,important
+||pagead2.googlesyndication.com/pagead/*$script,domain=whatsmyip.org,important
+
+! 10/27/2019 slack.com
+||www.googletagmanager.com^$important
+||www.googletagmanager.com/gtm.js$important
+||www.googletagmanager.com/gtm.js?id=GTM-KH2LPK$important
+||www.googletagmanager.com/gtm.js?id=GTM-KH2LPK$domain=slack.com,important
+||www.googletagmanager.com/gtm.js$domain=slack.com,important
+||www.googletagmanager.com^$domain=slack.com,important
+||www.googletagmanager.com^$script,domain=slack.com,important
+||www.googletagmanager.com/gtm.js$script,domain=slack.com,important
+||www.googletagmanager.com/gtm.js?id=GTM-KH2LPK$script,domain=slack.com,important
+||www.googletagmanager.com/gtm.js?id=GTM-KH2LPK$script,domain=app.slack.com,important
+||www.googletagmanager.com/gtm.js$script,domain=app.slack.com,important
+||www.googletagmanager.com^$script,domain=app.slack.com,important
+||www.googletagmanager.com^$domain=app.slack.com,important
+||www.googletagmanager.com/gtm.js$domain=app.slack.com,important
+||www.googletagmanager.com/gtm.js?id=GTM-KH2LPK$domain=app.slack.com,important
+||www.googletagmanager.com^$script,important
+||www.googletagmanager.com/gtm.js$script,important
+||www.googletagmanager.com/gtm.js?id=GTM-KH2LPK$script,important
