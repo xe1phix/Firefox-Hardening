@@ -1,0 +1,240 @@
+!
+! Block access to local services
+!
+||127.0.^$third-party,important
+||localhost^$third-party,important
+||[::1]^$third-party,important
+||192.168.^$third-party,important
+!
+! Block third-party requests from unsecure websites
+!
+HTTP://*^$third-party,script,subdocument,object,ping,websocket,xmlhttprequest
+!
+google.*##.fbar
+google.*###taw
+||pagead2.googlesyndication.com
+||adservice.google.*/adsid/*$image
+||google.*/gen_204*$image,other
+||id.google.*$image
+||ssl.gstatic.com/gb/images/*$image
+||metric.gstatic.com$image
+!
+! Block Startpage result page advertisements
+!
+||adservice.startpage.com
+||startpage.com/js/abp.js^$script
+||startpage.com/gp/wg/afs/ads^$subdocument
+||startpage.com/adsense/search/async-ads.js^$script
+!
+! Block search engines I don't use (so only block third-party)
+!
+||bing.com$third-party
+||yandex.com$third-party
+||yahoo.com$third-party
+!
+!1/3/2019, 5:12:37 PM https://www.pornhub.com/
+www.pornhub.com##undefined
+
+! 3/6/2019 https://www.pornhub.com
+www.pornhub.com###hd-rightColVideoPage > milktruck > div:nth-of-type(1)
+www.pornhub.com##milktruck > div:nth-of-type(2)
+
+! 3/12/2019 https://dropapk.com
+dropapk.com##.alert-info.alert
+
+! 3/13/2019 https://discordbots.org
+discordbots.org###medalad_2018_11
+
+! 3/14/2019 https://www.guru3d.com
+www.guru3d.com##.content3 > div:nth-of-type(2)
+
+! 3/14/2019 https://dropapk.com
+dropapk.com##center > .text-center.buyPremium.alert-success.alert
+dropapk.com###commonId > .text-center.buyPremium.alert-success.alert
+
+! 3/31/2019 https://www.pornhub.com
+www.pornhub.com##div.sectionWrapper:nth-of-type(6) > milktruck > div
+
+! 4/3/2019 https://douploads.com
+douploads.com###gdpr-cookie-notice
+
+! 4/3/2019 https://uploadrar.com
+uploadrar.com##footer
+uploadrar.com###footer2
+uploadrar.com###foxclocks-statusbar-spacer
+uploadrar.com##.sharefile > ul
+uploadrar.com##.banner3
+uploadrar.com##.banner2
+uploadrar.com##.banner1
+
+! 4/3/2019 https://uploadproper.net
+uploadproper.net###content > .fullsize > div
+
+! 4/4/2019 https://uploadrar.com
+uploadrar.com##.vticker
+uploadrar.com###lastnews
+
+! 4/6/2019 https://restream.io
+restream.io##.app-price__wrap-rtmp
+
+! 4/8/2019 https://www.youtube.com
+www.youtube.com##.vidiq-social-stats-upsell
+www.youtube.com##.upsell
+
+! 4/18/2019 https://fdossena.com
+fdossena.com###footer
+
+! 4/20/2019 https://www.win-raid.com
+||files.homepagemodules.de/b2001010/a_1074_4b6bfcae.png$image
+www.win-raid.com###forumActionInfo
+
+! 4/22/2019 https://forum.mobilism.org
+forum.mobilism.org###sig6438394
+
+! 4/22/2019 https://androidfilehost.com
+androidfilehost.com##.row.panel-body-donate
+androidfilehost.com##.footer-top
+androidfilehost.com##.page-file-thanks.page-container.download-file.row > .col-md-4
+
+! 4/24/2019 https://www.ebay-kleinanzeigen.de
+www.ebay-kleinanzeigen.de##.login-overlay
+
+! 4/24/2019 https://www.computerbase.de
+www.computerbase.de##.footer1.block1
+
+! 4/24/2019 https://resources.whitesourcesoftware.com
+resources.whitesourcesoftware.com##p:nth-of-type(4)
+resources.whitesourcesoftware.com##p:nth-of-type(13)
+
+! 4/25/2019 https://www.computerbase.de
+www.computerbase.de##.js-promobar.promobar
+
+! 4/26/2019 https://www.foobar2000.org
+www.foobar2000.org##caption
+
+! 4/27/2019 https://filmora.wondershare.com
+filmora.wondershare.com##.active.sys-win.transition.bg-cover.shrink.a-block.bottom.fixed.seasonal-btm.seasonal > [href^="https://shopcart.wondershare.com/pay/checkout.html"]
+||filmora.wondershare.com/images/seasonal/filmora-filmstocks.jpg$image
+filmora.wondershare.com##.active.sys-win.transition.bg-cover.shrink.a-block.bottom.fixed.seasonal-btm.seasonal
+
+! 4/28/2019 https://protonvpn.com
+protonvpn.com###modalSignupVPN
+
+! 4/29/2019 https://www.nsaneforums.com
+www.nsaneforums.com##.cAnnouncementsFloat.cAnnouncements
+www.nsaneforums.com##.cAnnouncementsContent
+
+! 4/29/2019 https://thepiratebay.org
+thepiratebay.org##h1
+
+! 4/29/2019 http://bbs.pcbeta.com
+bbs.pcbeta.com##.ftbg
+
+! 4/30/2019 https://restream.io
+restream.io##.cc-color-override--1120989970.cc-left.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window
+
+! 5/1/2019 https://1fichier.com
+1fichier.com###cookie_box
+
+! 5/2/2019 https://pastebin.com
+pastebin.com###float-box-2
+
+! 5/2/2019 https://www.theverge.com
+www.theverge.com###privacy-consent
+www.theverge.com###privacy-consent
+
+! 5/3/2019 https://www.station-drivers.com
+www.station-drivers.com##.uk-hidden-small.uk-clearfix.tm-headerbar
+
+! 5/3/2019 https://superuser.com
+superuser.com##.js-topbar-dialog-corral.-dialog-container
+
+! 5/4/2019 https://appuals.com
+appuals.com##.ad-popup-content
+
+! 5/4/2019 https://mastodon.social
+mastodon.social##div.container:nth-of-type(2) > .grid > .column-1
+
+! 5/5/2019 http://totalcmd.net
+totalcmd.net##table:nth-of-type(2) > tbody > tr > td:nth-of-type(1) > center:nth-of-type(2)
+
+! 5/6/2019 https://nitroflare.com
+nitroflare.com###footerCredits
+nitroflare.com###beforeReCaptcha > div:nth-of-type(3)
+nitroflare.com##.noticeMessage
+nitroflare.com###file > div:nth-of-type(1) > div > div:nth-of-type(1)
+nitroflare.com###reCaptcha > div > .purchaseNoWaiting
+nitroflare.com##.text
+
+! 5/6/2019 https://www.theverge.com
+www.theverge.com###privacy-consent
+www.theverge.com###privacy-consent
+www.theverge.com###privacy-consent.m-privacy-consent
+
+! 5/8/2019 https://pixelpro.io
+pixelpro.io##.full-width-height.layer-back.sqs-slide-layer
+pixelpro.io###yui_3_17_2_1_1557281912116_969
+pixelpro.io###yui_3_17_2_1_1557281912116_907
+
+! 5/8/2019 https://about.gitlab.com
+about.gitlab.com###sticky-banner
+
+! 5/9/2019 https://forum.privacytools.io
+forum.privacytools.io###banner
+
+! 5/9/2019 https://www.itechtics.com
+www.itechtics.com##.ezoic-bla-801-marker.ezoic-after-el
+
+! 5/9/2019 https://www.irdevelopers.com
+www.irdevelopers.com##div.Note:nth-of-type(1)
+www.irdevelopers.com##div.Note:nth-of-type(2)
+
+! 5/11/2019 https://dropapk.com
+dropapk.com##footer
+
+! 5/11/2019 https://www.pornhub.com
+www.pornhub.com##.showingCounter
+
+! 5/12/2019 https://malwaretips.com
+malwaretips.com##.uix_welcomeSection
+
+! 5/14/2019 https://douploads.com
+douploads.com###news_last
+douploads.com##.text-center.mt-5
+
+! 5/14/2019 https://www.uploadship.com
+www.uploadship.com##div.col-lg-6.col-md-6.col-sm-6.col-xs-12:nth-of-type(3)
+www.uploadship.com##div.col-lg-6.col-md-6.col-sm-6.col-xs-12:nth-of-type(2)
+www.uploadship.com###price
+www.uploadship.com##div.row:nth-of-type(5)
+
+! 5/15/2019 https://www.nytimes.com
+www.nytimes.com##.e1x0szx60.css-442f5c.expanded-dock.expanded.shown.gdpr
+
+! 5/17/2019 http://www.solidfiles.com
+www.solidfiles.com##.left
+www.solidfiles.com##.top-section
+
+! 5/17/2019 https://www.datafilehost.com
+www.datafilehost.com##[href="http://answersking.com"] > h4
+
+! 5/18/2019 https://1337x.to
+1337x.to##.logo
+
+! 5/19/2019 http://www.techguy.at
+www.techguy.at##.yarpp-related
+
+! 5/23/2019 https://www.google.de
+www.google.de###Rzn5id
+
+! 5/24/2019 https://webcookies.org
+webcookies.org##.alert-info.alert
+
+! 5/24/2019 https://brave.com
+brave.com##.et_pb_text_align_center.et_pb_bg_layout_dark.brave-the-web-button.et_pb_fullwidth_header_0.et_pb_fullwidth_header.et_pb_module.et_pb_with_border
+
+! 5/24/2019 https://dailyuploads.net
+dailyuploads.net##.footer
+
+! 5/26/2019 https://www.station-drivers.com
+www.station-drivers.com##.uk-grid.tm-top-b > .uk-row-first.uk-width-1-1
