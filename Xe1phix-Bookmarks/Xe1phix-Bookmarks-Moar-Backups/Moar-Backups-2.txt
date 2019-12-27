@@ -1,0 +1,42 @@
+https://github.com/thuandt/dotfiles/blob/master/bin/mullvad-wg-setup
+https://github.com/thuandt/dotfiles/tree/master/mpv
+https://github.com/wmax641/personal-config-notes/wiki/DNS
+https://github.com/wmax641/personal-config-notes/wiki/squid
+https://github.com/wmax641/personal-config-notes/wiki/certificates
+https://github.com/freifunkMUC/freifunkmuc.github.io/wiki/Mesh-of-Meshes:-tinc-&-batman
+https://github.com/inversepath/usbarmory/wiki/Applications
+https://github.com/gmas/wiki/wiki/TOR
+https://github.com/gmas/wiki/wiki/KVM-QEMU-LIBVIRT
+https://github.com/gmas/wiki/wiki/SSL
+https://github.com/gmas/wiki/wiki/Linux
+https://github.com/FreeJaus/gea-webmod/wiki/Administraci%C3%B3n
+https://github.com/cappetta/SecDevOps-Toolkit/wiki/technical_attacks
+https://github.com/xxooxxooxx/xxooxxooxx.github.io/wiki/OSCP-Survival-Guide
+https://github.com/tiabph/shadowsocks/wiki/Securing-Public-Shadowsocks-Server
+https://github.com/Lunars/tesla/wiki/Default-IPTables
+https://github.com/trojan-gfw/trojan/wiki/Limiting-Server-Network-Access
+https://github.com/thiennt9295/Tor-Enabled-Linux/wiki
+https://github.com/windy32/qos-calculator/wiki/Background-Information
+https://github.com/igtztorrero/sysadmin/wiki/Configurar-Firewall-de-Linux-para-Servidor-Seguro
+
+
+https://github.com/tasket/Qubes-vpn-support/wiki/Wireguard-VPN-connections-in-Qubes-OS
+https://github.com/danielewood/sierra-wireless-modems/blob/master/wireguard-mullvad.sh
+https://github.com/wmax641/personal-config-notes/wiki/openvpn
+
+
+PostUp  =  iptables -I OUTPUT ! -o %i -m mark ! --mark $(wg show %i fwmark) -m addrtype ! --dst-type LOCAL -j REJECT && ip6tables -I OUTPUT ! -o %i -m mark ! --mark $(wg show %i fwmark) -m addrtype ! --dst-type LOCAL -j REJECT \
+PreDown = iptables -D OUTPUT ! -o %i -m mark ! --mark $(wg show  %i fwmark) -m addrtype ! --dst-type LOCAL -j REJECT && ip6tables -D OUTPUT ! -o %i -m mark ! --mark $(wg show  %i fwmark) -m addrtype ! --dst-type LOCAL -j REJECT ' "$CONFFILE"
+
+
+
+
+ iptables -A INPUT -p tcp --syn --dport ${SHADOWSOCKS_PORT} -m connlimit --connlimit-above 32 -j REJECT --reject-with tcp-reset
+
+
+Display certs from CLI
+
+echo | openssl s_client -showcerts -servername gnupg.org -connect gnupg.org:443 2>/dev/null | openssl x509 -inform pem -noout -text
+
+
+
