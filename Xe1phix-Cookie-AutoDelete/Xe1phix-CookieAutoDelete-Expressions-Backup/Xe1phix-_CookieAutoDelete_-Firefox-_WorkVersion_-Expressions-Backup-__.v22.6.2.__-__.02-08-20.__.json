@@ -1,0 +1,1101 @@
+{
+  "default": [
+    {
+      "expression": "*.4chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "gmUpGav-M"
+    },
+    {
+      "expression": "*.account.shodan.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "2ag6dI0_PK"
+    },
+    {
+      "expression": "*.addons.mozilla.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "CsrjU85-Nb"
+    },
+    {
+      "expression": "*.admintools.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "xEK12JUY44"
+    },
+    {
+      "expression": "*.alibris.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "pp5kmCg-x",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.app.linuxacademy.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ajAZViU3cE"
+    },
+    {
+      "expression": "*.app.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "gUgS3ikIj"
+    },
+    {
+      "expression": "*.appfolio.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "r2DlPwtOi",
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "*.archlinux.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "jryk-GqRU"
+    },
+    {
+      "expression": "*.atomicorp.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "nHDuXEbqH5"
+    },
+    {
+      "expression": "*.audio.textfiles.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "2DKR4yFtV"
+    },
+    {
+      "expression": "*.auth0.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "CoDNMmg10"
+    },
+    {
+      "expression": "*.boards.4chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "x7UzYs77s",
+      "cleanAllCookies": true
+    },
+    {
+      "expression": "*.citizenlab.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "YL9e9l2fzF"
+    },
+    {
+      "expression": "*.cromwell-intl.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "WFbIaliwv"
+    },
+    {
+      "expression": "*.defcon.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "QK92oGT_0"
+    },
+    {
+      "expression": "*.digital-forensics.sans.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "3otob03Ck"
+    },
+    {
+      "expression": "*.en.wikibooks.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Y-qhe1e3l"
+    },
+    {
+      "expression": "*.forum.defcon.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "WBy62_rbl"
+    },
+    {
+      "expression": "*.forums.openvpn.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "dTbquNi-i"
+    },
+    {
+      "expression": "*.gitlab.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "r9ibR0Yke"
+    },
+    {
+      "expression": "*.hackertarget.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "x6Bycs8HY"
+    },
+    {
+      "expression": "*.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "EKr6gBEFD"
+    },
+    {
+      "expression": "*.icsadvanced.tsheets.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "UibD7dOWv"
+    },
+    {
+      "expression": "*.infowars.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "URorFZH25"
+    },
+    {
+      "expression": "*.ipduh.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "-KIuRRa-r"
+    },
+    {
+      "expression": "*.lacausers.auth0.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "FUDGI1tuek"
+    },
+    {
+      "expression": "*.lastpass.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "8W6ZYEvjP"
+    },
+    {
+      "expression": "*.lineageos.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "EHA7-ZSwq"
+    },
+    {
+      "expression": "*.linuxacademy.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "05qnxdRiy"
+    },
+    {
+      "expression": "*.mail.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Y_ePIuDkws"
+    },
+    {
+      "expression": "*.mozilla.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "pqrZ-HkdP"
+    },
+    {
+      "expression": "*.openvpn.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "-LL9DgTem"
+    },
+    {
+      "expression": "*.paypal.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "6M1rKAIZg"
+    },
+    {
+      "expression": "*.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "sIHyM0oVh7"
+    },
+    {
+      "expression": "*.puri.sm",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "rh4StMd9lC"
+    },
+    {
+      "expression": "*.robtex.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "x6W81ERRs3"
+    },
+    {
+      "expression": "*.sans.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "t-2qtGaBK"
+    },
+    {
+      "expression": "*.scans.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "9nvWS1l2s"
+    },
+    {
+      "expression": "*.shodan.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "PhaXomPc5"
+    },
+    {
+      "expression": "*.signup.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "TQ_TqDk9xt"
+    },
+    {
+      "expression": "*.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "98rEHj5fL"
+    },
+    {
+      "expression": "*.startpage.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "uVB44914n"
+    },
+    {
+      "expression": "*.textfiles.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "twGB_uV6w"
+    },
+    {
+      "expression": "*.tsheets.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "cTEDzkHU3"
+    },
+    {
+      "expression": "*.twitter.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "R3lIB86pC"
+    },
+    {
+      "expression": "*.veridiancu.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "XC7j-4K7PR"
+    },
+    {
+      "expression": "*.wavget.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "45yKPhH0N"
+    },
+    {
+      "expression": "*.whatsmyip.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ymXIDf-2Y"
+    },
+    {
+      "expression": "*.wiki.archlinux.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "zlSbD1U8i"
+    },
+    {
+      "expression": "*.wikibooks.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "BDKJcW0EC"
+    },
+    {
+      "expression": "10.129.233.110",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "hwBTtwbvp"
+    },
+    {
+      "expression": "10.134.32.132",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "oIfd4_DXr"
+    },
+    {
+      "expression": "10.196.223.21",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "9zDJRUnJh"
+    },
+    {
+      "expression": "10.5.28.3",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "jk5bDT4sr"
+    },
+    {
+      "expression": "4chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "pnh6vqbOO"
+    },
+    {
+      "expression": "account.shodan.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "roXz05VdN"
+    },
+    {
+      "expression": "addons.mozilla.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "H5Hged5Eb"
+    },
+    {
+      "expression": "admintools.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "l2oEOE5ny"
+    },
+    {
+      "expression": "alibris.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "czHKzEM5h",
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "app.linuxacademy.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "gmTVh_o_y"
+    },
+    {
+      "expression": "app.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "PK7Pi9tUX"
+    },
+    {
+      "expression": "atomicorp.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "rAeKPoEiL"
+    },
+    {
+      "expression": "audio.textfiles.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "0wKiLiny0E"
+    },
+    {
+      "expression": "boards.4chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Q256v6SWxF"
+    },
+    {
+      "expression": "boards.4channel.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "n2Yk863G7"
+    },
+    {
+      "expression": "c3d8a09a-7315-4de5-9c09-9dd3aa47c1b5",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "CLyp3qfGf"
+    },
+    {
+      "expression": "citizenlab.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "lGhndmDrq"
+    },
+    {
+      "expression": "cromwell-intl.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "_fOWHpPW4"
+    },
+    {
+      "expression": "digital-forensics.sans.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "s2O1QZ5Qc"
+    },
+    {
+      "expression": "en.wikibooks.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "tol_P7d1V_"
+    },
+    {
+      "expression": "forum.defcon.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "bGp7iz1xjU"
+    },
+    {
+      "expression": "forums.openvpn.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "jrmrtBIZ_h"
+    },
+    {
+      "expression": "gitlab.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "_JRY2t2Fy"
+    },
+    {
+      "expression": "hackertarget.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Cf0UHf2ZX"
+    },
+    {
+      "expression": "icsadvanced.tsheets.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "LX6Ch2qVE"
+    },
+    {
+      "expression": "infowars.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "7Xt6_NfX9"
+    },
+    {
+      "expression": "ipduh.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "VhLj-zleg"
+    },
+    {
+      "expression": "iptorrents.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "GoS2DjRDC"
+    },
+    {
+      "expression": "lacausers.auth0.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "3386h1uhJ"
+    },
+    {
+      "expression": "lastpass.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "XWknZw7Zs"
+    },
+    {
+      "expression": "lineageos.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "t80wekCPU"
+    },
+    {
+      "expression": "mail.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "vU-X5Nc8U"
+    },
+    {
+      "expression": "paypal.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "IwFP1P6A8"
+    },
+    {
+      "expression": "puri.sm",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "rLLgnqPpA"
+    },
+    {
+      "expression": "robtex.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "RfjF1E9UX"
+    },
+    {
+      "expression": "sans.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "l0YJVDJKx"
+    },
+    {
+      "expression": "scans.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "op7-wi5AM"
+    },
+    {
+      "expression": "signup.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "rhripe4XS"
+    },
+    {
+      "expression": "startpage.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "-0Bwp_hG4"
+    },
+    {
+      "expression": "twitter.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "S7I4YcHnK"
+    },
+    {
+      "expression": "veridiancu.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "dAtOfpM4R"
+    },
+    {
+      "expression": "wavget.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "z7nvI2Dhn"
+    },
+    {
+      "expression": "whatsmyip.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "XehUrYX_F"
+    },
+    {
+      "expression": "wiki.archlinux.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "WV38_nhKrQ"
+    },
+    {
+      "expression": "*.420chan.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "idXhzRnX2",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.addthis.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "4tEYwXbbW",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.betterworldbooks.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "-sxPFNWpp",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "*.blackhat.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "mLglK4cOz"
+    },
+    {
+      "expression": "*.bleepingcomputer.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "CIihcg0uY",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.boards.420chan.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "NkZl8RKY_I",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.devhints.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "_z2hjvVet"
+    },
+    {
+      "expression": "*.dominos.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ADm0dWq_6",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.ghacks.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "iKy4KRF5N",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.gitbooks.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "JuWiSaJRR"
+    },
+    {
+      "expression": "*.google.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "uRJ8nzJRW"
+    },
+    {
+      "expression": "*.ipn.paymentus.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "p5guJqS9V",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.paymentus.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "lcjRFl0Hw",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.xapax.gitbooks.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ArQf0yTVCe"
+    },
+    {
+      "expression": "addthis.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "VXu3JQxmJ",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "adform.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "QnQ25LSi7B",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "adnxs.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "758Ak3vL30",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "adsrvr.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "gzuKXbw7bK",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "advertising.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "d_sf-HEXe",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "advertising.com ",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Rz8ks9uMS",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "amazon.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "5ACpoW3kQ",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "analytics.yahoo.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "LN-a75bim2",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "b1img.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Y_tugltioa",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "bat.bing.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "iJo7Hcdey4",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "betterworldbooks.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "pjhDJfmrj",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "bing.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "lu3g8uuAXR",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "bizrate.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "qUTjTabgU5",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "blackhat.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "YkrBL8gNV"
+    },
+    {
+      "expression": "bleepingcomputer.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "vUWZKwUIhE",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "bluekai.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "tiCHZ-TLbK",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "boards.420chan.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "pKNYNNtN0",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "crsspxl.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "hhNpjjuBE",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "devhints.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "5q9ixJpta"
+    },
+    {
+      "expression": "dlx.addthis.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Wk9E4C5-i",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "dominos.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ZIgThrEqu",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "doubleclick.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "1qC4_DUxhQ",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "ghacks.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "o1Za0GLxOQ",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "ipn.paymentus.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "n2cFSbBGZ",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "krxd.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "rZ4tJhd7Sx",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "lijit.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "EoXcyc3Cl",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "mathtag.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "5T4jMecL-",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "mediawallahscript.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "J1VujOz9o",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "rlcdn.com ",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "o-wgpti23c",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "srv.stackadapt.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "gW9UMzoka",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "tag.crsspxl.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "s0O5W8RKA",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "tapad.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "hRmtZawch",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "thrtle.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "J2umCZO15",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    },
+    {
+      "expression": "xapax.gitbooks.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "l-ybYyBrX",
+      "cleanLocalStorage": true,
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "yahoo.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "F0Y5NfhIz",
+      "cleanAllCookies": false,
+      "cleanLocalStorage": true
+    }
+  ]
+}
