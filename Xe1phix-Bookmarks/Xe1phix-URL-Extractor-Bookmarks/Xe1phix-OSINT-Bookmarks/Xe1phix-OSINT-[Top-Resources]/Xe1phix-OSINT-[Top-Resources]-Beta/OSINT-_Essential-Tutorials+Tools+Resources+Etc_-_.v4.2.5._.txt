@@ -1,0 +1,384 @@
+
+
+https://scans.io/
+https://censys.io/ipv4
+https://censys.io/certificates?q=
+https://censys.io/domain?q=
+
+
+
+OSINT Resources
+-----------------------
+http://osint.link/
+http://www.onstrat.com/osint/
+http://www.getmantra.com/hackery/osint.html
+https://www.toddington.com/resources/
+https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Osint.md
+https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Open%20Source%20Intelligence.md
+https://github.com/jivoi/awesome-osint
+https://sites.google.com/site/greynetwork2/home/osint-resources
+https://github.com/IVMachiavelli/OSINT_Team_Links
+https://github.com/CHEF-KOCH/Warez
+https://github.com/AnarchoTechNYC/meta/wiki/Guides#digital-opsec-guides
+https://sites.google.com/site/greynetwork2/home/osint-resources
+
+
+
+
+OSINT Blogs + Tutorials + Guides
+---------------------------------------------------------------------------------
+http://infond.blogspot.com/2010/05/toturial-footprinting.html
+https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/
+
+
+
+
+
+##-===========================================-##
+##                       [+]  OSINT Resources + Tutorials
+## -------------------------------------------------------------------------- ##
+## 
+     ---------------------------------------------------------------------------
+
+
+
+
+
+
+
+##-===========================================-##
+##             [+]  IntelTechniques-[Linux-VM-Setup-Guide]
+##-===========================================-##
+## -------------------------------------------------------------------------- ##
+## 
+     ---------------------------------------------------------------------------
+https://github.com/Skykn0t/OSINT_VM_Setup
+https://inteltechniques.com/osintbook/vm-files.zip
+
+     ---------------------------------------------------------------------------
+## 
+## -------------------------------------------------------------------------- ##
+
+
+
+
+OSINT Presentations
+
+http://www.slideshare.net/Laramies/tactical-information-gathering
+http://www.spylogic.net/2009/10/enterprise-open-source-intelligence-gathering-part-1-social-networks/
+http://www.spylogic.net/2009/10/enterprise-open-source-intelligence-gathering-%e2%80%93-part-2-blogs-message-boards-and-metadata/
+http://www.spylogic.net/2009/10/enterprise-open-source-intelligence-gathering-part-3-monitoring/
+
+
+
+OSINT Youtube Video Tutorials + HackerCon Talks
+
+https://www.youtube.com/watch?v=062pLOoZhk8
+http://www.irongeek.com/i.php?page=videos/circlecitycon2014/105-developing-a-open-source-threat-intelligence-program-edward-mccabe
+https://www.youtube.com/watch?v=D2N6FclMMTg
+https://www.youtube.com/watch?v=BOjz7NfsLpA
+https://www.youtube.com/watch?v=cLmEJLy7dv8
+https://www.youtube.com/watch?v=T2Ha-ZLZTz0
+https://www.youtube.com/watch?v=JTd5TL6_zgY
+
+
+------------------------------------------------
+OSINT - [Domain Name Lookup]
+------------------------------------------------
+http://www.serversniff.net/index.php
+http://www.hcidata.info/host2ip.cgi
+
+
+
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+
+ DNS Reconnaissance
+
+
+https://namechk.com/
+http://www.viewdns.info/
+https://www.digwebinterface.com/
+http://dnscheck.pingdom.com/
+https://dnschecker.org/
+https://dnsspy.io/
+https://dnswatch.info/
+https://www.domainiq.com/tools
+https://whois.domaintools.com/
+http://www.rexswain.com/httpview.html
+http://viewdns.info/
+http://centralops.net/co/
+
+http://uptime.netcraft.com/
+
+http://network-tools.com/
+
+
+https://community.rapid7.com/community/infosec/blog/2015/02/23/osint-through-sender-policy-framework-spf-records
+
+
+
+
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+
+Whois
+
+http://www.ewhois.com/
+https://whoisology.com/
+http://whois.webhosting.info/
+http://www.networksolutions.com/whois
+http://www.internic.net/
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+https://scans.io/
+http://www.shodan.io/
+http://www.pentest-standard.org/index.php/Intelligence_Gathering
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+IP Address
+
+http://www.infosniper.net/
+http://www.ipvoid.com/
+http://www.my-ip-neighbors.com/
+http://ha.ckers.org/weird/ipsearch.cgi
+
+
+
+
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+Google Hacking
+
+http://midnightresearch.com/projects/search-engine-assessment-tool/#downloads
+http://www.stachliu.com/index.php/resources/tools/google-hacking-diggity-project/
+http://voidnetwork.org/5ynL0rd/darkc0de/python_script/dorkScan.html
+
+http://www.exploit-db.com/google-dorks/
+http://www.hackersforcharity.org/ghdb/
+
+
+
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+Archive {Mass Scrappers}
+http://www.archive.org/index.php
+http://vlib.org/
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+## Database miner
+http://infomine.ucr.edu/
+
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+Metadata Analysis, Manipulation, and Extraction 
+------------------------------------------------------------
+https://www.forensicswiki.org/wiki/Hachoir
+http://camerasummary.com/
+http://exifviewer.org/
+http://findexif.com/
+http://belkasoft.com/
+http://verexif.com/en/
+https://metashieldanalyzer.elevenpaths.com/
+http://raymondhill.net/httpsb/har-parser.html
+http://metacrawler.com/
+
+
+
+
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+GEOIP
+----------
+http://earth-info.nga.mil/gns/html/
+http://www.geonames.org/
+http://www.gpsvisualizer.com/calculators
+https://wiki.ubuntu.com/UbuntuGIS
+
+
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+Maps
+
+http://www.openstreetmap.org/
+https://www.ixmaps.ca/explore.php
+
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+Social Media Search/Enumeration
+
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+social metasearch engine
+
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+
+Twitter
+http://onemilliontweetmap.com/
+https://github.com/x0rz/tweets_analyzer
+https://www.tweetarchivist.com/
+http://vicenteaguileradiaz.com/tools/
+https://www.tweetarchivist.com/
+http://vicenteaguileradiaz.com/tools/
+
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+Linkedin
+
+http://socilab.com/#home
+https://webbreacher.com/2017/01/14/the-secrets-of-linkedin/
+
+
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+http://www.socialmention.com/
+http://www.whostalkin.com/
+http://www.secmaniac.com/
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+Tinder
+https://www.learnallthethings.net/osmosis
+
+
+
+
+
+
+------------------------------------------------
+OSINT - [ Reconassence Businesses ]
+------------------------------------------------
+Businesses
+
+https://www.corporationwiki.com/
+https://orbisdirectory.bvdinfo.com/version-2017821/OrbisDirectory/Companies
+
+
+
+
+
+
+---------------------------------------------------------------------------------
+OSINT - [ Pastebin Scrapers + Trending / Interesting + Etc ]
+---------------------------------------------------------------------------------
+https://inteltechniques.com/osint/menu.pastebins.html
+http://pastebin.com/trends
+http://andrewmohawk.com/pasteLert
+https://pastebin.com/0CxYx1BD
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------
+OSINT - [ IPv6 Audit Tests + Network Recon Scanning + Etc  ]
+---------------------------------------------------------------------------------
+IPv6
+https://ip6.nl/
+http://ipv6-test.com/validate.php
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------
+OSINT - [ Documentation + ReadMe + PDFs + Wikis + Etc ]
+---------------------------------------------------------------------------------
+https://inteltechniques.com/data/workbook.pdf
+https://www.spiderfoot.net/documentation/
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+OSINT - [ Frameworks + Linux OSs + Toolkits + Etc ]
+----------------------------------------------------------------------
+https://osintframework.com/
+
+
+
+
+
+
+------------------------------------------------
+OSINT - [Community]
+------------------------------------------------
+https://www.reddit.com/r/OSINT/
+
+
+
+
+
+------------------------------------------------
+OSINT - [   ]
+------------------------------------------------
+http://www.jigsaw.com/
+
+
+
+
+
+
+
+
+
+
