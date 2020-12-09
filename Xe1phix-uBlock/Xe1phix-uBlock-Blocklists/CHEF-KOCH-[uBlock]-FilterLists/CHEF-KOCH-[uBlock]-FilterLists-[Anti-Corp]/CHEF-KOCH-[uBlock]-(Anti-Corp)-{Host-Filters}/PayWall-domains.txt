@@ -1,0 +1,106 @@
+# Title: CHEF-KOCH's PayWall domains HOSTS Filter List 
+# Description: Block PayWall domains.
+# License: https://github.com/CHEF-KOCH/PayWall-domains/blob/master/LICENSE 
+# By downloading or viewing, or using this list, you are accepting these terms and the license. 
+# Homepage: https://github.com/CHEF-KOCH/CKs-FilterList 
+# Expires: 14d 
+# Version: 0.0.0.1
+# Last updated: 2019-12-16 
+# Please report any unblocked content or problems by email or via GitHub issue ticket. 
+# Email: CHEF-KOCH@protonmail.com 
+# Copyright (C) 2018 - present by CHEF-KOCH 
+# 
+0.0.0.0 afr.com
+0.0.0.0 americanaffairsjournal.org
+0.0.0.0 americanbanker.com
+0.0.0.0 asia.nikkei.com
+0.0.0.0 baltimoresun.com
+0.0.0.0 barrons.com
+0.0.0.0 bizjournals.com
+0.0.0.0 bloomberg.com
+0.0.0.0 bostonglobe.com
+0.0.0.0 britannica.com
+0.0.0.0 business-standard.com
+0.0.0.0 businessinsider.com
+0.0.0.0 chicagobusiness.com
+0.0.0.0 chicagotribune.com
+0.0.0.0 corriere.it
+0.0.0.0 courant.com
+0.0.0.0 dailypress.com
+0.0.0.0 demorgen.be
+0.0.0.0 denverpost.com
+0.0.0.0 dn.se
+0.0.0.0 dynamed.com
+0.0.0.0 economist.com
+0.0.0.0 ed.nl
+0.0.0.0 elmundo.es
+0.0.0.0 examiner.com.au
+0.0.0.0 firstthings.com
+0.0.0.0 fnlondon.com
+0.0.0.0 foreignpolicy.com
+0.0.0.0 ft.com
+0.0.0.0 glassdoor.com
+0.0.0.0 groene.nl
+0.0.0.0 haaretz.co.il
+0.0.0.0 haaretz.com
+0.0.0.0 handelsblatt.com
+0.0.0.0 harpers.org
+0.0.0.0 hbr.org
+0.0.0.0 inc.com
+0.0.0.0 inquirer.com
+0.0.0.0 irishtimes.com
+0.0.0.0 japantimes.co.jp
+0.0.0.0 journalnow.com
+0.0.0.0 labusinessjournal.com
+0.0.0.0 lanacion.com.ar
+0.0.0.0 lastampa.it
+0.0.0.0 latimes.com
+0.0.0.0 lesechos.fr
+0.0.0.0 liberation.fr
+0.0.0.0 lrb.co.uk
+0.0.0.0 mcall.com
+0.0.0.0 medium.com
+0.0.0.0 mercurynews.com
+0.0.0.0 mexiconewsdaily.com
+0.0.0.0 nationalpost.com
+0.0.0.0 news-gazette.com
+0.0.0.0 newstatesman.com
+0.0.0.0 newyorker.com
+0.0.0.0 nrc.nl
+0.0.0.0 nymag.com
+0.0.0.0 nytimes.com
+0.0.0.0 nzherald.co.nz
+0.0.0.0 orlandosentinel.com
+0.0.0.0 quora.com
+0.0.0.0 qz.com
+0.0.0.0 repubblica.it
+0.0.0.0 scientificamerican.com
+0.0.0.0 seattletimes.com
+0.0.0.0 sfchronicle.com
+0.0.0.0 sloanreview.mit.edu
+0.0.0.0 smh.com.au
+0.0.0.0 spectator.co.uk
+0.0.0.0 statista.com
+0.0.0.0 sun-sentinel.com
+0.0.0.0 technologyreview.com
+0.0.0.0 telegraaf.nl
+0.0.0.0 telegraph.co.uk
+0.0.0.0 the-american-interest.com
+0.0.0.0 the-tls.co.uk
+0.0.0.0 theadvocate.com.au
+0.0.0.0 theage.com.au
+0.0.0.0 theatlantic.com
+0.0.0.0 theaustralian.com.au
+0.0.0.0 thediplomat.com
+0.0.0.0 theglobeandmail.com
+0.0.0.0 themarker.com
+0.0.0.0 thenation.com
+0.0.0.0 thenewsrep.com
+0.0.0.0 thestar.com
+0.0.0.0 thetimes.co.uk
+0.0.0.0 vanityfair.com
+0.0.0.0 vn.nl
+0.0.0.0 washingtonpost.com
+0.0.0.0 wired.com
+0.0.0.0 wsj.com
+0.0.0.0 zeit.de
