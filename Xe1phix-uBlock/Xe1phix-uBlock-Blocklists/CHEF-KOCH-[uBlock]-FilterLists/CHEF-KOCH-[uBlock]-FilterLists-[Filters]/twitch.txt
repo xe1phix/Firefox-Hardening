@@ -1,0 +1,90 @@
+! Title: CHEF-KOCH's Twitch Filter List
+! Description: A comprehensive, all-in-one ad-block list for blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
+! License: https://gitlab.com/CHEF-KOCH/cks-filterlist/-/blob/master/LICENSE
+! By downloading or viewing, or using this list, you are accepting these terms and the license.
+! Homepage: https://gitlab.com/CHEF-KOCH/cks-filterlist
+! Version: 0.0.1.25
+! Last updated: 2020-05-24
+! Please report any unblocked content or problems by email or via GitHub/Gitlab issue ticket.
+! Email: CHEF-KOCH@protonmail.com
+! Copyright (C) 2018 - present by CHEF-KOCH
+
+@@||ad.doubleclick.net/ddm/$xmlhttprequest,domain=twitch.tv
+@@||twitch.tv^$generichide
+@@||www.twitch.tv^$generichide
+ads.twitter.com##.nav:style(position: absolute !important;)
+custos.twitchcdn.net/v1.js$script
+m.twitch.tv##.tw-c-background-base > li:-abp-contains(/With Amazon prime you can subscribe for FREE/i)
+m.twitch.tv##.tw-c-background-base > li:-abp-contains(you can link your Twitch account to your active Amazon Prime subscription)
+player.twitch.tv##.player-overlay
+twitch.tv##._ig_twitch_buybutton
+twitch.tv##.emote-button__link[name=ANELE]
+twitch.tv##.emote-button__link[name=HotPokket]
+twitch.tv##.emote-button__link[name=cmonBruh]
+twitch.tv##.find-me
+twitch.tv##.js-player-ad-overlay.player-ad-overlay
+twitch.tv##.player-ad-overlay.player-overlay
+twitch.tv##.prime-offers__pill
+twitch.tv##.side-nav-section.recommended-channels
+twitch.tv##.tw-mg-b-05.tw-flex-column.tw-flex.tw-align-items-center
+twitch.tv##.tw-pd-y-3.tw-mg-y-2.tw-full-width.tw-flex-column.tw-flex.tw-c-background-alt-2.tw-align-items-center
+twitch.tv##.tw-top-0.tw-right-0.tw-relative.tw-pd-y-1.tw-pd-x-2.tw-left-0.tw-justify-content-center.tw-flex-row.tw-flex.tw-c-text.tw-c-background-accent-alt-2.tw-border-b.tw-align-items-center.gdpr-consent-banner
+twitch.tv##.tw-z-above.blue-bar
+twitch.tv##.tw-z-default.pinned-cheer-v2
+twitch.tv##[data-a-target*=get-bits-button]
+twitch.tv##[data-a-target=bits-button]
+twitch.tv##[data-a-target=prime-offers-icon]
+twitch.tv##[data-a-target=try-prime-link]
+twitch.tv##button[data-tooltip-type=emote][data-name=ANELE]
+twitch.tv##button[data-tooltip-type=emote][data-name=HYPERBRUH]
+twitch.tv##button[data-tooltip-type=emote][data-name=HotPokket]
+twitch.tv##button[data-tooltip-type=emote][data-name=cmonBruh]
+twitch.tv##script:inject(twitch-videoad.js)
+twitch.tv#?#.blue-bar__bar:-abp-contains(Twitch Prime)
+twitch.tv#?#.chat-line__message,.vod-message:-abp-contains(/With Amazon prime you can subscribe for FREE/i)
+twitch.tv#?#.chat-line__message,.vod-message:-abp-contains(you can link your Twitch account to your active Amazon Prime subscription)
+twitch.tv#?#.chat-line__message:-abp-contains(/O[yi] vey/i)
+twitch.tv#?#.chat-line__message:-abp-contains(/\(\(\(\S/)
+twitch.tv#?#.chat-line__message:-abp-contains(/jew/i):not(:-abp-contains(/jewel/i))
+twitch.tv#?#.chat-line__message:-abp-contains(1488)
+twitch.tv#?#.chat-line__message:-abp-contains(MAGA)
+twitch.tv#?#.chat-line__message:-abp-contains(卍)
+twitch.tv#?#.chat-line__message:-abp-contains(卐)
+twitch.tv#?#.chat-line__message:-abp-has(img[alt$=ANELE]):-abp-has(.message:not(:-abp-contains(/\S/)))
+twitch.tv#?#.chat-line__message:-abp-has(img[alt$=HYPERBRUH]):-abp-has(.message:not(:-abp-contains(/\S/)))
+twitch.tv#?#.chat-line__message:-abp-has(img[alt$=HotPokket]):-abp-has(.message:not(:-abp-contains(/\S/)))
+twitch.tv#?#.chat-line__message:-abp-has(img[alt$=cmonBruh]):-abp-has(.message:not(:-abp-contains(/\S/)))
+twitch.tv#?#.extension-taskbar-card-container:-abp-contains(C1)
+twitch.tv#?#.extension-taskbar-card-container:-abp-contains(V1)
+twitch.tv#?#.extension-taskbar-card-container:-abp-has(img[src*=".ext-twitch.tv/"][src*="/internal/taskbar-icon/"][src$="/636647020003385346.png"])
+twitch.tv#?#.extensions-dock__layout:-abp-has([title$="Loot Reminder"])
+twitch.tv#?#.tw-transition:-abp-has(.tw-tooltip:-abp-contains(Loot Reminder))
+twitch.tv#?#.vod-message:-abp-contains(/O[yi] vey/i)
+twitch.tv#?#.vod-message:-abp-contains(/\(\(\(\S/)
+twitch.tv#?#.vod-message:-abp-contains(/jew/i):not(:-abp-contains(/jewel/i))
+twitch.tv#?#.vod-message:-abp-contains(1488)
+twitch.tv#?#.vod-message:-abp-contains(MAGA)
+twitch.tv#?#.vod-message:-abp-contains(卍)
+twitch.tv#?#.vod-message:-abp-contains(卐)
+twitch.tv#?#.vod-message:-abp-has(img[alt$=ANELE]):-abp-has(.message:not(:-abp-contains(/\S/)))
+twitch.tv#?#.vod-message:-abp-has(img[alt$=HYPERBRUH]):-abp-has(.message:not(:-abp-contains(/\S/)))
+twitch.tv#?#.vod-message:-abp-has(img[alt$=HotPokket]):-abp-has(.message:not(:-abp-contains(/\S/)))
+twitch.tv#?#.vod-message:-abp-has(img[alt$=cmonBruh]):-abp-has(.message:not(:-abp-contains(/\S/)))
+twitch.tv#?#div.tw-mg-b-2:-abp-has(div[data-test-selector=prime-sub-upsell])
+||api.twitch.tv/v5/channels/*/extensions
+||cdn.frankerfacez.com/*de02fdb9721af300ac68de088b69a5fb.PNG^
+||client-event-reporter.twitch.tv^
+||countess.twitch.tv^
+||d4uvtfdr04uq6raoenvj7m86gdk16v.ext-twitch.tv^
+||fan.twitch.tv^
+||mp.twitch.tv^
+||outwitch.com^
+||polyfill.twitchsvc.net^
+||spade.twitch.tv^
+||static-cdn.jtvnw.net/emoticons/v1/357^
+||static-cdn.jtvnw.net/emoticons/v1/3792^
+||static-cdn.jtvnw.net/emoticons/v1/84608^
+||static.twitchcdn.net/config/manifest.json$important
+||twitch.tv$domain=gamepedia.com
+||twitch.tv^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.ext-twitch.tv *.jtvnw.net *.ttvnw.net *.twitchcdn.net *.twitchsvc.net *.twitch.tv *.betterttv.net *.algolianet.com blob: wss:
+||twitchcdn.net/v1.js

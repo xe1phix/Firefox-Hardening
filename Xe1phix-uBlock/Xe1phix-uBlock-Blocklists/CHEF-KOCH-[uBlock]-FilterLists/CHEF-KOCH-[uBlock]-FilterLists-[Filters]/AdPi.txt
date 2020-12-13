@@ -1,0 +1,49 @@
+# Title: CHEF-KOCH's Pi-Hole & Ad-Guard Home Filter List
+# Description: A filter list designed for Pi-Hole and Ad-Guard Home only.
+# License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+# By downloading or viewing, or using this list, you are accepting these terms and the license.
+# Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+# Expires: 14 days
+# Version: 0.0.0.7
+# Last updated: 2018-05-07
+# Please report any unblocked content or problems by email or via issue ticket.
+# Email: CHEF-KOCH@protonmail.com
+# Copyright (C) 2018 - present by CHEF-KOCH
+
+(^|\.)analytics\..+
+(^|\.)buffpanel\.com$
+(^|\.)bugsnag\.com$
+(^|\.)clients(|\.l|[0-9]+)\.google\.[A-Za-z0-9]+(\.[A-Za-z0-9]+)?$
+(^|\.)connectivitycheck\.(android|google|gstatic)\.[A-Za-z0-9]+$
+(^|\.)crashlytics\.com$
+(^|\.)doubleclick\.[A-Za-z0-9]+$
+(^|\.)facebook\.[A-Za-z0-9]+$
+(^|\.)fb\.[A-Za-z0-9]+$
+(^|\.)fbcdn\.[A-Za-z0-9]+$
+(^|\.)fbsbx\.com\.online-metrix\.net$
+(^|\.)fbsbx\.com$
+(^|\.)google(|-)analytics\.[A-Za-z0-9]+(\.[A-Za-z0-9]+)?$
+(^|\.)googleadservices\.[A-Za-z0-9]+$
+(^|\.)googlesyndication\.[A-Za-z0-9]+$
+(^|\.)googletagmanager\.[A-Za-z0-9]+$
+(^|\.)googletagservices\.[A-Za-z0-9]+$
+(^|\.)gpsonextra\.net$
+(^|\.)hockeyapp\.net$
+(^|\.)id(|\.l)\.google\.[A-Za-z0-9]+(\.[A-Za-z0-9]+)?$
+(^|\.)instagram\.com$
+(^|\.)izatcloud\.net$
+(^|\.)m\.me$
+(^|\.)messenger\.com$
+(^|\.)metri(cs|c|x)\..+
+(^|\.)redshell\.io$
+(^|\.)supl\..+
+(^|\.)swiftkey\.com$
+(^|\.)telemetry(|-.+|[0-9]+)\..+
+(^|\.)tfbnw\.net$
+(^|\.)time(|[0-9]+)\.(android|google)\.[A-Za-z0-9]+$
+(^|\.)tracking\..+
+(^|\.)treasuredata\.com$
+(^|\.)unity(|3d)\.com$
+(^|\.)unityads(|\.co)\.com$
+(^|\.)whatsapp\.com$
+(^|\.)xtracloud\.net$
