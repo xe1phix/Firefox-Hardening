@@ -1,0 +1,110 @@
+# Title: CHEF-KOCH's CCleaner HOSTS Filter List
+# Description: Blocks all Giphy related connections. See here: https://about.fb.com/news/2020/05/welcome-giphy/
+# License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+# By downloading or viewing, or using this list, you are accepting these terms and the license.
+# Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+# Expires: 14d
+# TimeUpdated: 2020-05-15
+# Version: 0.0.0.2
+# Please report any unblocked content or problems by email or via GitHub issue ticket.
+# Email: CHEF-KOCH@protonmail.com
+# Copyright (C) 2018 - present by CHEF-KOCH
+# 
+# ASN: AS54113
+#
+#
+0.0.0.0 2inthepink1inthestink.com
+0.0.0.0 ahwell.net
+0.0.0.0 bustle.com
+0.0.0.0 caravia.net
+0.0.0.0 giphie.com
+0.0.0.0 giphy.com
+0.0.0.0 hawaii-weddingvideography.com
+0.0.0.0 ideo.com
+0.0.0.0 ideo.firm.in
+0.0.0.0 ideo.fm
+0.0.0.0 ideo.gen.in
+0.0.0.0 ideo.ind.in
+0.0.0.0 ideo.io
+0.0.0.0 ideo.net.in
+0.0.0.0 maydesigns.com
+0.0.0.0 pinneker.de
+0.0.0.0 shenanagrams.com
+0.0.0.0 tal.me.uk
+0.0.0.0 unearthed.com.au
+0.0.0.0 zeropests.com
+#
+# API
+0.0.0.0 api.giphy.com
+0.0.0.0 media.giphy.com
+0.0.0.0 media0.giphy.com
+0.0.0.0 media1.giphy.com
+0.0.0.0 media2.giphy.com
+0.0.0.0 media3.giphy.com
+0.0.0.0 media4.giphy.com
+0.0.0.0 media5.giphy.com
+0.0.0.0 media6.giphy.com
+#
+# Scripts
+0.0.0.0 giphyscripts.s3.amazonaws.com
+#
+# NS lookup
+0.0.0.0 ns-1507.awsdns-60.org
+0.0.0.0 ns-1872.awsdns-42.co.uk
+0.0.0.0 ns-688.awsdns-22.net
+ns-8.awsdns-01.com
+#
+# Subdomains
+# 
+0.0.0.0 x.giphy.com
+0.0.0.0 arts.giphy.com
+0.0.0.0 developer.giphy.com
+0.0.0.0 fbm-bot.giphy.com
+0.0.0.0 gj.giphy.com
+0.0.0.0 kong-prod0.giphy.com
+0.0.0.0 media2.giphy.com
+0.0.0.0 outlook-v3.giphy.com
+0.0.0.0 search-staging.giphy.com
+0.0.0.0 tv.giphy.com
+# 
+# Other TLDs
+#
+0.0.0.0 giphy.cn
+0.0.0.0 giphy.engineering
+0.0.0.0 giphy.gq
+0.0.0.0 giphy.li
+0.0.0.0 giphy.net
+0.0.0.0 giphy.pro
+0.0.0.0 giphy.vip
+0.0.0.0 giphy.napster.com
+0.0.0.0 giphy.onelink.me
+0.0.0.0 giphy.trello.services
+#
+# Siblings
+#
+0.0.0.0 gpihy.com
+0.0.0.0 hgiyp.com
+0.0.0.0 hipgy.com
+0.0.0.0 hpyig.com
+0.0.0.0 igphy.com
+0.0.0.0 phygi.com
+0.0.0.0 pyghi.com
+0.0.0.0 yhipg.com
+0.0.0.0 yipgh.com
+0.0.0.0 giffffr.giphy.com
+# 
+# IP
+#151.101.1.185
+#151.101.65.185
+#151.101.129.185
+#151.101.193.185
+#
+# IP nameserver
+#2600:9000:5300:800::1
+#2600:9000:5302:b000::1
+#2600:9000:5305:e300::1
+#2600:9000:5307:5000::1
+#205.251.192.8
+#205.251.194.176
+#205.251.197.227
+#205.251.199.80

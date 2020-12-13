@@ -1,0 +1,71 @@
+# Title: CHEF-KOCH's CCleaner HOSTS Filter List
+# Description: Blocks all CCleaner related connections.
+# License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+# By downloading or viewing, or using this list, you are accepting these terms and the license.
+# Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+# Expires: 14d
+# TimeUpdated: 2020-05-12
+# Version: 0.0.0.9
+# Please report any unblocked content or problems by email or via GitHub issue ticket.
+# Email: CHEF-KOCH@protonmail.com
+# Copyright (C) 2018 - present by CHEF-KOCH
+#
+# ---------- CCleaner Telemetry ----------
+#
+0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 shepherd.ff.avast.com
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 analytics.ff.avast.com
+#
+# ---------- CCleaner Network Connectivity Check ----------
+#
+0.0.0.0 ncc.avast.com
+0.0.0.0 ncc.avast.com.edgesuite.net
+#
+# ---------- CCleaner license check ----------
+#
+0.0.0.0 license.piriform.com
+0.0.0.0 verify.ccleaner.com
+0.0.0.0 alpha-crap-stage.ff.avast.com
+0.0.0.0 alpha-license-dealer-stage.ff.avast.com
+#
+# ---------- Avast/CCleaner ----------
+#
+0.0.0.0 analytics.ns1.ff.avast.com
+0.0.0.0 api.mixpanel.com
+0.0.0.0 dev.visualwebsiteoptimizer.com
+0.0.0.0 dev.visualwebsiteoptimizer.com
+0.0.0.0 ip-info.ns1.ff.avast.com
+0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 ipm-provider.ns1.ff.avast.com
+0.0.0.0 ipmcdn.avast.com
+0.0.0.0 labs.upsellit.com
+0.0.0.0 license.piriform.com
+0.0.0.0 public.avast.com
+0.0.0.0 seal.digicert.com
+0.0.0.0 secure.ccleaner.com
+0.0.0.0 service.piriform.com
+0.0.0.0 shepherd.ns1.ff.avast.com
+0.0.0.0 static-cf.cleverbridge.com
+0.0.0.0 widget.trustpilot.com
+0.0.0.0 www.ccleaner.com
+0.0.0.0 www.upsellit.com
+#
+# ---------- Fastly ----------
+#
+#0.0.0.0 ns1.fastly.net
+#0.0.0.0 ns2.fastly.net
+#0.0.0.0 ns3.fastly.net
+#0.0.0.0 ns4.fastly.net
+#0.0.0.0 f6.shared.global.fastly.net
+#
+# ---------- Download ----------
+#
+0.0.0.0 shepherd.ff.avast.com
+0.0.0.0 download.ccleaner.com 
+#
+# ---------- ccupdate.exe ----------
+#
+0.0.0.0 ccleaner.tools.avcdn.net
+0.0.0.0 emupdate.avcdn.net
+0.0.0.0 ip-info.ff.avast.com

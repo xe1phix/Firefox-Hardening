@@ -1,0 +1,25 @@
+# Title: CHEF-KOCH's GlassWire HOSTS Filter List 
+# Description: Blocks all GlassWire connections. 
+# License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE 
+# By downloading or viewing, or using this list, you are accepting these terms and the license. 
+# Homepage: https://github.com/CHEF-KOCH/CKs-FilterList 
+# Expires: 14d
+# Version: 0.0.0.1
+# Please report any unblocked content or problems by email or via GitHub issue ticket. 
+# Email: CHEF-KOCH@protonmail.com 
+# Copyright (C) 2018 - present by CHEF-KOCH 
+# 
+# ---------- Activation ---------- 
+# FAQ: https://www.glasswire.com/faq/
+0.0.0.0 activate.glasswire.com
+0.0.0.0 52.204.79.212
+0.0.0.0 35.168.155.58
+# ---------- Update ----------
+0.0.0.0 update.glasswire.com
+0.0.0.0 35.168.155.58
+0.0.0.0 52.204.79.212
+# ---------- Monitoring ---------
+0.0.0.0 54.230.3.242
+0.0.0.0 54.230.3.111
+0.0.0.0 54.230.3.82
+0.0.0.0 54.230.3.234
