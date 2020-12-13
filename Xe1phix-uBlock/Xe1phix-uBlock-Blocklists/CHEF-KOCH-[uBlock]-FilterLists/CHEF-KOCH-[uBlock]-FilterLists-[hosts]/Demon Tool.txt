@@ -1,0 +1,17 @@
+# Title: CHEF-KOCH's DAEMON Tools Ultra Hosts Filter List
+# Description: Kills all connections related to DAEMON Tools Ultra.
+# License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+# By downloading or viewing, or using this list, you are accepting these terms and the license.
+# Homepage: https://gitlab.com/CHEF-KOCH/cks-filterlist
+# Expires: 14d
+# Version: 0.0.0.1
+# Last updated: 2019-05-20
+# Please report any unblocked content or problems by email or via GitHub issue ticket.
+# Email: CHEF-KOCH@protonmail.com
+# Copyright (C) 2018 - present by CHEF-KOCH
+#
+0.0.0.0 disc-soft.com
+0.0.0.0 secure.disc-soft.com
+0.0.0.0 rp.totafofesos1.com
+0.0.0.0 os.totafofesos1.com
+0.0.0.0 os2.totafofesos1.com

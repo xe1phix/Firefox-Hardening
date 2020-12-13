@@ -1,0 +1,427 @@
+! uMatrix: Ruleset recipes 1.0
+! Title: CK's Rulesets for uMatrix
+! Maintainer: CHEF-KOCH
+! Description: uMatrix rulesets for international websites, this is in order to deal with the 'broken' filter issue.
+! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+! By downloading or viewing, or using this list, you are accepting these terms and the license.
+! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+!
+! Expires: 14d
+! Version: 0.0.1.0
+! Last updated: 2019-03-01
+! Please report any unblocked content or problems by email or via GitHub issue ticket.
+! Email: CHEF-KOCH@protonmail.com
+! Copyright (C) 2018 - 2019 by CHEF-KOCH
+
+4Chan with reCaptcha
+	4chan.org *
+		_ a.4cdn.org xhr
+		_ s.4cdn.org script
+		_ www.google.com script
+		_ www.google.com frame
+		_ www.gstatic.com script
+
+4Chan without reCaptcha
+	4chan.org *
+		_ a.4cdn.org xhr
+		_ s.4cdn.org script
+
+Algolia as 3rd-party
+	* algolia.net
+		_ algolia.net *
+		_ algolianet.com *
+
+Azure Maps as 3rd-party
+	* atlas.microsoft.com
+		_ atlas.microsoft.com *
+		_ atlas.microsoft.com script
+		no-workers: _ false
+
+Ars Technica
+	arstechnica.com *
+		_ 1st-party script
+		_ arstechnica.net *
+		_ arstechnica.net script
+		no-workers: arstechnica.com false
+		_ player.cnevids.com *
+		_ player.cnevids.com script
+		_ d2c8v52ll5s99u.cloudfront.net *
+		_ d2c8v52ll5s99u.cloudfront.net script
+		_ dp8hsntg6do36.cloudfront.net *
+
+Dailymotion
+	dailymotion.com *
+		_ 1st-party script
+		_ dmcdn.net *
+		_ dmcdn.net script
+		_ ajax.googleapis.com script
+		no-workers: _ false
+
+Discord
+	discordapp.com *
+		_ 1st-party *
+		_ 1st-party cookie
+		_ 1st-party script
+		_ discord.gg *
+		_ discord.gg xhr
+		_ discordapp.net *
+
+Disqus as 3rd-party 
+	* disqus.com
+		_ disqus.com *
+		_ disqus.com frame
+		_ disqus.com script
+		_ disquscdn.com *
+		_ disquscdn.com script
+    	_ disquscdn.com css
+   		_ disquscdn.com image
+
+Embedly as 3rd-party
+	* embedly.com
+		_ api-cdn.embed.ly xhr
+		_ i-cdn.embed.ly image
+		_ cdn.embedly.com *
+		_ cdn.embedly.com frame
+		_ cdn.embedly.com script
+
+Facebook accountless
+	facebook.com *
+		_ fbcdn.net *
+
+Firebase Auth as 3rd-party
+	* firebase.com
+		! Might also need other triggers...
+		_ cdn.firebase.com *
+		_ cdn.firebase.com script
+		_ gstatic.com *
+		_ gstatic.com script
+		_ accountchooser.com *
+		_ accountchooser.com frame
+		_ accountchooser.com script
+		_ googleapis.com xhr
+
+Github
+	github.com *
+		_ 1st-party script
+		_ githubapp.com *
+		_ githubusercontent.com *
+		_ githubassets.com *
+		_ githubassets.com script
+		_ render.githubusercontent.com script
+		_ render.githubusercontent.com frame
+		_ raw.githubusercontent.com *
+		_ raw.githubusercontent.com xhr
+		_ github-render.s3.amazonaws.com xhr
+		_ github-production-user-asset-6210df.s3.amazonaws.com xhr
+
+Github Gist as 3rd-party
+	* gist.github.com
+		_ assets-cdn.github.com css
+		_ camo.githubusercontent.com image
+		_ gist.github.com script
+		! pdf,geojson etc. renders
+		_ assets-cdn.github.com image
+		_ raw.githubusercontent.com xhr
+		_ render.githubusercontent.com *
+		_ render.githubusercontent.com frame
+		_ render.githubusercontent.com script
+		octocaptcha.com *
+		octocaptcha.com frame
+
+Gitlab
+	gitlab.com *
+		_ 1st-party script
+		_ gitlab-static.net *
+		_ gitlab-static.net script
+		no-workers: _ false
+
+Google Account sign-in
+	accounts.google.com *
+		_ 1st-party script
+		_ gstatic.com *
+		_ gstatic.com script
+
+Google Maps
+	google.* *
+		_ 1st-party script
+		_ kh.google.com xhr
+		_ gstatic.com *
+		_ gstatic.com xhr
+		_ maps.googleapis.com *
+		_ maps.googleapis.com script
+		no-workers: _ false
+
+Google reCaptcha
+	* www.google.com
+		_ www.google.com frame
+		_ www.google.com script
+		_ www.google.com xhr
+		_ www.gstatic.com script
+
+IMDb
+	imdb.com *
+		_ 1st-party script
+		_ ssl-images-amazon.com *
+		_ ssl-images-amazon.com script
+		_ media-imdb.com *
+		_ media-imdb.com media
+		_ 1st-party frame
+		_ amazonaws.com script
+
+JSFiddle
+	jsfiddle.net *
+		_ 1st-party script
+		_ jshell.net *
+		_ jshell.net script
+		_ jshell.net frame
+
+JSFiddle as 3rd-party
+	* jsfiddle.net
+		_ jsfiddle.net *
+		_ jsfiddle.net frame
+		_ jsfiddle.net script
+		_ fiddle.jshell.net *
+		_ fiddle.jshell.net frame
+		_ fiddle.jshell.net script
+
+Mapbox as 3rd-party
+	* mapbox.com
+		_ api.mapbox.com *
+		_ api.mapbox.com script
+		_ tiles.mapbox.com *
+		_ tiles.mapbox.com script
+		! mapbox gl needs workers
+		no-workers: _ false
+
+Netflix
+	netflix.com *
+		_ 1st-party script
+		_ nflxext.com *
+		_ nflxext.com script
+		_ nflxext.com xhr
+		_ nflximg.net *
+		_ nflxso.net *
+		_ nflxvideo.net *
+		_ nflxvideo.net xhr
+
+OpenStreetMap
+	openstreetmap.org *
+		_ 1st-party script
+		_ graphhopper.com script
+		_ overpass-api.de xhr
+		_ graphhopper.com xhr
+		_ router.project-osrm.org xhr
+		_ valhalla.mapzen.com xhr
+		_ routing.openstreetmap.de xhr
+
+OpenStreetMap embed as 3rd-party
+	* www.openstreetmap.org
+		_ www.openstreetmap.org *
+		_ www.openstreetmap.org script
+		_ www.openstreetmap.org frame
+		_ tile.openstreetmap.org image
+
+Outlook (Formerly Hotmail)
+	live.com *
+		_ 1st-party script
+		_ microsoft.com xhr
+		_ office.com script
+		_ office.com xhr
+		_ office365.com script
+		_ office365.com xhr
+
+Packagist
+	packagist.org *
+		_ 1st-party script
+		_ algolia.net xhr allow
+		_ algolianet.com xhr allow
+		_ cdn.jsdelivr.net script allow
+
+Paddle as 3rd-party
+	* paddle.com
+		_ paddle.com *
+		_ paddle.com frame allow
+		_ paddle.s3.amazonaws.com *
+		_ localizecdn.com *
+		_ ravenjs.com *
+		_ spreedly.com *
+
+Protonmail
+	protonmail.com *
+		_ 1st-party script
+		no-workers: _ false
+
+reCaptcha
+	* google.com
+		_ google.com *
+		_ google.com script
+		_ google.com xhr
+		_ google.com frame
+		_ gstatic.com *
+		_ gstatic.com script
+
+Reddit
+	reddit.com *
+		_ 1st-party script
+		_ v.redd.it *
+		_ redditstatic.com *
+		_ redditstatic.com script
+		_ redditmedia.com *
+
+Shopify
+	* shopify.com
+		_ cdn.shopify.com *
+		_ cdn.shopify.com script
+		_ cdn.shopify.com xhr
+
+Slack
+	slack.com *
+		_ 1st-party script
+		_ slack-edge.com *
+		_ slack-edge.com script
+		_ slack-edge.com frame
+		_ slack-msgs.com *
+
+Soundcloud
+	soundcloud.com *
+		_ 1st-party script
+		_ sndcdn.com *
+		_ sndcdn.com script
+		_ sndcdn.com xhr
+
+Stack Exchange
+	* cdn.sstatic.net
+		_ 1st-party script
+		_ cdn.sstatic.net *
+		_ cdn.sstatic.net script
+		_ cdn.sstatic.net frame
+		_ ajax.googleapis.com script
+		_ i.stack.imgur.com image
+
+Steam
+	steampowered.com *
+		_ 1st-party script
+		_ steamstatic.com *
+		_ steamstatic.com media
+		_ steamstatic.com script
+
+Twitch
+	twitch.tv *
+		no-workers: _ false
+		_ 1st-party script
+		_ amazonaws.com *
+		_ amazonaws.com xhr
+		_ jtvnw.net *
+		_ media-amazon.com *
+		_ ttvnw.net *
+		_ ttvnw.net script
+		_ ttvnw.net xhr
+		_ twitchcdn.net *
+		_ twitchcdn.net script
+		_ twitchsvc.net *
+		_ twitchsvc.net script
+
+Twitch as 3rd-party
+	* twitch.tv
+		no-workers: _ false
+		_ twitch.tv *
+		_ twitch.tv frame
+		_ twitch.tv script
+		_ ttvnw.net xhr
+		_ twitchcdn.net *
+		_ twitchcdn.net script
+
+Twitter no account
+	twitter.com *
+		_ 1st-party script
+		_ twimg.com *
+		_ twimg.com script
+
+Twitter with account
+	twitter.com *
+		_ 1st-party script
+		_ twimg.com *
+		_ twimg.com script
+
+Twitter as 3rd-party
+	* platform.twitter.com
+		_ platform.twitter.com *
+		_ platform.twitter.com script
+		_ platform.twitter.com frame
+		_ cdn.syndication.twimg.com script
+		_ twimg.com image
+		_ twitter.com css
+		_ twitter.com frame
+		_ twitter.com xhr
+		_ video.twimg.com *
+		_ abs.twimg.com scripts
+
+Wikia
+	wikia.com *
+		_ nocookie.net *
+		_ nocookie.net script
+
+Vimeo as 3rd-party
+	* player.vimeo.com
+		_ player.vimeo.com *
+		_ player.vimeo.com script
+		_ player.vimeo.com frame
+		_ vimeocdn.com *
+		_ vimeocdn.com script
+
+XDA-Developers
+	xda-developers.com *
+		_ xda-cdn.com *
+		_ xda-cdn.com script
+
+Yahoo Mail
+	mail.yahoo.com *
+		_ 1st-party script
+		_ yimg.com image
+		_ yimg.com xhr
+
+Youtube without Account
+	youtube.com *
+		_ 1st-party script
+		_ googlevideo.com *
+		_ ytimg.com *
+		_ ytimg.com script
+
+Youtube with an Account
+	youtube.com *
+		_ 1st-party script
+		_ googlevideo.com *
+		_ googlevideo.com xhr
+		_ ytimg.com *
+		_ ytimg.com script
+		accounts.google.com 1st-party *
+		accounts.google.com 1st-party cookie
+		accounts.google.com gstatic.com *
+		accounts.google.com gstatic.com script
+
+Youtube as 3rd-party
+	* youtube.com
+		_ youtube.com *
+		_ youtube.com script
+		_ youtube.com frame
+		_ googlevideo.com *
+		_ googlevideo.com xhr
+		_ ytimg.com *
+		_ ytimg.com script
+
+Youtube (nocookie) as 3rd-party
+	* youtube-nocookie.com
+		_ youtube-nocookie.com *
+		_ youtube-nocookie.com script
+		_ youtube-nocookie.com frame
+		_ googlevideo.com *
+		_ googlevideo.com xhr
+		_ ytimg.com *
+		_ ytimg.com script
+
+Xfce-Look
+	xfce-look.org *
+	  	_ 1st-party script
+		_ 1st-party frame
+		_ opendesktop.org script
+		_ opendesktop.org xhr
