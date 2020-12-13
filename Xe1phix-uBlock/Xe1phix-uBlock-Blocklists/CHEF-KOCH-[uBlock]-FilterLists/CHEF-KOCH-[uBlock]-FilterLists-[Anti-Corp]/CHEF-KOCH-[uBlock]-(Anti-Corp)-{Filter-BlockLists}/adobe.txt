@@ -1,0 +1,101 @@
+! Title: CHEF-KOCH's Adobe Filter List
+! Description: Block all Adobe related connections.
+! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+! By downloading or viewing, or using this list, you are accepting these terms and the license.
+! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+! Expires: 14 days
+! Version: 0.0.0.9
+! Last updated: 2019-03-07
+! Please report any unblocked content or problems by email or via GitHub issue ticket.
+! Email: CHEF-KOCH@protonmail.com
+! Copyright (C) 2018 - 2019 by CHEF-KOCH
+!
+! ---------- Adobe license check ----------
+!
+||activate-sea.adobe.de^
+||activate-sjc0.adobe.de^
+||activate.adobe.de^
+||activate.wip3.adobe.de^
+!
+! ---------- Adobe ----------
+!
+||adobe-dns-2.adobe.de^
+||adobe-dns-3.adobe.de^
+||adobe-dns.adobe.de^
+||adobe.activate.com^
+||adobe.com^
+||adobeereg.com^
+||crl.verisign.net^
+||d35fgcharv2shj.cloudfront.net^
+||ereg.adobe.de^
+||helpx.adobe.com^
+||hl2rcv.adobe.de^
+||ims-na1-prprod.adobelogin.com^
+||macromedia.com^
+||ocsp.spo1.verisign.com^
+||ood.opsource.net^
+||practivate.adobe.de^
+||practivate.adobe.ipp^
+||practivate.adobe.newoa^
+||practivate.adobe.ntp^
+||practivate.adobe^
+||tracker.adobe.com^
+||tss-geotrust-crl.thawte.com^
+||wwis-dubc1-vip60.adobe.de^
+||www.adobetag.com^
+!
+! ---------- TypeKit ----------
+!
+||107.23.227.249^
+||216.146.46.10^
+||216.146.46.11^
+||50.56.53.165^
+||52.0.100.208^
+||52.21.0.170^
+||52.21.35.79^
+||52.22.140.177^
+||52.22.158.38^
+||52.22.162.166^
+||52.22.186.0^
+||52.22.208.226^
+||52.22.27.208^
+||52.3.82.209^
+||52.4.124.163^
+||52.5.145.62^
+||52.5.17.30^
+||52.6.207.62^
+||52.71.145.208^
+||52.71.147.84^
+||54.174.42.225^
+||54.209.24.55^
+||acumin.typekit.com^
+||api.typekit.com^
+||blog.typekit.com^
+||data.typekit.net^
+||em1.typekit.com^
+||help.typekit.com^
+||jobs.typekit.com^
+||muse-assets.typekit.net^
+||muse.typekit.net^
+||origin-lb.typekit.com^
+||p.typekit.net^
+||pages.typekit.com^
+||polka.typekit.com^
+||practice.typekit.com^
+||primer.typekit.net^
+||redbullmediahouse.origin.typekit.com^
+||state.typekit.net^
+||status.typekit.com^
+||subsets.typekit.net^
+||use.typekit.com^
+||use.typekit.net^
+||www.typekit.com^
+!
+! ---------- Tracking ----------
+!
+||ereg.wip.adobe.com^
+||ereg.wip1.adobe.com^
+||ereg.wip2.adobe.com^
+||ereg.wip3.adobe.com^
+||ereg.wip3.adobe.de^
+||ereg.wip4.adobe.com^
