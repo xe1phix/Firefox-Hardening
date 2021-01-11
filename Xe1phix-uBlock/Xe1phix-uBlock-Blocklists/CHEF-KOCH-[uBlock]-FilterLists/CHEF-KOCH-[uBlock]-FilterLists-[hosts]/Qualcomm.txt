@@ -1,0 +1,110 @@
+# Title: CHEF-KOCH's Qualcomm HOSTS Filter List
+# Description: Block all Huawei connections and services.
+# License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+# By downloading or viewing, or using this list, you are accepting these terms and the license.
+# Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+# Expires: 14d
+# TimeUpdated: 2018-03-01
+# Version: 0.0.0.1
+# Please report any unblocked content or problems by email or via GitHub issue ticket.
+# Email: CHEF-KOCH@protonmail.com
+# Copyright (C) 2018 - present by CHEF-KOCH
+#
+# ---------- Qualcomm  ----------
+0.0.0.0 cds.gtp.izatcloud.net
+0.0.0.0 cds.gtpstage.izatcloud.net
+0.0.0.0 gpsonextra.net
+0.0.0.0 gtp-tst-new.izatcloud.net
+0.0.0.0 gtp1-old.izatcloud.net
+0.0.0.0 gtp1.gtp.izatcloud.net
+0.0.0.0 gtp1503.izatcloud.net
+0.0.0.0 gtp2-old.izatcloud.net
+0.0.0.0 gtp2.gtp.izatcloud.net
+0.0.0.0 gtp2503.izatcloud.net
+0.0.0.0 gtp503.izatcloud.net
+0.0.0.0 gtpa1-old.izatcloud.net
+0.0.0.0 gtpa1503.izatcloud.net
+0.0.0.0 gtpa2-old.izatcloud.net
+0.0.0.0 gtpa2503.izatcloud.net
+0.0.0.0 gtpc1.izatcloud.net
+0.0.0.0 gtpc2.izatcloud.net
+0.0.0.0 gtpcn1.gtp.izatcloud.net
+0.0.0.0 gtpdebug1.izatcloud.net
+0.0.0.0 gtpdebug2.izatcloud.net
+0.0.0.0 gtpiot1.izatcloud.net
+0.0.0.0 gtpiot2.izatcloud.net
+0.0.0.0 gtpm1.izatcloud.net
+0.0.0.0 gtpm2.izatcloud.net
+0.0.0.0 gtpma-oem.izatcloud.net
+0.0.0.0 gtpma1-old.izatcloud.net
+0.0.0.0 gtpma1.izatcloud.net
+0.0.0.0 gtpma1503.izatcloud.net
+0.0.0.0 gtpma2-old.izatcloud.net
+0.0.0.0 gtpma2.gtp.izatcloud.net
+0.0.0.0 gtpma2503.izatcloud.net
+0.0.0.0 gtpmaiot1.izatcloud.net
+0.0.0.0 gtpmanb1.izatcloud.net
+0.0.0.0 gtpmaoem1.gtpoem.izatcloud.net
+0.0.0.0 gtpmaoem1503.izatcloud.net
+0.0.0.0 gtpmaoem2-old.izatcloud.net
+0.0.0.0 gtpmastg1.gtpstage.izatcloud.net
+0.0.0.0 gtpmc1.izatcloud.net
+0.0.0.0 gtpmc2.izatcloud.net
+0.0.0.0 gtpnb1.izatcloud.net
+0.0.0.0 gtpoem1.gtpoem.izatcloud.net
+0.0.0.0 gtpoem1503.izatcloud.net
+0.0.0.0 gtpoem2.gtpoem.izatcloud.net
+0.0.0.0 gtpoem2503.izatcloud.net
+0.0.0.0 gtpoema1.gtpoem.izatcloud.net
+0.0.0.0 gtpoema1503.izatcloud.net
+0.0.0.0 gtpoema2.gtpoem.izatcloud.net
+0.0.0.0 gtpoema2503.izatcloud.net
+0.0.0.0 gtpoemc1.izatcloud.net
+0.0.0.0 gtpoemc2.izatcloud.net
+0.0.0.0 gtpstg1.gtpstage.izatcloud.net
+0.0.0.0 gtpstg2.gtpstage.izatcloud.net
+0.0.0.0 gtpstga1.gtpstage.izatcloud.net
+0.0.0.0 gtpstga2.gtpstage.izatcloud.net
+0.0.0.0 izatcloud.net
+0.0.0.0 path1.xtracloud.net
+0.0.0.0 path2.xtracloud.net
+0.0.0.0 path3.xtracloud.net
+0.0.0.0 path4.xtracloud.net
+0.0.0.0 path5.xtracloud.net
+0.0.0.0 path6.xtracloud.net
+0.0.0.0 s2s.xbox.izatcloud.net
+0.0.0.0 ssl.gpsonextra.net
+0.0.0.0 test1.xbox.izatcloud.net
+0.0.0.0 time.izatcloud.net
+0.0.0.0 udsnonma.poc.izatcloud.net
+0.0.0.0 www.gpsonextra.net
+0.0.0.0 www.izatcloud.net
+0.0.0.0 www.xtracloud.net
+0.0.0.0 xt1.gtp.izatcloud.net
+0.0.0.0 xt1503.izatcloud.net
+0.0.0.0 xt2.gtp.izatcloud.net
+0.0.0.0 xt2503.izatcloud.net
+0.0.0.0 xtoem1.gtpoem.izatcloud.net
+0.0.0.0 xtoem1503.izatcloud.net
+0.0.0.0 xtoem2.gtpoem.izatcloud.net
+0.0.0.0 xtoem2503.izatcloud.net
+0.0.0.0 xtra1.gpsonextra.net
+0.0.0.0 xtra2.gpsonextra.net
+0.0.0.0 xtra3.gpsonextra.net
+0.0.0.0 xtra4.gpsonextra.net
+0.0.0.0 xtra5.gpsonextra.net
+0.0.0.0 xtra6.gpsonextra.net
+0.0.0.0 xtracloud.net
+0.0.0.0 xtrapath1.izatcloud.net
+0.0.0.0 xtrapath11.xboxstage.izatcloud.net
+0.0.0.0 xtrapath11503.izatcloud.net
+0.0.0.0 xtrapath2.izatcloud.net
+0.0.0.0 xtrapath3.izatcloud.net
+0.0.0.0 xtrapath4.izatcloud.net
+0.0.0.0 xtrapath4.xbox.izatcloud.net
+0.0.0.0 xtrapath5.izatcloud.net
+0.0.0.0 xtrapath5.xbox.izatcloud.net
+0.0.0.0 xtrapath6.izatcloud.net
+0.0.0.0 xtrapath7.xboxprod.izatcloud.net
+0.0.0.0 xtrapath8.xboxprod.izatcloud.net
+0.0.0.0 xtstg1.gtpstage.izatcloud.net

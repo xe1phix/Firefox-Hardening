@@ -1,0 +1,78 @@
+# Title: CHEF-KOCH's Huawei HOSTS Filter List
+# Description: Block all Huawei connections and services.
+# License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+# By downloading or viewing, or using this list, you are accepting these terms and the license.
+# Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+# Expires: 14d
+# TimeUpdated: 2019-05-03
+# Version: 0.0.0.1
+# Please report any unblocked content or problems by email or via GitHub issue ticket.
+# Email: CHEF-KOCH@protonmail.com
+# Copyright (C) 2018 - 2019 by CHEF-KOCH
+#
+# ASN: 55990
+# ASN: 61348
+# ASN: 63727
+# ASN: 131444
+# ASN: 136907
+# ASN: 200756
+# ASN: 206204
+# ASN: 206798
+# ASN: 265443
+#
+# ---------- Huawei "Backdoor" ----------
+#
+0.0.0.0	dbankcdn.com
+0.0.0.0 hicloud.com
+# 
+# ---------- Huawei Domains ----------
+0.0.0.0 huawei.abudhabi
+0.0.0.0 huawei.ac.cn
+0.0.0.0 huawei.academy
+0.0.0.0 huawei.africa
+0.0.0.0 huawei.ai
+0.0.0.0 huawei.al
+0.0.0.0 huawei.am
+0.0.0.0 huawei.app
+0.0.0.0 huawei.asia
+0.0.0.0 huawei.at
+0.0.0.0 huawei.az
+0.0.0.0 huawei.band
+0.0.0.0 huawei.be
+0.0.0.0 huawei.beer
+0.0.0.0 huawei.best
+0.0.0.0 huawei.bg
+0.0.0.0 huawei.bi
+0.0.0.0 huawei.biz
+0.0.0.0 huawei.bj.cn
+0.0.0.0 huawei.blog
+0.0.0.0 huawei.bo
+0.0.0.0 huawei.bot
+0.0.0.0 huawei.boutique
+0.0.0.0 huawei.business
+0.0.0.0 huawei.by
+0.0.0.0 huawei.ca
+0.0.0.0 huawei.cafe
+0.0.0.0 huawei.cam
+0.0.0.0 huawei.care
+0.0.0.0 huawei.cat
+0.0.0.0 huawei.cc
+0.0.0.0 huawei.center
+0.0.0.0 huawei.ch
+0.0.0.0 huawei.chat
+0.0.0.0 huawei.ci
+0.0.0.0 huawei.city
+0.0.0.0 huawei.cl
+0.0.0.0 huawei.click
+0.0.0.0 huawei.cloud
+0.0.0.0 huawei.club
+0.0.0.0 huawei.cm
+0.0.0.0 huawei.cn
+0.0.0.0 huawei.co
+0.0.0.0 huawei.co.at
+0.0.0.0 huawei.co.hu
+0.0.0.0 huawei.co.id
+0.0.0.0 huawei.co.in
+0.0.0.0 huawei.co.jp
+0.0.0.0 huawei.co.kr
+0.0.0.0 huawei.co.nz
