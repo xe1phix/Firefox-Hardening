@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Checksum: hvg5erx0IcV8WaAAo1w0ew
+! Version: 201802101521
+! Title: Message "seen" Remover for Facebook
+! Last modified: 10 Feb 2018 15:21 UTC
+! Expires: 4 days (update frequency)
+!
+||facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest

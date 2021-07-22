@@ -1,0 +1,45 @@
+https://www.digitalocean.com/community/tutorials/how-to-use-passwd-and-adduser-to-manage-passwords-on-a-linux-vps
+
+
+
+CHEF-KOCH’s gists
+https://gist.github.com/CHEF-KOCH
+
+Simple Iptables Script Generator
+http://www.mista.nu/iptables/
+
+Droidwall scripts that fix some problems for e.g. Orbot, startup data leak and other things (see comments)
+https://gist.github.com/CHEF-KOCH/e0b8771cd1fd17c9b4d3
+
+AdguardTeam/AdguardForAndroid: Open bug tracker for Android version of AdGuard.
+https://github.com/AdguardTeam/AdguardForAndroid/
+
+topjohnwu/Magisk_Repo_Central
+https://github.com/topjohnwu/Magisk_Repo_Central
+
+copperhead/paxd-archive: PaX exception daemon - Temporarily abandoned due to the PaX and grsecurity patches becoming private
+https://github.com/copperhead/paxd-archive
+
+GitHub - collinbarrett/FilterLists: FilterLists is the independent and comprehensive directory of all public filter and hosts lists for advertisements, trackers, malware, and annoyances.
+https://github.com/collinbarrett/FilterLists
+
+
+
+https://hashkiller.co.uk/
+
+https://github.com/danielmiessler/SecLists/tree/master/Passwords
+
+http://www.adeptus-mechanicus.com/codex/hashpass/hashpass.php
+
+https://weakpass.com/wordlist/real
+
+http://www.theonion.com/article/neighbors-confront-alcoholic-child-abuser-about-hi-744
+http://www.theonion.com/blogpost/ask-a-coffin-salesman-12239
+
+
+http://www.justpain.com/ut_maps/wordlists/
+
+
+
+
+https://pastebin.com/gpcy1K0r

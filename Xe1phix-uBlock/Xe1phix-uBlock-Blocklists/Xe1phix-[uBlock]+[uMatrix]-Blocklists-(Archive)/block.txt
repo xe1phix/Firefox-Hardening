@@ -1,0 +1,49 @@
+#      
+#   DShield.org Recommended Block List 
+#    (c) 2018 DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: http://feeds.dshield.org/block.txt
+#     PGP Sign.: http://feeds.dshield.org/block.txt.asc
+#
+#   comments: info@dshield.org
+#    updated: Sat Feb 10 15:15:35 2018 UTC
+#   
+#    This list summarizes the top 20 attacking class C (/24) subnets
+#   over the last three days. The number of 'attacks' indicates the 
+#   number of targets reporting scans from this subnet.
+#
+#
+#    Columns (tab delimited):
+#
+#    (1) start of netblock  
+#    (2) end of netblock
+#    (3) subnet (/24 for class C)
+#    (4) number of targets scanned
+#    (5) name of Network 
+#    (6) Country
+#    (7) contact email address
+#
+#    If a range is assigned to multiple users, the first one is listed. 
+#     
+Start	End	Netmask	Attacks	Name	Country	email
+185.22.153.0	185.22.153.255	24	1267	ASBAXET ,	RU	noc@baxet.ru
+51.15.5.0	51.15.5.255	24	1263	AS12876 ,	FR	abuse@proxad.net
+196.52.43.0	196.52.43.255	24	1259	LEASEWEB-NL Netherlands,	NL	abuse@nl.leaseweb.com
+46.243.189.0	46.243.189.255	24	1227	LEADERTELECOMBV-AS ,	NL	info@leadertelecom.nl
+146.0.77.0	146.0.77.255	24	1140	HOSTKEY-AS ,	NL	abuse@hostkey.nl
+125.212.217.0	125.212.217.255	24	1136	VIETEL-AS-AP Viettel Corporation,	VN	hm-changed@vnnic.net.vn
+141.212.122.0	141.212.122.255	24	1133	UMICH-AS-5 - University of Michigan,	US	abuse@umich.edu
+216.98.153.0	216.98.153.255	24	1128	CARINET - CariNet, Inc.,	US	complaints@cari.net
+77.72.82.0	77.72.82.255	24	1122	NETUP-AS ,	RU	aospan@netup.ru
+80.82.77.0	80.82.77.255	24	1110	QUASINETWORKS ,	NL	abuse@quasinetworks.com
+181.214.87.0	181.214.87.255	24	1106	WZCOM-US - WZ Communications Inc.,	US	abuse@webazilla.com
+191.101.167.0	191.101.167.255	24	1104	Digital Energy Technologies Chile SpA,	CL	noc@AS61440.NET
+89.248.168.0	89.248.168.255	24	1096	QUASINETWORKS ,	NL	abuse@quasinetworks.com
+85.93.20.0	85.93.20.255	24	1091	ASGHOSTNET ,	DE	abuse@ghostnet.de
+60.191.38.0	60.191.38.255	24	1091	CHINANET-BACKBONE No.31,Jin-rong Street,	CN	anti-spam@ns.chinanet.cn.net
+5.188.11.0	5.188.11.255	24	1087	PIN-AS ,	RU	abuse@pinspb.ru
+5.188.86.0	5.188.86.255	24	1086	PIN-AS ,	RU	abuse@pinspb.ru
+193.19.118.0	193.19.118.255	24	1083	IPSERVER-RU-NET ,	UA	abuse@ipserver.su
+109.248.9.0	109.248.9.255	24	1075	DGRID ,	EE	abuse@linxtelecom.net
+71.6.146.0	71.6.146.255	24	1067	CARINET - CariNet, Inc.,	US	complaints@cari.net
