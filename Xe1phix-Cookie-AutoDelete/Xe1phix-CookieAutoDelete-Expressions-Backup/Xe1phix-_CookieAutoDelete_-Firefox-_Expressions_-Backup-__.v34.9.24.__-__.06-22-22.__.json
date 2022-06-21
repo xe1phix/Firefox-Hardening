@@ -1,0 +1,6400 @@
+{
+  "default": [
+    {
+      "expression": "_Default:WHITE",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "v-EXSNvZT"
+    },
+    {
+      "expression": "*.335a6427-5249-4dc8-a6b7-d5481e208d0e",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "jsMcPwHHiQ"
+    },
+    {
+      "expression": "*.420chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "owrqwRmlk5",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.4chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "FcVuzITXwD",
+      "cleanLocalStorage": false,
+      "cleanSiteData": [
+        "PluginData"
+      ]
+    },
+    {
+      "expression": "*.account.compoundmedia.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "Thp_TtTJ8F"
+    },
+    {
+      "expression": "*.account.proton.me",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "h0QXK0Mpt"
+    },
+    {
+      "expression": "*.account.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "CS6xguBSx9"
+    },
+    {
+      "expression": "*.account.shodan.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "w5cOVPEqxq",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.addons.mozilla.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "4hrJHusNW9",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.admintools.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "X-ydfWvRYE",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.alibris.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Yalaf83kD2",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.api.ipt-hosting.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "2Swemr6oCa"
+    },
+    {
+      "expression": "*.app.drata.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "ILRpV1QFBT"
+    },
+    {
+      "expression": "*.app.linuxacademy.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "yBBUZ8pN8V",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.app.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "5XeObWOEJv",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.appfolio.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "o1sHuT_Iaq",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.appspot.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "1Dz7KB4NB"
+    },
+    {
+      "expression": "*.archive.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Kgc4zSiwFK",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.archlinux.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "5PxSoFhxT0",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.asciinema.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "ZnLlwbcpI"
+    },
+    {
+      "expression": "*.atlassian.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "d9wWNpQN6"
+    },
+    {
+      "expression": "*.atlassian.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "Cq3lNIHPq"
+    },
+    {
+      "expression": "*.atomicorp.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "pRqM20HW9H",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.audio.textfiles.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "v_yawSNDFB",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.auth0.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Q-Gc0KuI4W",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.aws.training",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "wmyuAS4C-6"
+    },
+    {
+      "expression": "*.ayahuasca.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "GrkzxA-48QH"
+    },
+    {
+      "expression": "*.betterworldbooks.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "xX5NHF66d",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "Cache"
+      ]
+    },
+    {
+      "expression": "*.bin.privacytools.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "DBJRCEDrXwl"
+    },
+    {
+      "expression": "*.bitchute.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "o0UYoFnZEAo"
+    },
+    {
+      "expression": "*.bluelight.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "qrbaGypi5ao"
+    },
+    {
+      "expression": "*.boards.420chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "PzeTMUNpR",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.boards.4chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "EmrTvVc4zhw",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.browsercheck.qualys.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "g1PsLntui9F",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ]
+    },
+    {
+      "expression": "*.censored.tv",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "mD7XttKGz5G"
+    },
+    {
+      "expression": "*.censys.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "GhsELSTczhT",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ]
+    },
+    {
+      "expression": "*.chat.tripsit.me",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "jY4pG7FPB_x"
+    },
+    {
+      "expression": "*.citizenlab.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "jnbfkSciMrd",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.clienttest.ssllabs.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "8f7hWlLm6Tw",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.coinbase.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "CPUPfegUEVE"
+    },
+    {
+      "expression": "*.coinpayment.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "679w3Hf2M8h"
+    },
+    {
+      "expression": "*.coinpayments.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "18Q-1ITD6_e"
+    },
+    {
+      "expression": "*.compoundmedia.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "c-cQKr6IO"
+    },
+    {
+      "expression": "*.cromwell-intl.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "7LybDzea00m",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ]
+    },
+    {
+      "expression": "*.defcon.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "461NE5IXcxM",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.developer.mozilla.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "-ZZRFYGdvU4"
+    },
+    {
+      "expression": "*.developers.redhat.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "0jTllURya"
+    },
+    {
+      "expression": "*.digital-forensics.sans.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "OXIlh5uS_bg",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.discussions.qualys.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "q1P3CVpoqQy",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.dmt-nexus.me",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "eewd-869pTi"
+    },
+    {
+      "expression": "*.dnsdumpster.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "lLJ85xlhb5_"
+    },
+    {
+      "expression": "*.docs.atomicorp.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "ig0VYpS8y"
+    },
+    {
+      "expression": "*.docs.gitlab.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "dzIwtn4hS1L",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.docs.joinmastodon.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "rz5lExpOnd5"
+    },
+    {
+      "expression": "*.docs.sciencelogic.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "wOjVO0O-t"
+    },
+    {
+      "expression": "*.drata.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "jChZTmAri"
+    },
+    {
+      "expression": "*.dropbox.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "1WOxSW5Gctg",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.element.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "xlVnpFJD-"
+    },
+    {
+      "expression": "*.ems.element.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "YRsCj9ANg"
+    },
+    {
+      "expression": "*.en.wikibooks.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "XHGBdtTuQPT",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.en.wikipedia.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "B0Ecnp8xa9i"
+    },
+    {
+      "expression": "*.filterlists.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "iLd4pBdg2hG",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.forum.defcon.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "-Zjdu8r3HZN",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.forum.privacytools.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "enpUuBeiNA8",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.forum.rizon.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "LXI4BrrJQzv",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.forum.vivaldi.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "NNXA4pOAFZF",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.forums.atomicorp.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "v_Joq5ddGW"
+    },
+    {
+      "expression": "*.forums.ayahuasca.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "r9tlfYmLVNw"
+    },
+    {
+      "expression": "*.forums.openvpn.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "eOFwukxwcSI",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.fpmofames.appfolio.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "UfeOwYrVXT4",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.freenode.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "4O-Ilznlq3B",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.freespeechtv-prod.appspot.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "D_8JUk6ESB"
+    },
+    {
+      "expression": "*.gettr.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "5JCwB8liT"
+    },
+    {
+      "expression": "*.gist.githubusercontent.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "ZactysiYr0D"
+    },
+    {
+      "expression": "*.gitbooks.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "MKFFEj9Gm",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.github.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "TrPAXRIrAdS"
+    },
+    {
+      "expression": "*.github.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "aWC2f82yUD6"
+    },
+    {
+      "expression": "*.githubusercontent.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "K7dbzKyUgIn"
+    },
+    {
+      "expression": "*.gitlab.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "K2ieHoUitkL",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.gm.monitormycloud.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "B_a-WNSeu"
+    },
+    {
+      "expression": "*.hackertarget.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "kaNwjqvoluL",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.help.newegg.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "SbAy4lzeoqt",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.hio1.monitormycloud.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "CHM1ONzn7"
+    },
+    {
+      "expression": "*.hstspreload.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "xVmN_z2_Sn9",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.i2pforum.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "jiOrws2wCA3"
+    },
+    {
+      "expression": "*.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Vuf8e-djpwS",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.icsadvanced.tsheets.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "mvnF9f-xWTz",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.id.atlassian.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "Y1-FtLJr6"
+    },
+    {
+      "expression": "*.id.element.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "BfEVhO04d"
+    },
+    {
+      "expression": "*.idp.sans.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "BsboFWsxLgP"
+    },
+    {
+      "expression": "*.indeed.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "RtWsplcj4SU"
+    },
+    {
+      "expression": "*.infowars.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Qc19EnhHdAu",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.instructables.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "7kbaCOVNmhE"
+    },
+    {
+      "expression": "*.interactive.linuxacademy.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "KpQwsHEPXNB",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.ipam.panels.opus.int",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "zAWZtqbuQD"
+    },
+    {
+      "expression": "*.ipduh.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "1EX66FD_-in",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.ipleak.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "g9J2_ZJvB2G",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.ipt-hosting.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "6mGNymUX8qj"
+    },
+    {
+      "expression": "*.iptorrents.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "yZiPHnJZp-1",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.jit.si",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "7bB_-euSUp1"
+    },
+    {
+      "expression": "*.jitsi.github.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "CUBn-IvQ5dp"
+    },
+    {
+      "expression": "*.jitsi.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "ci8faxKq1Oz"
+    },
+    {
+      "expression": "*.jitsi.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "sOQAnMVR-yu",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.joinmastodon.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "TP73ukMH8ER"
+    },
+    {
+      "expression": "*.jupiterbroadcasting.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "UBCwz9eceGD",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.kicksecure.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "WeZ-HEJTR"
+    },
+    {
+      "expression": "*.kiwiirc.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "lN_Us3d4Gwo",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.lacausers.auth0.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "xO4lN3ti_1v",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.lastpass.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "CBNBjvQqBDF",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.lineageos.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "4iS1yul9jmt",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.linkedin.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "pmZjuRyFyvc",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.linksys.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Aby8y-JWEXb",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.linux-kvm.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "lvpcHngwdU"
+    },
+    {
+      "expression": "*.linux.pizza",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "wzCXiGSJ5rB"
+    },
+    {
+      "expression": "*.linuxacademy.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "hdvqJrWBDs4",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.linuxquestions.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "_ohE0TqJD9s"
+    },
+    {
+      "expression": "*.lite.qwant.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "7eocxYVWh8F",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.livestream.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "0cv8oz8xITd",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.login.microsoftonline.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "NADZhwKo3wf",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.lpi.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "tTn31-e0Qpr",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.lpimarketplace.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "HaLdU_Yu898",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.mail.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "XQQql2xSQKE",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.meet.jit.si",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "lTyUANUR81U"
+    },
+    {
+      "expression": "*.moderated.jitsi.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "4dWoN4zfG3l"
+    },
+    {
+      "expression": "*.monitormycloud.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "6VLNLMWGV"
+    },
+    {
+      "expression": "*.mozilla.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "7DC7x2-7iNs",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.my.veridiancu.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "QFm_X--Ph6j"
+    },
+    {
+      "expression": "*.newegg.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "gxfOYL6mVfS",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.nms.opusinteractive.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "rc-VCRAg5"
+    },
+    {
+      "expression": "*.opennic.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "9J3yQLsslYR"
+    },
+    {
+      "expression": "*.openvpn.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "onXxkB53PYl",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.opus.int",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "QOceuiwiI"
+    },
+    {
+      "expression": "*.opusi.atlassian.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "sNKoqwy6nO"
+    },
+    {
+      "expression": "*.opusinteractive.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "GgZx9yJLv"
+    },
+    {
+      "expression": "*.opusinteractive.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "pzdiZ8_Tn"
+    },
+    {
+      "expression": "*.osint.team",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "GTF5VoTCI6C",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.ossec.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "JMpZANfQ_"
+    },
+    {
+      "expression": "*.patreon.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Kl2sVUIr8z9",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.paypal.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "1Dz29v5g4rl",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.pdx-infosec.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "Bh5MVGaOt"
+    },
+    {
+      "expression": "*.phone.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "gHWIslFldWq",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.prism-break.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "7A6Uu1ScO6q",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.privacytools.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "lv9IyX1Miqn",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.proton.me",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "8lNVGsuFF"
+    },
+    {
+      "expression": "*.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "8wfFqO8ceen",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.purebulk.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "b1ROxoRjnf"
+    },
+    {
+      "expression": "*.puri.sm",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "SgEXiXaVr8_",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.qchat.rizon.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "9har-plK7b4",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.qualys.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "wEioKXcT-dk",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.qwant.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "3eEpjy9L9GP",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.readthedocs.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "tv6rpaLVLAm"
+    },
+    {
+      "expression": "*.reddit.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "NmUx4fwPXz"
+    },
+    {
+      "expression": "*.redhat.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "ASUVW_sgY"
+    },
+    {
+      "expression": "*.report.opennic.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "3bfhoZ4ayHt"
+    },
+    {
+      "expression": "*.reversephonelookup.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "eoNC5cl5uhP",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.riseup.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "fe1srru1wug",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.rizon.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Tid9Prw7EtU",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.robtex.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "fGNixf0Vz1c",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.sans.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "jNHy2luxbdq",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.scalar.vector.im",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "blP-F9nyz"
+    },
+    {
+      "expression": "*.scans.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "PdgWICiAISG",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.sciencelogic.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "0zbBddgQo"
+    },
+    {
+      "expression": "*.search.privacytools.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "4OviAvdQkqf",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.searx.me",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "_7qkDcnK2ar",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.secdsm.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "PmHXjNdJz5w",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.secure.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "jpSrHyk5lti",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.secure.indeed.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "8luXqOk86rA"
+    },
+    {
+      "expression": "*.shodan.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Hn5v2WjzKxW",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.shroomery.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "0ABVGryiviE"
+    },
+    {
+      "expression": "*.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ppYKxNwCqcv",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.social.linux.pizza",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "s5jlCxmGkQF"
+    },
+    {
+      "expression": "*.ssllabs.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "0sx02LRk2Br",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.stackexchange.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "aFLYO72jl2K",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.stackoverflow.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "7Yc0SjOy4F"
+    },
+    {
+      "expression": "*.standupmedia.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "tV25-DjJRci"
+    },
+    {
+      "expression": "*.startpage.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "JhjWtrATH1Y",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.swansonvitamins.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "yOc_mQ_pp1D",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.textfiles.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "NFR8AVe897_",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.ting.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "D8TxGiYt-hn",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.tor.stackexchange.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "TAM-USYvXwM",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.tripsit.me",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "plvvql9Vpp6"
+    },
+    {
+      "expression": "*.tsheets.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "2h3IWj19GeN",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.twitter.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "L3iZY3FkJse",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.ui.linksys.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "JgEVtyhhOvk",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.university.atlassian.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "baQJ-tdZGN"
+    },
+    {
+      "expression": "*.up12.bitchute.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "qYV2IPl4Zw0"
+    },
+    {
+      "expression": "*.up13.bitchute.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "9l8k5bI5FGn"
+    },
+    {
+      "expression": "*.va1.monitormycloud.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "XEpTioSEW"
+    },
+    {
+      "expression": "*.vcsa20.hio1.opus.int",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Hn9xHFuNi"
+    },
+    {
+      "expression": "*.vector.im",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "VxQsbSBP3"
+    },
+    {
+      "expression": "*.veeam.opusinteractive.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "Z2jmocCLkT"
+    },
+    {
+      "expression": "*.veridiancu.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Y6Pu3x3R4Ip",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.vivaldi.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "2IYuHpT8PYM",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.vivaldi.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "jBDL8OFxPo_",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.vsz.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "mLtWqJ75yas",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.wavget.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "nw-TSH2Dwf2",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.web.archive.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "acYQFNKh0Vu",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.webchat.freenode.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "BD34odeqhrR",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.whatsmyip.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "PnuKYdAGTTy",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.whonix.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "qz66rYz0Blh"
+    },
+    {
+      "expression": "*.wiki.archlinux.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "wrJuKFNE0yf",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.wiki.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "7qXhnu2UMiq",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.wiki.opennic.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "V6dYsnTe1ys"
+    },
+    {
+      "expression": "*.wikibooks.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "EWgxZbIXqIz",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.wikipedia.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "F8XIpdtlCI1"
+    },
+    {
+      "expression": "*.wilderssecurity.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "WMLltZKWPeu"
+    },
+    {
+      "expression": "*.workmarket.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "yXiE5dUypx6",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.write.as",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "rD6TvZicUZ4",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.ziprecruiter.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "eieNJT9vUZA"
+    },
+    {
+      "expression": "*.zoom.us",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "gCyBVAEoUMw",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.0.20.4",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "cYSPzRM3ltX",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.1.0.227",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "mEChCGmICj2",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.129.233.110",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "tpfzYPMej6p",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.131.161.10",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "dHtK4qaa1cP",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.131.161.201",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "XZcVpZFl3gj",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.131.161.5",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "jYa1E1yPvEZ",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.131.97.141",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "WeAK2NJE8Q8",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.133.129.2",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "KrOsXRUSGPM",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.133.129.3",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "csH6jkf2Htg",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.133.33.50",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "HTIqhZrf1Bl",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.134.32.130",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "SX6JFhpQnT8",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.134.32.132",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "hmWqur8DRSj",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.134.32.61",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "y7AkD_dQdKk",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.134.97.110",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "SLb07u3-t5t",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.161.96.60",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "rbV5CkGNtlL",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.166.1.211",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "tjPaD1ggPjD",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.166.33.12",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "kwOkHC62uty",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.166.33.42",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "SA3uAzOqJ09",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.177.194.10",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "o39Pm5WXXKJ",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.177.194.12",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "voeiM27PT7M",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.179.225.195",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "eTCSe-6CErA",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.195.161.42",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "-qaCoOa8wlT",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.195.161.50",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "lXK1zQq9dQM",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.196.223.21",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "x-IeiCQeMSW",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.200.0.83",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "zog2j3RekFA",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.202.1.100",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "utH2kR4UWpB",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.202.1.31",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "2H7GVAc1ZCs",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.203.1.23",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "sKrb4Pr8kDh",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.203.1.24",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ieL0xG7YMR8",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "10.5.28.3",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "s8TgQdiRCoR",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "192.168.1.1",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "ie_4QsRi211"
+    },
+    {
+      "expression": "192.168.88.1",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "gyAJwsKzLuB"
+    },
+    {
+      "expression": "335a6427-5249-4dc8-a6b7-d5481e208d0e",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "93zUzJ1Dh"
+    },
+    {
+      "expression": "4chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "cl6FfmiYjby",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "account.compoundmedia.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "iCycN8GLp"
+    },
+    {
+      "expression": "account.proton.me",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "Oe5yN2uqF"
+    },
+    {
+      "expression": "account.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Rx8ZsXD6ke5"
+    },
+    {
+      "expression": "account.shodan.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "1pbxePJRyg1",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "addons.mozilla.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "5hr8VaAhtKx",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "admintools.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "zIhWEYiAu3H",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "alibris.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "oizVMOSAqei",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "api.ipt-hosting.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "mBsXDHG1Z6E"
+    },
+    {
+      "expression": "app.drata.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "AISPFpmqN"
+    },
+    {
+      "expression": "app.linuxacademy.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "V1GXMjnWrPy",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "app.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "9nmY-r_KgxW",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "archive.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "whgvSheGncr",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "asciinema.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "d6nMH8nxb"
+    },
+    {
+      "expression": "atomicorp.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "wdCOCdoXTgX",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "audio.textfiles.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "-ZUFmuVJYTm",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "aws.training",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "vtL1YFNjH"
+    },
+    {
+      "expression": "b8c63602-c251-4147-9e50-a5bc3e694657",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "I9O_JMhupEO",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "betterworldbooks.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "nAyR6i3F9",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "bin.privacytools.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "FB_7oAIVwym"
+    },
+    {
+      "expression": "bitchute.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "9KO7fSkBPEw"
+    },
+    {
+      "expression": "bluelight.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "kHuEr67Vthv"
+    },
+    {
+      "expression": "boards.420chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "DVvKQQCK-tG",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "boards.4chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "xzOxXfg9PG_",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "boards.4channel.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "N3uBHqtvMIC",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "browsercheck.qualys.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "j8UBaaGMhRb",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "c3d8a09a-7315-4de5-9c09-9dd3aa47c1b5",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "EdqbZQLEKYq",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "censored.tv",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "4b2-282UgR_"
+    },
+    {
+      "expression": "censys.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "OkU9dhz5jvG",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "chat.tripsit.me",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "KSO5i4bEidq"
+    },
+    {
+      "expression": "citizenlab.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "1ES6tKVsxsr",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "clienttest.ssllabs.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "-GXHCyINY2L",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "coinbase.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "TeiVexYt7Hu"
+    },
+    {
+      "expression": "coinpayment.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "91Dxc_P13NT"
+    },
+    {
+      "expression": "coinpayments.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "JuHkYTqTYw8"
+    },
+    {
+      "expression": "convertcsv.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "cMzS3mx3Rfw",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "cromwell-intl.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "mUOZnO2Ysl8",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "developer.mozilla.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "NVUNL7CJ1xp"
+    },
+    {
+      "expression": "digital-forensics.sans.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "LhARO5R__10",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "discussions.qualys.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "w2Y3CsaJ9Ha",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "dmt-nexus.me",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "si7sWnmaTcb"
+    },
+    {
+      "expression": "dnsdumpster.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "U6TrIj5oCb_"
+    },
+    {
+      "expression": "docs.atomicorp.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "h8u3vL170"
+    },
+    {
+      "expression": "docs.gitlab.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "jSIXHD3MWZ1",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "docs.joinmastodon.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "jNpFr4Z4OT5"
+    },
+    {
+      "expression": "docs.sciencelogic.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "UwUVRZAohS"
+    },
+    {
+      "expression": "dropbox.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Er02SefKXw8",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "element.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "wvkq-FvLw"
+    },
+    {
+      "expression": "ems.element.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "oDN1JAdO-"
+    },
+    {
+      "expression": "en.wikibooks.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "xeA5lDIKww4",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "en.wikipedia.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "ARkkkkgqfPr"
+    },
+    {
+      "expression": "filterlists.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "IFgxKHi6bgJ",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "forum.defcon.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "bHwVERLvQjV",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "forum.privacytools.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "l0nW8u-72lJ",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "forum.rizon.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "eSom8bsp644",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "forum.vivaldi.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "3DMYjbXyKOO",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "forums.atomicorp.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "S_dGfexL7"
+    },
+    {
+      "expression": "forums.ayahuasca.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "YlHcCMs26DC"
+    },
+    {
+      "expression": "forums.openvpn.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "nFz26mI7-Vh",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "fpmofames.appfolio.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "w8vqBnq1xwT",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "freespeechtv-prod.appspot.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "5cyfY9_IT"
+    },
+    {
+      "expression": "gettr.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "BuchzZEbc"
+    },
+    {
+      "expression": "gist.githubusercontent.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "_kVUijhlv6W"
+    },
+    {
+      "expression": "github.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "08lRi53Z0sO"
+    },
+    {
+      "expression": "gitlab.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "1NVVXtK0zUB",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "gm.monitormycloud.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "foqlQcxF_M"
+    },
+    {
+      "expression": "hackertarget.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "31kIOt157fR",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "help.newegg.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "pIxNiXLJS4J",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "hio1.monitormycloud.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "adoqoYkl4"
+    },
+    {
+      "expression": "hstspreload.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "97kp4nVnizr",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "i2pforum.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "mZqn0xow--I"
+    },
+    {
+      "expression": "icsadvanced.tsheets.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "NqgEyExqjvH",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "id.atlassian.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "vi4WJuIWfI"
+    },
+    {
+      "expression": "id.element.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "2KMS7O8D0"
+    },
+    {
+      "expression": "idp.sans.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "MJtB_s9l0UO"
+    },
+    {
+      "expression": "infowars.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "HLSriQNhT9P",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "instructables.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "2OOHben63Ba"
+    },
+    {
+      "expression": "ipam.panels.opus.int",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "29f4taMr5"
+    },
+    {
+      "expression": "ipduh.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "EAQAYcqVxZt",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "ipleak.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "K3XoR7XHGMo",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "iptorrents.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "gMa8WML-MNw",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "jitsi.github.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "CVHamXbibVV"
+    },
+    {
+      "expression": "jitsi.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "8ufhC4D_eU6T",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "jupiterbroadcasting.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "3U9zmYkkg4zG",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "kicksecure.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "2GVQ9snpf"
+    },
+    {
+      "expression": "kiwiirc.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "TouCkekLswMZ",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "lacausers.auth0.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "oHxTmowUVYpI",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "lastpass.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "dM5BlD9Gi73I",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "lineageos.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "eEKPn9IickMp",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "linkedin.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "qMO8knkd48gw",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "linux-kvm.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "THN4Et3M-"
+    },
+    {
+      "expression": "linux-magazine.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "e9cUblZoT"
+    },
+    {
+      "expression": "linuxacademy.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "TDxjr3ZkAiEr",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "linuxquestions.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "D6RQVLNU6cn7"
+    },
+    {
+      "expression": "lite.qwant.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "W_KCI1CtJt2Z",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "livestream.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "isYITXfNlYAJ",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "lpi.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Xh7sUnQ3akQU",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "lpimarketplace.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "tsP6s3c76ZeZ",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "mail.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "BtGO_SAyBo24",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "meet.jit.si",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "xrSlO97pF5K_"
+    },
+    {
+      "expression": "moderated.jitsi.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "W2gUC3kz4JVy"
+    },
+    {
+      "expression": "my.veridiancu.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "k62C0cXLx40d"
+    },
+    {
+      "expression": "newegg.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "vMRF5ZjJgYlw",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "nms.opusinteractive.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Gaia50lG8"
+    },
+    {
+      "expression": "nsfwyoutube.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "euwQJR2szOmr",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "opusi.atlassian.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "GkjWcH9uE"
+    },
+    {
+      "expression": "osint.team",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "M0ocqdCnac8e",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "ossec.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "jzHUYASKN"
+    },
+    {
+      "expression": "patreon.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Y-j-SCOBEnbV",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "paypal.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "xkj1voMT-Z3w",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "pdx-infosec.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "3sNIH1NzM"
+    },
+    {
+      "expression": "phone.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "CW78YIIg8UJP",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "prism-break.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "B9kAu814QMmk",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "protonmail.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "ZSmyUP-xJ"
+    },
+    {
+      "expression": "purebulk.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "01G1_SzTX"
+    },
+    {
+      "expression": "puri.sm",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ctB1ttYfSxNP",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "qchat.rizon.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "NmZaT_UgY87p",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "qualys.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "qhdByjqcWds9",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "readthedocs.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "u5ouRzLfiauj"
+    },
+    {
+      "expression": "reddit.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "ZIxZPMLPO"
+    },
+    {
+      "expression": "report.opennic.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "j_QJUF0YTprK"
+    },
+    {
+      "expression": "riseup.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "e8WjK336BN9-",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "robtex.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "9PlIfU4b0c7q",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "sans.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "WsUVTDM0va4D",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "scalar.vector.im",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "u-I25XmxWy"
+    },
+    {
+      "expression": "scans.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Dxm0xyohGpJQ",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "search.privacytools.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "PLgX8TKys46e",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "searx.me",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "nt4bTKjP2x2t",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "secdsm.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "waYIZtzQX8p6",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "secure.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "VNeSUsx0v04U",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "secure.indeed.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "MsqGsbUjrZm4"
+    },
+    {
+      "expression": "shroomery.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "2VKE-NpUUuS-"
+    },
+    {
+      "expression": "signup.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "B2bElikFPfib",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "social.linux.pizza",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "5M6_IW2-i5AU"
+    },
+    {
+      "expression": "stackexchange.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "MhYb75ArL-sh",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "stackoverflow.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "CUBlx7iTa"
+    },
+    {
+      "expression": "standupmedia.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "feHVnL0eN-j0"
+    },
+    {
+      "expression": "startpage.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "5Av4hJgSf14F",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "swansonvitamins.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "M7C50SCcqv-k",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "ting.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "aeFJYX-_zFmP",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "tor.stackexchange.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "H5zSScOPSEC4",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "tripsit.me",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "JYG-8yMWQeLi"
+    },
+    {
+      "expression": "twitter.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "a7UMyjSOfUEN",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "ui.linksys.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Grs72Whivomv",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "university.atlassian.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "OTQS15e-K"
+    },
+    {
+      "expression": "up12.bitchute.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "EexhTBAFonYl"
+    },
+    {
+      "expression": "up13.bitchute.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "3v1-JlTnUynW"
+    },
+    {
+      "expression": "va1.monitormycloud.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "VPE0hgv8u"
+    },
+    {
+      "expression": "vcsa20.hio1.opus.int",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "-XXbU9Adi"
+    },
+    {
+      "expression": "veeam.opusinteractive.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "wErknChyZ"
+    },
+    {
+      "expression": "veridiancu.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "87W9p5nIN9U7",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "vivaldi.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "LB6ZyRI1Msoo",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "vsz.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "q33s7t_ZgsSL",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "wavget.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "vNnklyLKdgWT",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "web.archive.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "wVi6cPbTcGiZ",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "webchat.freenode.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "4AqEQ1n7OjyN",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "whatsmyip.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "QPWaY9dq11b5",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "whonix.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "COfWaPZlvTii"
+    },
+    {
+      "expression": "wiki.archlinux.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "30bw7kOyUFvx",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "wiki.ics-llc.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "sqd8pCk_0FAn",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "wiki.opennic.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "cbGD544TCr6C"
+    },
+    {
+      "expression": "wilderssecurity.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "BwBfRJiJuoNZ"
+    },
+    {
+      "expression": "workmarket.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "TdW-2me0aVfu",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "write.as",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "V68u7_8os3eN",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "youtube.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "J1r3WMzkh",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ]
+    },
+    {
+      "expression": "ziprecruiter.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "PluginData",
+        "ServiceWorkers",
+        "LocalStorage",
+        "IndexedDB"
+      ],
+      "cookieNames": [],
+      "id": "qjdiHZVa0omB"
+    },
+    {
+      "expression": "zoom.us",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "4K1t-6AxbPVb",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "_Default:GREY",
+      "listType": "GREY",
+      "storeId": "default",
+      "cleanSiteData": [
+        "IndexedDB",
+        "Cache",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "yzgEw_7nK",
+      "cleanAllCookies": false
+    },
+    {
+      "expression": ".cookielaw.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "5BglcUhvt",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": ".scorecardresearch.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "BsOhImZbj",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": ".smartadserver.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "XVVEnFrVT",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.account.activedirectory.windowsazure.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "u_AGQG2xMTvY",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.addthis.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Hr-yg210chh7",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ]
+    },
+    {
+      "expression": "*.amazon.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cookieNames": [],
+      "id": "GtzyYan63",
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.blackhat.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "j0Ht55hmWr2r",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.bleepingcomputer.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "AOoPlzK_s2yR",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.blog.scottlowe.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "BQwQkU2leL9m"
+    },
+    {
+      "expression": "*.convertcsv.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "84CyzGLVuK35",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ]
+    },
+    {
+      "expression": "*.devhints.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "wDDsipzAAEC5",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.dictionary.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "xv7ypusrY",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.dominos.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "TRWisEYhs",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.genius.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "p_XBsOe3gE",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.gfycat.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "GdFEELCdPp6F",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.ghacks.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "NVxQRLCQN",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.google.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "R2aZgBcS_",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.intporn.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "XrLCnQqA_",
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.ipn.paymentus.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "cxPCmj2pjHtr",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.microsoft.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "i1XV7H8tx",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.microsoftonline.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "MAGcUGHE6",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.moxie.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "xqITX4Lmw1jA"
+    },
+    {
+      "expression": "*.nootropicsexpert.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "3hrGwuwoPm3J"
+    },
+    {
+      "expression": "*.nsfwyoutube.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Tb0-k-q38_sw",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.office.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "25uuxBfeB",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.office365.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "BzGRTfMot",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.outlook.office365.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "NTRD6UMoX",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.paymentus.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "L49soAPwtu-R",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.peoplelookup.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "dH9FE5724TkV",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": true
+    },
+    {
+      "expression": "*.scottlowe.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "-4zFG_SwkIxU"
+    },
+    {
+      "expression": "*.technibble.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "PyhjYtCD4oWE",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.thesaurus.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "jsJi7wvzp",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "*.uncyclopedia.wikia.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cleanSiteData": [
+        "IndexedDB",
+        "Cache",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "idwS3O5Y6T"
+    },
+    {
+      "expression": "*.v1.intporn.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cleanSiteData": [
+        "IndexedDB",
+        "Cache",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "bcYFkiQWq-kI"
+    },
+    {
+      "expression": "*.wikia.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cleanSiteData": [
+        "IndexedDB",
+        "Cache",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "ObhIt0AfW"
+    },
+    {
+      "expression": "*.windowsazure.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "FXwFlTnwkg5Y",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": true
+    },
+    {
+      "expression": "*.xapax.gitbooks.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "luipn4v0Qqs2",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.youtube.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ST62IItbE9T_",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers",
+        "IndexedDB",
+        "Cache"
+      ]
+    },
+    {
+      "expression": "*.zoomeye.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "2JQ22A5MZMQr",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "account.activedirectory.windowsazure.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "djubgF9Ur2FS",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "addthis.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "OqegcHs06GQv",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": true
+    },
+    {
+      "expression": "adform.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ZjKg1e_5U2ZT",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": true
+    },
+    {
+      "expression": "adnxs.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "NePW0BrXfR_o",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": true
+    },
+    {
+      "expression": "adsrvr.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "wrfgosz3cO0H",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": true
+    },
+    {
+      "expression": "adsymptotic.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "7ifFS2FoNZgm",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": true
+    },
+    {
+      "expression": "advertising.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "JN3FlNgWi",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "amazon.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "gShJu_CvV",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "analytics.yahoo.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "JAas-i3RB",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "b1img.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "iaNCKTVLcwVk",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": true
+    },
+    {
+      "expression": "bat.bing.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "fb9XxT_mm",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "bing.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "VznfdP6g9",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "bizrate.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "UKkUvVKejFEO",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "blackhat.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "YuRXFt7jmErq",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "bleepingcomputer.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "4zlrlsGaWoBr",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "blog.scottlowe.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "xa0DUXowZY2p"
+    },
+    {
+      "expression": "connect.facebook.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Y9pe-LQzb",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "crsspxl.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ahvn_8yRxqQo",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "dictionary.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "TunJbzHBX",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "dlx.addthis.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "PNXABPw54",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "doubleclick.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "wzwS7HmUD",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "genius.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "3ZtrWDDiR0uU",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": true
+    },
+    {
+      "expression": "gfycat.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "b3m2Bp4NqOvc",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "ghacks.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "wKDjvLUx5dgG",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": true
+    },
+    {
+      "expression": "googleads.g.doubleclick.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "cReejwlTX",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "googlesyndication.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Z5wMnWjHk",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "gstatic.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "w3hU4zmmc",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "https://apis.google.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "i0Oh2Z2kY",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "https://c.amazon-adsystem.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Tugmo-_rp",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "https://cdn.adsafeprotected.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "lFRFsbsBz",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "https://googleads.g.doubleclick.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "TSNWvobs-",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "https://sb.scorecardresearch.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "93iZRn3h_",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "https://securepubads.g.doubleclick.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "nads0ZMjJ",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "https://ssl.google-analytics.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "fCQJiebzy",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "https://static.doubleclick.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "tDe_huG-E",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "https://www.googletagservices.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "NDZ6S4_Cv",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "ipn.paymentus.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "2Q95BXGZNiIM",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "krxd.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "TyRC4IEHJ67h",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": true
+    },
+    {
+      "expression": "login.microsoftonline.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "SkQkiOLD4",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "mail-ads.google.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "N-nUrqunj",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "microsoft.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "yUcawckel",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "moxie.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "GRRDIddIFCAk"
+    },
+    {
+      "expression": "nootropicsexpert.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "5VLkn9M6ysXS"
+    },
+    {
+      "expression": "office.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "IqtFqRIl9",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "outlook.office365.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "TPsF-0iCS",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "peoplelookup.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "iSO9B9nhU",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "products.office.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "3cyBPKFCR",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "reversephonelookup.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "4pPtOdO9z",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "rlcdn.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "z_TfZPg7mnU4",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "thesaurus.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "PyZyRnjIp",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "thrtle.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "iPshKYkdXa",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "uncyclopedia.wikia.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cleanSiteData": [
+        "IndexedDB",
+        "Cache",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "fbpQqCwgQ"
+    },
+    {
+      "expression": "v1.intporn.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cleanSiteData": [
+        "IndexedDB",
+        "Cache",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "zhzqMUOv3",
+      "cleanAllCookies": false
+    },
+    {
+      "expression": "xapax.gitbooks.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "fZGbZnNSxS",
+      "cleanLocalStorage": false,
+      "cleanSiteData": []
+    },
+    {
+      "expression": "yahoo.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "VgbbTVuUK",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": false
+    }
+  ],
+  "firefox-private": [
+    {
+      "expression": "_Default:WHITE",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "5ovlMRgQMj"
+    },
+    {
+      "expression": "*.4chan.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "_WEbH1RlwO",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.account.progressive.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "mDspI0Kv95",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.amazon.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "wkGgi2dM6e",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.archive.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "FKsEwbHVMF",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.boards.4chan.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "rzg6O_o0zo",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.cialug.slack.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "GAvjW4qMfp",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.convertcsv.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "0xU2-dpNpPn",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.discord.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "CLrsvC8Akj1",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.distrowatch.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "3MTpiHWamb0",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.dlive.tv",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "-PPncte5FkF",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.dmt-nexus.me",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "Lt76liun2Xq",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.dropbox.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "YoEuJN8MMCt",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.duckduckgo.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "zum9TVUUF5Y",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.ebay.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "d0ZmkMz2bXF",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.forums.whonix.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "1LYj0SCvs33",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.github.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "ZQhwHBCsupw",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.gitlab.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "C26GwXNA-xp",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.home.pearsonvue.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "0JImAjZQbQU",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.indeed.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "2e8cLN1hiQU",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.iowa.gov",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "PbVifST_Ltt",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.ipn.paymentus.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "Wxs2D48UpTm",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.iptorrents.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "IL4R8N9Wlzf",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.linkedin.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "ct-EvPSL-dj",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.list-manage.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "ri8HtCCkbg-",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.lpimarketplace.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "I9ra0rI_qQY",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.mail.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "e8f55WUwab4",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.maps.us5.list-manage.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "lAbCol_bljO",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.my.veridiancu.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "qi6WNC-kkS-",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.nootropicsdepot.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "FDKSLLLpWKr",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.paymentus.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "w8AQxkcbbjE",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.paypal.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "4igRKYA7Rv9",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.pearsonvue.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "IX3jXgir5vw",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.policyservicing.apps.progressive.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "_OmiBWiU0OI",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.progressive.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "TRWzvnnWjke",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "xfoW4LChSlj",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.purenootropics.net",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "ra8Fn6tkN5E",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.reddit.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "liGDek8pHD_",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.secdsm.slack.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "3BzaQ6i9Ls5",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.secure.indeed.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "kAQG27DYU42",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.shroomery.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "4wBQ9U17hS1",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.slack.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "UaVYesgrH19",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.startpage.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "uH8GzBt0zaF",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.swansonvitamins.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "apqIY4I3Nnr",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.twitter.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "BgRpuOQi-Vo",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.uiclaims.iwd.iowa.gov",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "iwIHHyvK8Mm",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.urbanthesaurus.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "LaB2sTer8QK",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.us.lpimarketplace.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "h3qIZM67kZe",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.veridiancu.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "eryzU2pKMKZ",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.whonix.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "elrxhi6a5G-",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.wiki.dmt-nexus.me",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "4iZdoFmhS2J",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.wsr.pearsonvue.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "RT9vKUSVhZm",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.zendoproject.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "t2ffuB5wyZ_",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "account.progressive.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "KwK9G8aJ_gg",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "amazon.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "1Y06gVOEj4l",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "archive.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "5r7Ea22x6Im",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "boards.4chan.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "CW3C5-Gt4VY",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "cialug.slack.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "TG3VsAmOhjP",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "convertcsv.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "ACnROJ9OoQ9",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "discord.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "T7_neiFoB0i",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "distrowatch.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "1jXU6x1HiU-",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "dlive.tv",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "ziun5LL8up5",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "dropbox.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "J5PhoriSHti",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "duckduckgo.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "NMtHEBIKim_",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "ebay.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "aS3Mw_cjt83",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "forums.whonix.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "ZcLYvKBlwyM",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "github.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "9YCL5A-t2P0",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "gitlab.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "vFYgwW6VImI",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "home.pearsonvue.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "nuDjxTwPiI3",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "indeed.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "yl4Rp-lxx02",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "ipn.paymentus.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "EFTZAszafk_",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "iptorrents.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "kDoDAEB-sdb",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "linkedin.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "ba4dQ3lSM3u",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "mail.protonmail.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "bFDxhzvsOLb",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "maps.us5.list-manage.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "uN0l9v6EgRO",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "my.veridiancu.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "dsrxxfNpXlZ",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "nootropicsdepot.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "B_qFg1F_MmI",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "paypal.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "uavj6XgUCc9",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "policyservicing.apps.progressive.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "QWVCSChonGu",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "purenootropics.net",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "5eXrSCmfQec",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "reddit.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "qnj_s3Ltk6T",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "secdsm.slack.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "HC8w-7XpxFP",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "secure.indeed.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "nQimqO5UsrG",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "shroomery.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "uNseY9H1WhA",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "startpage.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "WFomxuq2b6w",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "swansonvitamins.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "MHQZZSJi9xE",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "twitter.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "1nwwA76Uwae",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "uiclaims.iwd.iowa.gov",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "K38Rzz7gyDv",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "urbanthesaurus.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "78AaesDwYUh",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "us.lpimarketplace.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "Fc7P741XjKC",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "wiki.dmt-nexus.me",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "W4KW1zzuZNC",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "wsr.pearsonvue.com",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "RwZLlWUwpVE",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "zendoproject.org",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "a5Wazv1E2OI",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "_Default:GREY",
+      "listType": "GREY",
+      "storeId": "firefox-private",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "n7tTku1EAZE"
+    },
+    {
+      "expression": "*.instagram.com",
+      "listType": "GREY",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "3yyT1GE8I5l",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": true
+    },
+    {
+      "expression": "*.opensource.com",
+      "listType": "GREY",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "V3B1HHTSzri",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.pastebin.com",
+      "listType": "GREY",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "zHQadfIuUVH",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "*.retailmenot.com",
+      "listType": "GREY",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "WtrzlyhloEx",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "instagram.com",
+      "listType": "GREY",
+      "storeId": "firefox-private",
+      "cookieNames": [],
+      "id": "Sk-bkkEEPer",
+      "cleanLocalStorage": true,
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cleanAllCookies": true
+    },
+    {
+      "expression": "opensource.com",
+      "listType": "GREY",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "rflzbnvDfXD",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "pastebin.com",
+      "listType": "GREY",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "bVlFM-KuwDD",
+      "cleanSiteData": []
+    },
+    {
+      "expression": "retailmenot.com",
+      "listType": "GREY",
+      "storeId": "firefox-private",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "tL-LCb-lPZc",
+      "cleanSiteData": []
+    }
+  ]
+}
