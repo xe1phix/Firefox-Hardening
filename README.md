@@ -86,8 +86,7 @@ ___
 # Xe1phix uBlock - Backups
 ***
 
-https://gitlab.com/xe1phix/Firefox-Hardening/-/tree/master/Xe1phix-uBlock/CHEF-KOCH-%5BuBlock%5D-Backup
-https://gitlab.com/xe1phix/Firefox-Hardening/-/blob/master/Xe1phix-uBlock/Xe1phix-uBlock-Backup/Xe1phix-x__.CipherPunk.__x-uBlock-_Backup_-Firefox-_Rebuilt-Host-List_-Unstable-_Breaking-Cloudflare-DDoS-Scans_-__.v34.9.35.__-__.10-03-21.__-.txt
+
 
 ***
 # Grab CHEF-KOCH's uBlock & uMatrix Backups + Configs
