@@ -7,9 +7,14 @@
 *** 
 
 
-***
-# uBlock
-***
+
+<h1 align="center">
+    <sub>
+        <img  src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/icon38@2x.png" height="38" width="38">
+    </sub>
+uBlock Origin
+</h1>
+
 
 <p align="center">
     <a href="https://repology.org/project/ffext:ublock-origin/versions">
@@ -70,6 +75,19 @@ ___
 ***
  * Clone The User.js Project: `git clone https://github.com/pyllyukko/user.js`
 
+
+***
+# Xe1phix uBlock & uMatrix + Backups + Configs
+***
+
+
+
+***
+# Xe1phix uBlock - Backups
+***
+
+https://gitlab.com/xe1phix/Firefox-Hardening/-/tree/master/Xe1phix-uBlock/CHEF-KOCH-%5BuBlock%5D-Backup
+https://gitlab.com/xe1phix/Firefox-Hardening/-/blob/master/Xe1phix-uBlock/Xe1phix-uBlock-Backup/Xe1phix-x__.CipherPunk.__x-uBlock-_Backup_-Firefox-_Rebuilt-Host-List_-Unstable-_Breaking-Cloudflare-DDoS-Scans_-__.v34.9.35.__-__.10-03-21.__-.txt
 
 ***
 # Grab CHEF-KOCH's uBlock & uMatrix Backups + Configs
