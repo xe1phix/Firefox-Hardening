@@ -1,0 +1,99 @@
+
+
+##-=====================================-##
+##   [+]
+##-=====================================-##
+
+
+
+##-=====================================-##
+##   [+]
+##-=====================================-##
+https://gitlab.com/xe1phix/Firefox-Hardening/-/tree/master/Xe1phix-uBlock
+
+
+##-==================================-##
+##   [+] Xe1phix-[uBlock]-(Backup)
+##-==================================-##
+https://gitlab.com/xe1phix/Firefox-Hardening/-/tree/master/Xe1phix-uBlock/Xe1phix-%5BuBlock%5D-Backup
+https://gitlab.com/xe1phix/Firefox-Hardening/-/blob/master/Xe1phix-uBlock/Xe1phix-uBlock-Backup/Xe1phix-x__.CipherPunk.__x-uBlock-_Backup_-Firefox-_Rebuilt-Host-List_-Unstable-_Breaking-Cloudflare-DDoS-Scans_-__.v34.9.35.__-__.10-03-21.__-.txt
+
+
+
+##-=====================================-##
+##   [+] Xe1phix-[uBlock]-(Whitelist)
+##-=====================================-##
+https://gitlab.com/xe1phix/Firefox-Hardening/-/tree/master/Xe1phix-uBlock/Xe1phix-%5BuBlock%5D-(Whitelist)
+https://gitlab.com/xe1phix/Firefox-Hardening/-/blob/master/Xe1phix-uBlock/Xe1phix-%5BuBlock%5D-(Whitelist)/Xe1phix-x%5B%7B.CipherPunk.%7D%5Dx-uBlock-%5BWhitelist%5D-Firefox--%7B%5B.v38.9.24%5D%7D-%7B(.07-08-22.)%7D-.txt
+
+
+
+##-==========================================-##
+##   [+] Xe1phix-[uBlock]-(Static-Filters)
+##-==========================================-##
+https://gitlab.com/xe1phix/Firefox-Hardening/-/tree/master/Xe1phix-uBlock/Xe1phix-%5BuBlock%5D-Static-Filters
+https://gitlab.com/xe1phix/Firefox-Hardening/-/blob/master/Xe1phix-uBlock/Xe1phix-%5BuBlock%5D-Static-Filters/Xe1phix-x%5B%7B.CipherPunk.%7D%5Dx-uBlock-%5BStatic-Filters%5D-Firefox-%7B%5B.v38.4.52.%5D%7D-%7B(.07-16-22.)%7D-.txt
+
+
+##-==========================================-##
+##   [+] Xe1phix-[uBlock]-(Dynamic-Rules)
+##-==========================================-##
+https://gitlab.com/xe1phix/Firefox-Hardening/-/tree/master/Xe1phix-uBlock/Xe1phix-%5BuBlock%5D-Dynamic-Rules
+https://gitlab.com/xe1phix/Firefox-Hardening/-/blob/master/Xe1phix-uBlock/Xe1phix-%5BuBlock%5D-Dynamic-Rules/Xe1phix-x__.CipherPunk.__x-uBlock-_Dynamic-Filters_-Firefox-__.v38.4.52.__-__.07-16-22.__-.txt
+
+
+
+
+##-=======================================-##
+##   [+] CHEF-KOCH-[uBlock]-(Backup)
+##-=======================================-##
+https://gitlab.com/xe1phix/Firefox-Hardening/-/tree/master/Xe1phix-uBlock/CHEF-KOCH-%5BuBlock%5D-Backup
+https://gitlab.com/xe1phix/Firefox-Hardening/-/blob/master/Xe1phix-uBlock/CHEF-KOCH-%5BuBlock%5D-Backup/CHEF-KOCH-%5BuBlock%5D-Backup-2020-08-02_10.22.32.txt
+
+
+##-=======================================-##
+##   [+] CHEF-KOCH-[uBlock]-(Whitelist)
+##-=======================================-##
+https://gitlab.com/xe1phix/Firefox-Hardening/-/tree/master/Xe1phix-uBlock/CHEF-KOCH-%5BuBlock%5D-Whitelist
+https://gitlab.com/xe1phix/Firefox-Hardening/-/blob/master/Xe1phix-uBlock/CHEF-KOCH-%5BuBlock%5D-Whitelist/CHEF-KOCH-%5BuBlock%5D-Whitelist-(08-02-2020)_10.24.12.txt
+
+https://gitlab.com/xe1phix/Firefox-Hardening/-/blob/master/Xe1phix-uBlock/CHEF-KOCH-%5BuBlock%5D-Backup/CHEF-KOCH-%5BuBlock%5D-Backup-2020-08-02_10.22.32.txt
+
+
+
+##-=====================================-##
+##   [+] Xe1phix-[Cookie-AutoDelete]
+##-=====================================-##
+https://gitlab.com/xe1phix/Firefox-Hardening/-/tree/master/Xe1phix-Cookie-AutoDelete/Xe1phix-CookieAutoDelete-Expressions-Backup
+https://gitlab.com/xe1phix/Firefox-Hardening/-/blob/master/Xe1phix-Cookie-AutoDelete/Xe1phix-CookieAutoDelete-Expressions-Backup/Xe1phix-_CookieAutoDelete_-Firefox-_Expressions_-Backup-__.v34.9.24.__-__.06-22-22.__.json
+
+
+##-=====================================-##
+##   [+]
+##-=====================================-##
+https://gitlab.com/xe1phix/Firefox-Hardening/-/tree/master/Xe1phix-uMatrix
+https://gitlab.com/xe1phix/Firefox-Hardening/-/tree/master/Xe1phix-uMatrix/CHEF-KOCH-%5BuMatrix%5D-%7BBackup%7D
+
+
+##-=====================================-##
+##   [+] Xe1phix-[uMatrix]-{Backup}
+##-=====================================-##
+https://gitlab.com/xe1phix/Firefox-Hardening/-/tree/master/Xe1phix-uMatrix/Xe1phix-uMatrix-Backup
+https://gitlab.com/xe1phix/Firefox-Hardening/-/blob/master/Xe1phix-uMatrix/Xe1phix-uMatrix-Backup/Xe1phix-x__.CipherPunk.__x-uMatrix-_Converted_-_Backup_-Firefox-__.v34.9.35.__-__.10-03-21.__-.txt
+
+
+##-=====================================-##
+##   [+] CHEF-KOCH-[uMatrix]-{Backup}
+##-=====================================-##
+https://gitlab.com/xe1phix/Firefox-Hardening/-/tree/master/Xe1phix-uMatrix/CHEF-KOCH-%5BuMatrix%5D-%7BBackup%7D
+https://gitlab.com/xe1phix/Firefox-Hardening/-/blob/master/Xe1phix-uMatrix/CHEF-KOCH-%5BuMatrix%5D-%7BBackup%7D/CHEF-KOCH-UMatrix-Backup-Newest.txt
+https://gitlab.com/xe1phix/Firefox-Hardening/-/blob/master/Xe1phix-uMatrix/CHEF-KOCH-%5BuMatrix%5D-%7BBackup%7D/CHEF-KOCH-%5BuBlock%5D-Backup-2020-08-02_10.22.32.txt
+
+
+
+
+
+
+
+
+
